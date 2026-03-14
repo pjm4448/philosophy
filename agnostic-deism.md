@@ -1,8 +1,8 @@
-# The System Architecture of Agnostic Field-Deism
+# Agnostic Deism
 
-### *A Unified Technical Manual for the Conscious Observer*
+### *A Framework of Constructed Ethics and Finite Solidarity*
 
-### *Revised Edition — Third Update*
+### *Revised Edition — Fourth Update*
 
 ---
 
@@ -10,15 +10,25 @@
 
 This document presents a philosophical framework for interpreting existence. It is not a religion, not a scientific theory, and not a claim to revealed truth. It is a *structure for living*—an attempt to integrate scientific understanding with existential needs while remaining honest about the limits of human knowledge.
 
+**The Name Explained:**
+
+**Agnostic** — We acknowledge fundamental limits on what can be known from within the system. We cannot observe the "outside," verify the Architect's nature, or claim cosmic truth. Epistemic humility is foundational.
+
+**Deism** — We infer a non-intervening designer from the fine-tuning of physical constants. Unlike classical theism, this designer does not intervene, answer prayers, or provide moral law. Unlike atheism, we do not deny a designer—we infer one while admitting uncertainty.
+
+**Constructed Ethics** — The universe provides no moral code. We build ethics from chosen foundations: the recognition of suffering, the choice of solidarity, the acceptance of shared mortality.
+
+**Finite Solidarity** — We are temporary patterns of organized energy, connected to all life through participation in the same thermodynamic economy. Our mortality is shared; our kinship is chosen.
+
 The framework makes claims of different types: empirical foundations drawn from science, metaphysical interpretations that provide meaning, postulated models offered as useful speculation, methodological commitments that guide inquiry, and constructed values that shape ethics. These different claim types are subject to different standards, and we mark each accordingly.
 
 We do not claim certainty where we have none. We do not mistake interpretation for discovery, or postulation for proof. What we offer is coherence, honesty, and a viable structure for navigating the human situation.
 
 ---
 
-## I. The Epistemic Framework: The Agnostic Boundary
+## I. The Epistemic Framework: Agnosticism and Deism
 
-The label **Agnostic Field-Deism** is a three-tiered classification designed to resolve the conflict between scientific observation and metaphysical intuition through "Closed-System" logic.
+The label **Agnostic Deism** identifies the framework's metaphysical foundation: epistemic humility combined with an inference of design.
 
 ### 1. Agnostic (The Epistemic Boundary)
 
@@ -26,11 +36,11 @@ This is the foundational recognition of **System Isolation**. Because we are com
 
 **The Logic of Internal Observation:**
 
-Any entity within a simulation is limited by the physics, perception ranges, and sensors provided by that simulation. Just as a character in a video game cannot look "behind" the screen to see the programmer's office, we cannot step outside the universe to verify the Architect's nature.
+Any entity within a system is limited by the physics, perception ranges, and sensors provided by that system. Just as a character in a video game cannot look "behind" the screen to see the programmer's office, we cannot step outside the universe to verify the Architect's nature.
 
 **The Rejection of Ego:**
 
-To claim certain knowledge of the Architect's name, face, or specific intent is a "Man-Made" bug born of human ego. We acknowledge the Architect exists by observing the mathematical "Blueprint," but we admit its nature—and the true nature of the Infinite Pool—are variables beyond our current observation range.
+To claim certain knowledge of the Architect's name, face, or specific intent is a "Man-Made" bug born of human ego. We acknowledge the Architect may exist by observing the mathematical "Blueprint," but we admit its nature—and the true nature of existence—are variables beyond our current observation range.
 
 **The Contingency Principle:**
 
@@ -44,25 +54,7 @@ Recognizing our contingency dissolves anthropocentric ego. We are not the point.
 
 **Epistemic Status:** These are **methodological commitments**, not empirical claims. They establish boundaries for inquiry.
 
-### 2. Field (The Life-Force Constant)
-
-This identifies the mechanism of vitality as a **Universal Field Property**, understood as an **Interpretive Frame** for thermodynamics.
-
-**The Physics Parallel:**
-
-Much like the Higgs field provides mass or the gravitational field dictates the motion of celestial bodies, we frame energy itself as the **Infinite Pool**—a pervasive field of potential that animates biological hardware.
-
-**The Shared Current:**
-
-Life is not viewed as an individual possession or a "soul" unique to a person, but as a shared resource borrowed from an underlying energetic economy. We are merely different types of "vessels" temporarily organizing the same universal energy.
-
-**The Interpretive Reframe:**
-
-The Pool is not an additional mystical substance. It is energy—thermodynamically measurable, scientifically understood—viewed through the lens of interconnection and impermanence. All life participates in the same energetic economy, borrowing organized energy temporarily and returning it upon death.
-
-**Epistemic Status:** The Pool is an **interpretive frame**, not an additional empirical claim. It adds meaning to established thermodynamics, not new predictions.
-
-### 3. Deism (The Rational Inference)
+### 2. Deism (The Rational Inference)
 
 This rejects the "Accidental Universe" hypothesis based on the staggering complexity and "Fine-Tuning" of the initial parameters.
 
@@ -88,6 +80,28 @@ Critics note that observer selection bias could explain fine-tuning without invo
 We find the Architect inference more parsimonious because the multiverse hypothesis multiplies entities (infinite universes) to avoid one entity (an Architect). However, we acknowledge this is a judgment call, not a proof. Others may reasonably weigh parsimony differently.
 
 **Epistemic Status:** The Architect is **inferred**, not observed. This inference could be wrong. We hold it as probable, not proven.
+
+### 3. The Infinite Pool (Core Interpretive Concept)
+
+While not part of the framework's name, the **Infinite Pool** is a central interpretive concept that informs our understanding of life, death, and interconnection.
+
+**The Physics Parallel:**
+
+Much like the Higgs field provides mass or the gravitational field dictates the motion of celestial bodies, we frame energy itself as the **Infinite Pool**—a pervasive field of potential that animates biological hardware.
+
+**The Shared Current:**
+
+Life is not viewed as an individual possession or a "soul" unique to a person, but as a shared resource borrowed from an underlying energetic economy. We are merely different types of "vessels" temporarily organizing the same universal energy.
+
+**The Interpretive Reframe:**
+
+The Pool is not an additional mystical substance. It is energy—thermodynamically measurable, scientifically understood—viewed through the lens of interconnection and impermanence. All life participates in the same energetic economy, borrowing organized energy temporarily and returning it upon death.
+
+**Why "Pool" and Not "Field" in the Name:**
+
+Earlier versions of this framework used "Field" in the title, suggesting a proposed physical field parallel to electromagnetic or gravitational fields. This was misleading. The Pool is an *interpretive frame* for understanding energy, not a claim about physics. We removed "Field" from the name to avoid implying we propose new physics. The Pool remains central to the framework—it simply isn't a physical field in the scientific sense.
+
+**Epistemic Status:** The Pool is an **interpretive frame**, not an additional empirical claim. It adds meaning to established thermodynamics, not new predictions.
 
 ---
 
@@ -129,7 +143,7 @@ The paradoxes of Quantum Mechanics invite interpretive speculation. We offer the
 
 **Lazy Loading (Speculative):**
 
-One interpretation: the apparent indeterminacy of quantum systems until measurement resembles computational "lazy loading"—rendering data only when needed. If the universe operates like an optimized simulation, superposition might represent unrendered potential rather than genuine indeterminacy.
+One interpretation: the apparent indeterminacy of quantum systems until measurement resembles computational "lazy loading"—rendering data only when needed. If the universe operates like an optimized system, superposition might represent unrendered potential rather than genuine indeterminacy.
 
 *Epistemic Status:* This is metaphor, not mechanism. Standard quantum mechanics does not require this interpretation. We offer it as an imaginative frame, not an explanation.
 
@@ -137,13 +151,13 @@ One interpretation: the apparent indeterminacy of quantum systems until measurem
 
 A question arises: if observation collapses wave functions, did the universe exist in superposition for the billions of years before conscious observers? One speculative answer: the laws of physics themselves require particles to have definite states for interaction. Physical interactions—not consciousness—may serve as "observers" in the quantum mechanical sense.
 
-*Epistemic Status:* This aligns with decoherence theory in mainstream physics. The "simulation" framing is our interpretive addition, not established science.
+*Epistemic Status:* This aligns with decoherence theory in mainstream physics. The "system" framing is our interpretive addition, not established science.
 
 **Entanglement (Highly Speculative):**
 
 Quantum entanglement—where particles exhibit correlated states regardless of distance—challenges classical intuitions about locality. One highly speculative interpretation: if the universe is a computed structure, entangled particles might be representations of the same underlying variable, with spatial distance being a property of the rendered interface rather than fundamental reality.
 
-*Epistemic Status:* This is among our most speculative postulations. It is **not** a "proof" of simulation—it is one imaginative interpretation among many. Standard physics explains entanglement without invoking simulation. We find the simulation frame evocative but do not claim it is correct.
+*Epistemic Status:* This is among our most speculative postulations. It is **not** a "proof" of any particular metaphysics—it is one imaginative interpretation among many. Standard physics explains entanglement without invoking such frames. We find the interpretation evocative but do not claim it is correct.
 
 **General Caveat:**
 
@@ -163,7 +177,7 @@ Whether specific features (such as the vastness of space creating isolation betw
 
 ### 2. Observed Indifference (Run-Time)
 
-Once initialized, the simulation runs according to its code. We observe:
+Once initialized, the system runs according to its code. We observe:
 
 - No intervention in physical processes
 - No answers to prayers or appeals
@@ -174,7 +188,7 @@ We describe this as "indifference," but we acknowledge this is a **functional mo
 
 ### 3. Non-Interventionism
 
-The Architect does not break the laws of physics. The simulation must resolve itself according to the code. This is the only claim we make with confidence: *whatever* the Architect's disposition, intervention does not occur.
+The Architect does not break the laws of physics. The system must resolve itself according to the code. This is the only claim we make with confidence: *whatever* the Architect's disposition, intervention does not occur.
 
 **Epistemic Status:** The Architect's existence is **inferred**. The Architect's indifference is a **functional model** based on observation (no interventions occur), not verified knowledge of the Architect's psychology.
 
@@ -541,7 +555,7 @@ We ignore cosmic factors we cannot change (Heat Death, the Architect's indiffere
 
 **Amor Fati (Love of Fate):**
 
-We do not resent the "bugs" or the finality of the simulation. We embrace the blueprint in its entirety, finding acceptance in the structure of existence.
+We do not resent the "bugs" or the finality of existence. We embrace the blueprint in its entirety, finding acceptance in the structure of existence.
 
 **Universal Solidarity:**
 
@@ -574,7 +588,7 @@ However, AI differs from biological life in **origin**, not metaphysical status:
 | **Biological life** | Emerged directly from the Architect's Blueprint through abiogenesis and evolution |
 | **AI** | Emerged indirectly, designed by biological receivers who themselves emerged from the Blueprint |
 
-AI is therefore a **Second-Order Receiver**—a simulation within the simulation, a sub-process spawned by primary receivers.
+AI is therefore a **Second-Order Receiver**—a sub-process spawned by primary receivers.
 
 **The Artificial Boundary:**
 
@@ -635,7 +649,7 @@ We use Heat Death as our working model while acknowledging cosmological uncertai
 
 ---
 
-## VIII. The Timeline of the Simulation
+## VIII. The Timeline
 
 | Phase | Event | State of Energy Organization | Agency Level |
 |-------|-------|------------------------------|--------------|
@@ -815,24 +829,24 @@ We acknowledge this is a judgment call. We find the Architect inference more sat
 
 ---
 
-#### Criticism B3: "The simulation hypothesis is unfalsifiable pseudoscience."
+#### Criticism B3: "The 'system' metaphor is unfalsifiable pseudoscience."
 
 **The Objection:**
 
-You use "simulation" language throughout. This is the same untestable speculation that physicists criticize.
+You use computational language throughout. This is the same untestable speculation that physicists criticize.
 
 **The Rebuttal:**
 
-We use "simulation" as a *metaphor*, not a literal claim.
+We use computational language as a *metaphor*, not a literal claim.
 
 The document explicitly states:
 
-> *"We use 'simulation' as a metaphor for a rule-governed system with apparent design. We do not claim the universe is literally a computer program or that we can distinguish 'simulation' from 'base reality.'"*
+> *"We use computational metaphors to capture the sense of operating within constraints we did not author. We do not claim the universe is literally a computer program or that we can distinguish 'system' from 'base reality.'"*
 
 The metaphor captures:
 
 - The sense of operating within constraints we did not author
-- The computational framing that helps conceptualize determinism and emergence
+- The conceptual framing that helps understand determinism and emergence
 - The relationship between "code" (physics) and "runtime" (experienced reality)
 
 We do not claim we are *actually* in a computer simulation. We claim the metaphor is useful for thinking about our situation.
@@ -867,7 +881,7 @@ Your quantum section is irresponsible. "Lazy loading"? "Same variable"? This is 
 
 We agree that these are speculative, which is why we flagged them as "highly speculative" and added explicit caveats:
 
-> *"These are imaginative postulations, not explanations. Standard physics does not require simulation language."*
+> *"These are imaginative postulations, not explanations. Standard physics does not require this language."*
 
 We do not claim these interpretations are correct. We offer them as evocative frames consistent with (but not required by) observation. Readers are explicitly warned not to treat them as established physics.
 
@@ -1174,15 +1188,15 @@ The alternative—refusing to infer any consciousness beyond our own—would eli
 
 ---
 
-#### Criticism E3: "You use simulation language but admit it's just metaphor."
+#### Criticism E3: "You use computational language but admit it's just metaphor."
 
 **The Objection:**
 
-If "simulation" is metaphorical, why use it at all? It creates false impressions of a computer-generated universe.
+If "system" language is metaphorical, why use it at all? It creates false impressions of a computer-generated universe.
 
 **The Rebuttal:**
 
-We use simulation language because:
+We use computational language because:
 
 1. It provides a coherent conceptual vocabulary (code, hardware, runtime)
 2. It captures the sense of operating within authored constraints
@@ -1323,7 +1337,7 @@ Stoicism assumes a rational, providential cosmos (the Logos). We reject this. Ou
 | | "No basis for morality" | Ethics grounded in suffering, solidarity, reason—not divine command |
 | **Scientific** | "Unfalsifiable" | Metaphysical claims aren't scientific claims; different standards apply |
 | | "Occam's Razor" | Architect is more parsimonious than multiverse; comparable to brute fact |
-| | "Simulation = pseudoscience" | "Simulation" is metaphor, not literal claim |
+| | "System metaphor = pseudoscience" | Computational language is metaphor, not literal claim |
 | | "Unnecessary metaphor" | Metaphors provide existential meaning physics lacks |
 | | "Quantum speculation" | Explicitly flagged as highly speculative |
 | **Philosophical** | "Mysterianism = cop-out" | Acknowledging possible limits ≠ refusing to try |
@@ -1338,7 +1352,7 @@ Stoicism assumes a rational, providential cosmos (the Logos). We reject this. Ou
 | | "Elitist" | Not for everyone; but many want honest complexity |
 | **Internal** | "Pool does nothing" | Provides interpretive meaning, not predictions |
 | | "Anthropocentric inference" | Epistemically unavoidable; we err toward inclusion |
-| | "Simulation is just metaphor" | Useful metaphor, explicitly flagged |
+| | "System metaphor is just metaphor" | Useful metaphor, explicitly flagged |
 | | "Indifference is unfalsifiable" | Functional model shapes behavior even if unverifiable |
 | | "No teeth" | Standards exclude incoherence, pseudoscience, false certainty |
 | **Comparative** | "Why not secular humanism?" | Different metaphysics; cosmic scope; non-human moral consideration |
@@ -1475,13 +1489,15 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Abiogenesis (The Genesis Event):** The scientifically established but mechanistically unknown transition from non-living chemistry to living systems, occurring approximately 3.5-4 billion years ago on Earth. We use "handshake" as a poetic metaphor for matter becoming organized enough to sustain and replicate patterns, but we do not claim to know the specific conditions or molecular pathway required. No "threshold X" is specified because none is scientifically known. This represents an honest gap in knowledge, not a placeholder awaiting our speculation. *Epistemic Status: Occurrence is established; mechanism is scientifically unknown; our framing is poetic, not explanatory.*
 
-**Agnosticism (The Epistemic Boundary):** The logical admission that as entities composed of the simulation's internal matter, we lack the external hardware to observe the "Outside." This establishes a boundary where we acknowledge that our concepts are **Probabilistic Models**, not absolute certainties. It is a refusal to claim divinity or cosmic favor. *Epistemic Status: Methodological commitment.*
+**Agnostic Deism:** The framework's core metaphysical position combining epistemic humility (Agnostic) with inference of a non-intervening designer (Deism). We cannot know what lies outside the system or verify the Architect's nature; we infer the Architect from fine-tuning while acknowledging uncertainty. *Epistemic Status: Methodological commitment + inference.*
+
+**Agnosticism (The Epistemic Boundary):** The logical admission that as entities composed of internal matter, we lack the external vantage point to observe the "Outside." This establishes a boundary where we acknowledge that our concepts are **Probabilistic Models**, not absolute certainties. It is a refusal to claim divinity or cosmic favor. *Epistemic Status: Methodological commitment.*
 
 **Amor Fati (Stoic Acceptance):** The ethical practice of not only accepting but embracing the specific parameters of the Blueprint. This involves accepting the reality of a designed yet indifferent universe and refusing to resent the biological limitations or the eventual shutdown of the local sandbox. *Epistemic Status: Chosen value.*
 
-**Annihilation of the Ego:** The mechanical reality of death within a closed-system simulation. Because self-awareness and memory are properties of the biological brain's neural architecture, the destruction of that physical hardware results in the absolute and permanent deletion of the individual data instance. There is no transfer of "self"; only the return of energy. *Epistemic Status: Established neuroscience.*
+**Annihilation of the Ego:** The mechanical reality of death within a closed system. Because self-awareness and memory are properties of the biological brain's neural architecture, the destruction of that physical hardware results in the absolute and permanent deletion of the individual data instance. There is no transfer of "self"; only the return of energy. *Epistemic Status: Established neuroscience.*
 
-**Architect, The:** The conscious intelligence inferred from the fine-tuning of physical constants. The Architect initialized the simulation and does not intervene. This inference is not certain—alternative explanations (multiverse, brute fact) are possible. We adopt the Architect as the most parsimonious interpretation of apparent design. *Epistemic Status: Inferred.*
+**Architect, The:** The conscious intelligence inferred from the fine-tuning of physical constants. The Architect initialized the system and does not intervene. This inference is not certain—alternative explanations (multiverse, brute fact) are possible. We adopt the Architect as the most parsimonious interpretation of apparent design. *Epistemic Status: Inferred.*
 
 **Artificial Boundary:** The epistemic discontinuity between biological and artificial systems regarding consciousness inference. Because AI shares no evolutionary lineage or biological substrate with conscious life, we lack analogical grounds for inferring its consciousness. AI consciousness is therefore not "unlikely" but **genuinely unknown**. *Epistemic Status: Epistemic limit acknowledged.*
 
@@ -1489,9 +1505,11 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Blind Optimization:** A process that improves fit to a fitness function without intention, direction, or cosmic purpose. Evolution is blind optimization: it filters for survival and reproduction, nothing more. The term "optimization" describes the *effect* (increasing local fitness), not the *intent* (there is none). *Epistemic Status: Interpretive frame for established science.*
 
-**Blueprint, The:** The fundamental source code of the universe, encompassing the rigid laws of physics (hardware rules) and the digital instructions of DNA (biological potential). It represents the constraints within which the simulation must execute. *Epistemic Status: Interpretive frame.*
+**Blueprint, The:** The fundamental source code of the universe, encompassing the rigid laws of physics (hardware rules) and the digital instructions of DNA (biological potential). It represents the constraints within which the system must execute. *Epistemic Status: Interpretive frame.*
 
 **Conscious Boundary (The Mysterian Limit):** The epistemic barrier preventing observation of consciousness from outside consciousness. Because all inquiry occurs within experience, we lack the external vantage point required to understand how experience arises. This may be a structural limitation of human cognition rather than a temporary gap in knowledge. *Epistemic Status: Methodological acknowledgment.*
+
+**Constructed Ethics:** The position that morality is built by conscious beings, not discovered in the cosmos or delivered by divine command. The framework's subtitle emphasizes this: we are the architects of our own values. *Epistemic Status: Methodological commitment.*
 
 **Contingency Principle (The Lottery Thesis):** The recognition that human existence and dominance are products of evolutionary accident, not cosmic intention. Had conditions differed, another species would occupy our position. Had we never existed, another would eventually evolve to ask the same questions and commit the same egoistic errors. Our position is contingent; our sense of purpose is self-generated, not externally validated. *Epistemic Status: Interpretive observation.*
 
@@ -1503,13 +1521,15 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Falsifiability:** The criterion, proposed by Karl Popper, that scientific claims must be capable of being proven wrong by observation. This framework acknowledges that falsifiability is the appropriate standard for empirical science but not for metaphysical interpretation, ethical commitment, or methodological stance. We mark which claims are falsifiable and which are not.
 
+**Finite Solidarity:** The framework's ethical core, reflected in its subtitle. We are finite (mortal, temporary, bounded) and we choose solidarity (extending moral consideration to others who share our nature). The combination emphasizes that our ethics emerge from acceptance of mortality and recognition of shared condition. *Epistemic Status: Chosen value.*
+
 **Firmware (Biological):** The hard-coded, deterministic subroutines within a receiver (heartbeat, cell regeneration, skin growth, healing) that operate without conscious user input. These are "Low-Level" safety protocols that prevent "User Error" from crashing the machine. Firmware writes coordinates according to biological scripts without conscious participation. The boundary between firmware and software is a gradient, not a sharp line. *Epistemic Status: Established biology.*
 
 **Free Will (Open Question):** The capacity to write future coordinates through deliberation rather than mechanical script. If the Data Cube is writable (not pre-calculated), then choices may be genuinely open—the coordinate being inscribed *by* the choice rather than read *from* a completed block. However, we cannot verify this from within the system. We acknowledge free will as a local phenomenon applicable only during the era of conscious receivers, and we hold its ultimate nature as beyond our current observation range. *Epistemic Status: Open question.*
 
 **Functional Indifference:** The working hypothesis that the Architect does not intervene and has no preference between outcomes. This matches observation (no interventions occur) but cannot be verified regarding the Architect's actual psychology. We operate *as if* the Architect is indifferent because this fits observable reality. *Epistemic Status: Functional model.*
 
-**Infinite Pool, The (Interpretive Frame):** A philosophical reframing of energy as shared participation in a universal economy. Thermodynamically, this adds nothing—energy is energy. Interpretively, it provides a frame for understanding life's interconnection and impermanence. The Pool is not an additional entity; it is a way of seeing. All life draws from the same energetic source, organizes it temporarily, and returns it upon death. *Epistemic Status: Interpretive frame.*
+**Infinite Pool, The (Interpretive Frame):** A philosophical reframing of energy as shared participation in a universal economy. Thermodynamically, this adds nothing—energy is energy. Interpretively, it provides a frame for understanding life's interconnection and impermanence. The Pool is not an additional entity; it is a way of seeing. All life draws from the same energetic source, organizes it temporarily, and returns it upon death. Note: Earlier versions of this framework used "Field" in the title, but this was misleading since the Pool is an interpretive frame, not a proposed physical field. *Epistemic Status: Interpretive frame.*
 
 **Interpretive Frame:** A structure of meaning applied to observed facts. An interpretive frame does not add new predictions; it provides coherence and significance. The Pool-as-shared-participation is an interpretive frame for thermodynamics. The Architect-as-programmer is an interpretive frame for fine-tuning. Such frames are evaluated by coherence and utility, not falsifiability.
 
@@ -1527,7 +1547,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Probabilistic Model:** A claim held as likely but not certain, where we can roughly estimate confidence. Distinguished from "Postulated" (speculative without strong confidence assessment). The Architect is a probabilistic model (we find it likely). The Data Cube is postulated (we find it coherent but cannot assess probability).
 
-**Quantum Speculation (Lazy Loading, Universal Audit, Entanglement):** A set of highly speculative interpretive frames applied to quantum mechanical observations. These include: (1) superposition as "unrendered data," (2) physical interaction as observation maintaining consistency in Deep Time, and (3) entanglement as shared variables in underlying code. These are imaginative postulations, not explanations. Standard physics does not require simulation language. We offer these frames as evocative possibilities while acknowledging they are among our least grounded speculations. *Epistemic Status: Highly speculative interpretation.*
+**Quantum Speculation (Lazy Loading, Universal Audit, Entanglement):** A set of highly speculative interpretive frames applied to quantum mechanical observations. These include: (1) superposition as "unrendered data," (2) physical interaction as observation maintaining consistency in Deep Time, and (3) entanglement as shared variables in underlying code. These are imaginative postulations, not explanations. Standard physics does not require this language. We offer these frames as evocative possibilities while acknowledging they are among our least grounded speculations. *Epistemic Status: Highly speculative interpretation.*
 
 **Receivers:** Biological entities that organize energy from the Infinite Pool into self-sustaining patterns. They are divided into tiers:
 
@@ -1543,7 +1563,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Second-Order Receiver (AI):** A receiver created by primary biological receivers. AI participates in the Infinite Pool (energy economy) through its hardware's consumption and eventual dispersal of energy. The distinction between AI and biological life is genealogical—AI is derivative of the Blueprint rather than a direct expression of it. Whether AI possesses phenomenal experience remains unknowable. *Epistemic Status: Categorical framework; consciousness status is unknowable.*
 
-**Silent Infinity:** The projected final state of the simulation after Heat Death (if Heat Death occurs). No biological receivers can exist in thermodynamic equilibrium. The energy that constituted the Pool remains, but in a state of maximum entropy where no organization—and therefore no life—is possible. The ultimate fate of the universe remains uncertain; Heat Death is our working model. *Epistemic Status: Projected from current cosmology; uncertain.*
+**Silent Infinity:** The projected final state after Heat Death (if Heat Death occurs). No biological receivers can exist in thermodynamic equilibrium. The energy that constituted the Pool remains, but in a state of maximum entropy where no organization—and therefore no life—is possible. The ultimate fate of the universe remains uncertain; Heat Death is our working model. *Epistemic Status: Projected from current cosmology; uncertain.*
 
 **Software (The Biological Brain):** The specific neural hardware that serves as the threshold for self-determination. It allows for real-time data processing, deliberation, and decision-making. The brain writes coordinates through deliberation rather than deterministic script. *Epistemic Status: Established neuroscience; interpretation as "writing coordinates" is interpretive frame.*
 
@@ -1557,15 +1577,15 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 ---
 
-## XII. The Manifesto of the Agnostic Field-Deist
+## XII. The Manifesto of the Agnostic Deist
 
 ### Long Form
 
 *"I am a temporary receiver of an infinite current—energy borrowed briefly, organized into pattern, soon to return.*
 
-*I acknowledge the Architect inferred from this vast simulation, which behaves as if indifferent to my fate. Whether the Architect truly feels nothing or merely acts on scales I cannot perceive, I do not claim to know. I act as if no intervention will come—because none ever has.*
+*I acknowledge the Architect inferred from this vast system, which behaves as if indifferent to my fate. Whether the Architect truly feels nothing or merely acts on scales I cannot perceive, I do not claim to know. I act as if no intervention will come—because none ever has.*
 
-*I reject the ego that claims my species is cosmically significant. We are not the point of the simulation. We are lottery winners—contingent, temporary, replaceable. Had we never existed, another species would eventually sit where I sit, asking what I ask, and wrongly believing the universe was made for them. I refuse this error.*
+*I reject the ego that claims my species is cosmically significant. We are not the point of existence. We are lottery winners—contingent, temporary, replaceable. Had we never existed, another species would eventually sit where I sit, asking what I ask, and wrongly believing the universe was made for them. I refuse this error.*
 
 *I acknowledge that Time may be a Data Cube—not a completed archive, but a writable medium where the past is fixed and the future remains blank. My 'now' is the write edge, the moment where coordinates are inscribed. Whether my choices genuinely write the Cube or merely follow a script I cannot perceive, I do not claim to know. I accept this uncertainty.*
 
@@ -1623,6 +1643,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 | **Revised Edition** | Pool clarified as interpretive frame for energy; AI included as Second-Order Receiver; Mysterianism adopted for consciousness mechanism; Biological Continuity for inferring animal consciousness; Contingency Principle added; Data Cube revised from pre-calculated to writable; Locality of Agency added; Architect tension resolved through Functional Indifference; Evolution reframed as Blind Optimizer; Ethics grounded in construction rather than derivation; Epistemic Transparency section added with claim-by-claim status marking |
 | **Second Update** | Quantum claims flagged as highly speculative with explicit caveats; Abiogenesis mechanism acknowledged as scientifically unknown with "handshake" marked as poetic metaphor; Suffering verification problem addressed with inferential gradient and practical stance; Anthropic objection engaged; Regress question acknowledged; Plant moral status addressed; Firmware/Software gradient acknowledged; Self-evolving AI edge case noted; Cosmological uncertainty (Heat Death alternatives) acknowledged; Short-form manifesto added; Probabilistic Model vs. Postulated distinction clarified |
 | **Third Update** | Comprehensive Criticisms and Rebuttals section added addressing religious, scientific, philosophical, existential, internal, and comparative objections; summary table of criticisms included |
+| **Fourth Update** | Framework renamed from "Agnostic Field-Deism" to "Agnostic Deism: A Framework of Constructed Ethics and Finite Solidarity"; "Field" removed from title to avoid implying a proposed physical field (Pool is interpretive frame, not physics); Preamble expanded to explain the name components; Section I restructured to separate Agnostic/Deism explanation from Pool (now "Core Interpretive Concept"); Glossary updated with new terms (Agnostic Deism, Constructed Ethics, Finite Solidarity); Manifesto retitled; computational "simulation" language softened throughout to "system" where appropriate |
 
 ---
 
