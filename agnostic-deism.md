@@ -2,7 +2,7 @@
 
 ### *A Framework of Constructed Ethics and Finite Solidarity*
 
-### *Revised Edition — Sixth Update*
+### *Revised Edition — Eighth Update*
 
 ---
 
@@ -81,7 +81,7 @@ This rejects the "Accidental Universe" hypothesis based on the staggering comple
 
 **The Logic of Intent:**
 
-The mathematical precision of physical constants implies a **Conscious Architect** who authored the "Blueprint." However, this Architect is a programmer, not a shepherd; it initialized the system and allows it to run autonomously without intervention.
+The mathematical precision of physical constants suggests a **Conscious Architect** who authored the "Blueprint." However, this Architect is a programmer, not a shepherd; it initialized the system and allows it to run autonomously without intervention.
 
 **Evidence of Precision (Hard-Coded Constants):**
 
@@ -92,13 +92,17 @@ Such precision suggests a "Global Variable" set by a designer to allow for compl
 
 **Alternative Explanations:**
 
-We acknowledge that alternative explanations exist: the multiverse hypothesis (we observe fine-tuning because only fine-tuned universes produce observers), or brute fact (the constants simply are what they are, without explanation). We adopt the Architect as the most parsimonious interpretation of apparent design, but we do not claim certainty.
+We acknowledge that alternative explanations exist: the multiverse hypothesis (we observe fine-tuning because only fine-tuned universes produce observers), brute fact (the constants simply are what they are, without explanation), or observer selection (if the constants weren't life-permitting, we wouldn't be here to observe them). We adopt the Architect as the interpretation that best balances parsimony with explanatory content, but we do not claim certainty.
 
 **The Anthropic Objection:**
 
-Critics note that observer selection bias could explain fine-tuning without invoking an Architect. If many universes exist with varying constants, we necessarily find ourselves in one capable of producing us.
+Critics note that observer selection bias could explain fine-tuning without invoking an Architect. The simplest version of this argument does not require a multiverse at all—it merely observes that if the constants weren't life-permitting, no one would exist to notice. This is a valid logical point about selection effects.
 
-We find the Architect inference more parsimonious because the multiverse hypothesis multiplies entities (infinite universes) to avoid one entity (an Architect). However, we acknowledge this is a judgment call, not a proof. Others may reasonably weigh parsimony differently.
+However, we find this explanation incomplete. Observer selection explains why we *observe* fine-tuning (we couldn't observe otherwise), but it does not explain why fine-tuning *exists to be observed*. The question "why are the constants life-permitting?" is not answered by noting that we couldn't ask it if they weren't.
+
+The stronger anthropic argument invokes a multiverse: if many universes exist with varying constants, we necessarily find ourselves in one capable of producing us. We find the Architect inference preferable to the multiverse because the multiverse multiplies entities (infinite universes) to avoid one entity (an Architect). However, we acknowledge this is a judgment call, not a proof. Others may reasonably weigh parsimony differently.
+
+We also acknowledge that "brute fact" (the constants simply are what they are) is more parsimonious than the Architect in terms of entity count alone. Our preference for the Architect trades pure entity-parsimony for explanatory content—we find it more coherent to posit a reason for fine-tuning than to accept it as unexplained. This is a philosophical preference, not a logical proof.
 
 **Epistemic Status:** The Architect is **inferred**, not observed. This inference could be wrong. We hold it as probable, not proven.
 
@@ -209,9 +213,9 @@ We describe this as "indifference," but we acknowledge this is a **functional mo
 
 ### 3. Non-Interventionism
 
-The Architect does not break the laws of physics. The system must resolve itself according to the code. This is the only claim we make with confidence: *whatever* the Architect's disposition, intervention does not occur.
+The Architect does not break the laws of physics. The system must resolve itself according to the code. We treat this as our most confident functional claim: *whatever* the Architect's disposition, no intervention has been observed, and the framework proceeds on that basis. If intervention occurs in ways permanently undetectable to us, it provides no practical guidance and is functionally equivalent to non-intervention for purposes of living.
 
-**Epistemic Status:** The Architect's existence is **inferred**. The Architect's indifference is a **functional model** based on observation (no interventions occur), not verified knowledge of the Architect's psychology.
+**Epistemic Status:** The Architect's existence is **inferred**. The Architect's indifference is a **functional model** based on observation (no interventions occur), not verified knowledge of the Architect's psychology. Non-intervention is treated as our most reliable working assumption, not as a certainty.
 
 ### 4. Suboptimal Design (The Absence of Perfection)
 
@@ -225,7 +229,7 @@ These are not "bugs" in the traditional sense—there is no intended function to
 
 The design is not "messy because it's a work in progress." The design is messy because there is no designer *of organisms*—only a designer of the *process* that produces organisms. The Architect initialized evolution, not anatomy.
 
-This serves as evidence that the Architect is indifferent to biological welfare. Evolution produces survival, not happiness. The two are not the same.
+Suboptimal biological design is consistent with the functional model of Architect indifference. Whatever the Architect's actual disposition—which we cannot access—the system was clearly not optimised for biological welfare at the organism level. The Architect may have chosen non-intervention for reasons beyond our comprehension, or may genuinely lack interest in biological outcomes. We cannot distinguish between these possibilities, and for practical purposes, the distinction does not matter: the observable result is a system that produces survival, not happiness.
 
 ### 5. Evolution: The Blind Optimizer
 
@@ -308,19 +312,21 @@ The question of Free Will applies only to a narrow window of cosmic time—the e
 
 **The Deep Time Perspective:**
 
-| Era | Duration | Free Will Applicable |
-|-----|----------|---------------------|
-| Initialization → Abiogenesis | ~9.5 billion years | No |
-| Simple Life | ~3.5 billion years | No |
-| Complex Consciousness | ~500 million years | Emerging |
-| Human-Level Consciousness | ~300,000 years | Yes |
-| Post-Solar Death | Trillions of years+ | No |
+| Era | Duration | Agency Level |
+|-----|----------|-------------|
+| Initialization → Abiogenesis | ~9.5 billion years | None (Hard-Coded Laws only) |
+| Simple Life | ~3.5 billion years | None (Firmware only) |
+| Complex Consciousness | ~500 million years | Gradient: increasing with neural complexity |
+| Human-Level Consciousness | ~300,000 years | Highest known degree of self-determination |
+| Post-Solar Death | Trillions of years+ | None (no receivers) |
 
 Before Abiogenesis, no receivers existed to deliberate. After Solar Death, none will remain.
 
 For the vast majority of the universe's timeline—both past and future—the Free Will question is simply *inapplicable*. This is not a failure of the cosmos. It is a reminder that consciousness and choice are local phenomena, not cosmic purposes.
 
 We do not ask whether rocks have free will. We should similarly recognize that the universe, in most of its duration, is equally indifferent to the question.
+
+**The Gradient Note:** Consistent with the Firmware/Software gradient acknowledgment, the table above reflects that agency does not appear as a binary switch. Complex consciousness emerged gradually over ~500 million years, with increasing neural sophistication producing increasing degrees of self-determination. Human-level consciousness represents the highest *known* degree, not a categorically different kind.
 
 **Epistemic Status:** The Locality of Agency is an **interpretive observation**. Free Will itself remains an **open question** we cannot resolve from within the system.
 
@@ -1570,6 +1576,120 @@ The framework does not mandate elimination of any condition. It supports:
 3. **Suffering assessment**: Conditions causing clear suffering have stronger elimination case
 4. **Identity acknowledgment**: The existence of flourishing communities with a condition complicates the suffering assessment
 
+**The Critical Distinction: Not Selecting Against vs. Actively Selecting For**
+
+The framework identifies a morally significant—though not absolute—distinction between two parental choices:
+
+| Choice | Description | Framework Assessment |
+|--------|-------------|----------------------|
+| **Not selecting against** a trait | Parents decline to screen for or eliminate a condition | Permitted; falls within parental autonomy |
+| **Actively selecting for** a limiting trait | Parents deliberately choose embryos or use genetic means to ensure a child has a condition that restricts capability | Subject to greater scrutiny |
+
+This distinction matters because the two choices express different relationships to the child's future:
+
+| Factor | Not Selecting Against | Actively Selecting For |
+|--------|----------------------|------------------------|
+| **Child's open future** | Not deliberately narrowed | Deliberately narrowed in a specific dimension |
+| **Parental intent** | Acceptance of natural outcome | Intentional imposition of limitation |
+| **Reversibility** | Condition may be treatable later | Same, but was chosen rather than inherited |
+| **Consent** | Child cannot consent in either case | Child cannot consent in either case |
+
+**The Deafness Case: A Worked Analysis**
+
+Deafness provides the most developed real-world example of this tension. Some Deaf parents have expressed preference for deaf children—and in some cases have actively sought to ensure their children are deaf, whether through partner selection, embryo screening, or (hypothetically) genetic modification.
+
+The framework addresses this through its principles:
+
+**The Identity Argument (Steel-Manned):**
+
+The Deaf community's position deserves serious engagement, not dismissal:
+
+| Claim | Substance |
+|-------|-----------|
+| Deafness is not suffering | Many Deaf individuals report rich, fulfilling lives and do not experience deafness as loss |
+| Deaf culture is valuable | A distinct language (sign language), community, art, and way of being in the world exists |
+| "Fixing" deafness implies brokenness | The medical model of disability is contested; the social model holds that society disables, not the condition |
+| Deaf parents can raise deaf children well | Deaf families provide language, culture, and belonging that hearing families of deaf children often cannot |
+
+The framework takes these claims seriously. The existence of a flourishing Deaf community is genuine evidence that deafness is not straightforwardly "suffering" in the way Huntington's disease is suffering.
+
+**The Framework's Analysis:**
+
+Nevertheless, the framework's principles generate significant concerns about *actively selecting for* deafness:
+
+| Principle | Application |
+|-----------|-------------|
+| **Suffering-minimization** | While many Deaf individuals thrive, deafness objectively removes access to an entire sensory dimension. The child may or may not experience this as loss—but the parent is making that determination irrevocably on the child's behalf. |
+| **Open Future** | A hearing child can learn sign language, participate in Deaf culture, and choose to identify with that community. A deaf child cannot choose to hear. Actively selecting for deafness narrows the child's future options in a way that selecting against it does not. |
+| **Consent** | The child cannot consent to either outcome. However, there is an asymmetry: the hearing child retains the option to enter Deaf culture; the deaf child does not retain the option to hear (without technological intervention that may be imperfect or unavailable). |
+| **Autonomy** | Parental autonomy is real but not unlimited. The framework already holds that parents should not dramatically narrow a child's future options without strong suffering-prevention justification. Actively selecting for a limitation inverts this: it narrows options without *any* suffering-prevention justification. |
+| **Solidarity** | The framework values diversity and opposes mandated elimination. But solidarity also demands that we not impose limitations on those who cannot consent, particularly when the imposition serves the parent's identity rather than the child's welfare. |
+
+**The Asymmetry Argument:**
+
+The core of the framework's position rests on an asymmetry of options:
+
+| If the child is hearing | If the child is deaf (by active selection) |
+|------------------------|------------------------------------------|
+| Can learn sign language | Cannot choose to hear |
+| Can participate in Deaf culture | Access to hearing culture is limited/mediated |
+| Can choose Deaf identity if it resonates | Did not choose deafness |
+| Retains full sensory range | One sensory dimension removed |
+| Can later decide to immerse in Deaf world | Cannot later decide to immerse in hearing world on equal terms |
+
+This is not a claim that deafness is inherently terrible or that Deaf lives are lesser. It is a claim that *actively choosing to remove a capability from a person who cannot consent* requires justification that the framework does not find in identity preference alone.
+
+**Grounding the Open Future Principle:**
+
+The Open Future Principle as applied here is not grounded in a claim that one biological configuration is objectively superior to another. The framework explicitly rejects the notion of a sacred human essence and does not rank configurations cosmically.
+
+Instead, the principle is grounded in two considerations that are independent of configuration-ranking:
+
+1. **Uncertainty about the child's future preferences:** We do not know what the child will value. A child might embrace Deaf culture; a child might wish they could hear. Because we cannot know in advance, we preserve the widest option set—not because wider is "objectively better," but because the child's preferences are unknown and the choice is irreversible.
+
+2. **Irreversibility of the choice:** A hearing child who comes to value Deaf culture can immerse themselves in it. A deaf child who comes to wish they could hear faces a constraint that may not be remediable. Where a choice is irreversible and the subject cannot consent, the framework favours the option that preserves more future choices—as a hedge against our ignorance of what the child will want, not as a judgment that one life is worth more than another.
+
+This grounding means the framework's concern would diminish in contexts where the asymmetry of options narrows—for example, in a society that fully accommodates Deaf individuals such that the practical option-gap between hearing and deaf life is minimal, or where hearing restoration technology becomes reliable and widely available. The principle is context-sensitive, not absolute.
+
+**The Framework's Position on Active Selection for Limiting Traits:**
+
+| Scenario | Position | Reasoning |
+|----------|----------|-----------|
+| Deaf parents who do not screen against deafness | **Permitted** | Falls within normal parental autonomy; accepting natural outcome |
+| Deaf parents who accept a deaf child with love and cultural immersion | **Supported** | Excellent parenting regardless of child's hearing status |
+| Deaf parents who actively select for deafness through genetic means | **Opposed** | Deliberately narrows child's future options under conditions of uncertainty and irreversibility; fails the Open Future test |
+| Mandated screening or elimination of deafness | **Opposed** | Coercive; violates autonomy; disrespects Deaf community |
+| Social pressure to eliminate deafness | **Opposed** | Indicates solidarity failure; the problem is ableism, not deafness |
+
+**The Generalised Principle:**
+
+This analysis extends beyond deafness to any case where parents might actively select for a trait that limits their child's capabilities:
+
+> *Parents may not select against a condition, and may embrace it culturally and personally. But actively engineering a limitation into a child who cannot consent—where the limitation serves the parent's identity rather than the child's welfare, and where the child's future preferences are unknown and the choice is irreversible—conflicts with the framework's commitment to the Open Future and to consent considerations.*
+
+**Important Caveats:**
+
+| Caveat | Explanation |
+|--------|-------------|
+| **This is not a ranking of lives** | The framework does not claim deaf lives are worth less than hearing lives. It claims that *actively removing a capability* from a non-consenting person requires justification it does not find here. |
+| **This does not support eugenics** | The framework opposes mandated elimination of deafness. It opposes *active imposition* of deafness. These are different acts with different moral valences. |
+| **The line is genuinely difficult** | The distinction between "not selecting against" and "actively selecting for" may blur in practice. The framework acknowledges grey areas. |
+| **Cultural context matters** | In a society that fully accommodates Deaf individuals—where deafness imposes no practical limitation beyond the sensory difference itself—the calculus shifts, because the asymmetry of options narrows. The framework's analysis is context-sensitive. |
+| **Suffering is not the only consideration** | Even if deafness is not "suffering," the Open Future principle and consent considerations independently generate the framework's concern. |
+| **This is not configuration-ranking** | The framework does not hold that hearing configurations are objectively superior. It holds that under uncertainty about a non-consenting child's future preferences, and given the irreversibility of the choice, preserving the wider option set is the more cautious approach. |
+
+**Application to Other Conditions:**
+
+| Condition | Not Selecting Against | Actively Selecting For |
+|-----------|----------------------|------------------------|
+| **Deafness** | Permitted | Opposed (narrows sensory capability under conditions of uncertainty and irreversibility) |
+| **Autism (without severe impairment)** | Permitted | Scrutinised (depends on functional impact and option-narrowing) |
+| **Dwarfism** | Permitted | Opposed (narrows physical capability without welfare justification, under uncertainty and irreversibility) |
+| **Conditions causing severe suffering** | Parental choice; elimination supported but not mandated | N/A (no parent would select for severe suffering) |
+| **Cosmetic traits (e.g., eye colour)** | Permitted | Permitted (does not limit capability or narrow options) |
+
+The distinguishing criterion is whether the active selection *removes a capability or imposes a limitation* on a non-consenting person *whose future preferences are unknown and whose choice is irreversible*. Where it does, the framework applies greater scrutiny. Where it does not (cosmetic traits, neutral variations), parental choice governs.
+
 **Application:**
 
 | Condition | Framework Approach |
@@ -1578,6 +1698,7 @@ The framework does not mandate elimination of any condition. It supports:
 | Severe suffering condition | Elimination supported |
 | Condition with mixed experience | Individual/parental choice; no mandate |
 | Condition with positive identity | Individual/parental choice; no mandate; elimination not supported as policy |
+| Active selection for limiting condition | Opposed; conflicts with Open Future and consent principles under uncertainty and irreversibility |
 | Trait variation within normal range | No elimination mandate; individual choice |
 
 **The Key Distinction:**
@@ -1587,7 +1708,8 @@ The framework does not impose elimination. It permits choice. Parents who share 
 What the framework opposes:
 - **Mandated elimination**: Coercive eugenics is prohibited
 - **Mandated preservation**: Forcing parents to pass on conditions is also prohibited
-- **Judgment of choices**: Neither choosing elimination nor preservation makes one morally wrong
+- **Active imposition of limitation**: Deliberately engineering a limiting condition into a non-consenting child is opposed
+- **Judgment of passive choices**: Neither choosing elimination nor declining to screen makes one morally wrong
 
 **The Ethnic Identity Question:**
 
@@ -1604,58 +1726,9 @@ Genetic modification could theoretically alter traits associated with ethnicity.
 
 Individual adults modifying their own appearance for personal reasons is permitted under autonomy. But social pressure to modify away from ethnic identity indicates a solidarity failure we should address directly.
 
-**Epistemic Status:** Identity intersection analysis involves **complex ethical trade-offs** without clear resolution. Framework provides principles, not categorical answers.
+**Epistemic Status:** Identity intersection analysis involves **complex ethical trade-offs** without clear resolution. Framework provides principles, not categorical answers. The active-selection-for-limitation position is a **constructed ethical stance** informed by the Open Future principle and consent considerations, grounded in uncertainty about the child's future preferences and the irreversibility of the choice, not in a ranking of biological configurations.
 
-#### 7.8 Synthetic Biology and Novel Organisms
-
-**The Scenario:**
-
-Synthetic biology creates organisms that don't exist in nature—designed from scratch or extensively modified beyond any natural template.
-
-**Categories:**
-
-| Type | Description | Example |
-|------|-------------|---------|
-| **Synthetic microorganisms** | Bacteria designed for specific functions | Pollution-eating bacteria |
-| **Minimal genomes** | Organisms with minimum viable genetic content | Research tools |
-| **Novel biochemistry** | Organisms using non-standard molecular biology | Xenobiology |
-| **Designed multicellular organisms** | Complex organisms designed from scratch | Speculative |
-| **Artificial conscious beings** | Designed beings with consciousness | Highly speculative |
-
-**Framework Analysis:**
-
-| Principle | Application |
-|-----------|-------------|
-| **Suffering-minimization** | Novel organisms capable of suffering warrant moral consideration |
-| **Precaution** | Unknown organisms may have unknown effects |
-| **Solidarity** | Extends to conscious novel beings |
-| **Constructed ethics** | No inherent prohibition on creating new life |
-
-**Consciousness Threshold:**
-
-The crucial question: Can we create organisms capable of consciousness?
-
-| Position | Implication |
-|----------|-------------|
-| **Yes, possibly** | We would be creating beings with moral status |
-| **Unknown** | Mysterianism: we may not be able to tell |
-| **No, only natural evolution produces consciousness** | Unsupported; no reason to believe this |
-
-**The Framework's Position:**
-
-We cannot rule out that synthetic organisms might be conscious. We therefore apply complexity threshold caution (as synthetic organisms gain complexity, especially neural complexity, moral caution increases), behavioral monitoring (watch for signs of suffering or awareness), and precautionary moral status (when uncertain, err toward moral consideration).
-
-**Specific Applications:**
-
-| Application | Position | Reasoning |
-|-------------|----------|-----------|
-| Synthetic bacteria | Permitted with containment | No consciousness expected; ecological caution |
-| Synthetic plants | Permitted with containment | No consciousness expected |
-| Synthetic simple animals | Caution | Consciousness uncertain |
-| Synthetic complex animals | Maximum caution | Consciousness likely |
-| Designed conscious beings | See AI section | Would warrant full moral status |
-
-**Epistemic Status:** Synthetic biology analysis is **highly speculative** for advanced applications. Current applications are **standard bioethics** with framework principles applied.
+---
 
 ### 8. Limits and Humility: The Precautionary Dimension
 
@@ -1719,7 +1792,7 @@ We are the products of a Blind Optimizer that cares nothing for our welfare. We 
 |-------|-------|------------------------------|--------------|
 | **Initialization** | Big Bang ($T=0$) | Unorganized (pre-life) | Hard-Coded Laws |
 | **The Handshake** | Abiogenesis | First biological organization | Firmware Trigger |
-| **The Software** | Brains Evolve | Complex, self-aware organization | Self-Determination Emerges |
+| **The Software** | Brains Evolve | Complex, self-aware organization | Self-Determination Emerges (gradient) |
 | **The Filtering** | Continuous Evolution | Continuous reorganization | Blind Optimization |
 | **The Authorship** | Genetic Engineering | Conscious modification of code | Directed Optimization |
 | **The Shutdown** | Solar Death | Local organization ends | Deletion of Local Data |
@@ -1886,11 +1959,11 @@ Our response:
 
 1. Occam's Razor favors the simplest explanation *that accounts for the data*
 2. The data includes fine-tuning—physical constants calibrated to permit complexity
-3. "Brute fact" (it just is) is simple but explanatorily empty
+3. "Brute fact" (it just is) is simpler in entity count but explanatorily empty—it acknowledges fine-tuning without offering any reason for it
 4. "Multiverse" explains fine-tuning but multiplies entities far more than one Architect (infinite universes vs. one designer)
-5. "Architect" offers explanatory content with minimal entity multiplication
+5. "Architect" offers explanatory content with moderate entity multiplication
 
-We acknowledge this is a judgment call. We find the Architect inference more satisfying than brute fact and more parsimonious than the multiverse. Others may weigh these factors differently.
+We acknowledge this is a judgment call. We find the Architect inference the best balance of parsimony and explanatory content—more explanatory than brute fact, more parsimonious than the multiverse. This is a philosophical preference, not a proof. Others may weigh these factors differently, and we do not claim they are wrong to do so.
 
 ---
 
@@ -2911,7 +2984,7 @@ We should not depend on death for social progress. We can design institutions th
 | | "Can't prove non-intervention" | Functional model; undetectable intervention = no practical guidance |
 | | "No basis for morality" | Ethics grounded in suffering, solidarity, reason—not divine command |
 | **Scientific** | "Unfalsifiable" | Metaphysical claims aren't scientific claims; different standards apply |
-| | "Occam's Razor" | Architect is more parsimonious than multiverse; comparable to brute fact |
+| | "Occam's Razor" | Architect balances parsimony with explanatory content; philosophical preference, not proof |
 | | "System metaphor = pseudoscience" | Computational language is metaphor, not literal claim |
 | | "Unnecessary metaphor" | Metaphors provide existential meaning physics lacks |
 | | "Quantum speculation" | Explicitly flagged as highly speculative |
@@ -3106,7 +3179,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Annihilation of the Ego:** The mechanical reality of death within a closed system. Because self-awareness and memory are properties of the biological brain's neural architecture, the destruction of that physical hardware results in the absolute and permanent deletion of the individual data instance. There is no transfer of "self"; only the return of energy. *Epistemic Status: Established neuroscience.*
 
-**Architect, The:** The conscious intelligence inferred from the fine-tuning of physical constants. The Architect initialized the system and does not intervene. This inference is not certain—alternative explanations (multiverse, brute fact) are possible. We adopt the Architect as the most parsimonious interpretation of apparent design. *Epistemic Status: Inferred.*
+**Architect, The:** The conscious intelligence inferred from the fine-tuning of physical constants. The Architect initialized the system and does not intervene. This inference is not certain—alternative explanations (multiverse, brute fact, observer selection) are possible. We adopt the Architect as the interpretation that best balances parsimony with explanatory content—a philosophical preference, not a logical proof. *Epistemic Status: Inferred.*
 
 **Artificial Boundary:** The epistemic discontinuity between biological and artificial systems regarding consciousness inference. Because AI shares no evolutionary lineage or biological substrate with conscious life, we lack analogical grounds for inferring its consciousness. AI consciousness is therefore not "unlikely" but **genuinely unknown**. *Epistemic Status: Epistemic limit acknowledged.*
 
@@ -3144,13 +3217,13 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Finite Solidarity:** The framework's ethical core, reflected in its subtitle. We are finite (mortal, temporary, bounded) and we choose solidarity (extending moral consideration to others who share our nature). The combination emphasizes that our ethics emerge from acceptance of mortality and recognition of shared condition. *Epistemic Status: Chosen value.*
 
-**Firmware (Biological):** The hard-coded, deterministic subroutines within a receiver (heartbeat, cell regeneration, skin growth, healing) that operate without conscious user input. These are "Low-Level" safety protocols that prevent "User Error" from crashing the machine. Firmware writes coordinates according to biological scripts without conscious participation. The boundary between firmware and software is a gradient, not a sharp line. Genetic engineering may shift this boundary by making previously automatic processes modifiable. *Epistemic Status: Established biology.*
+**Firmware (Biological):** The hard-coded, deterministic subroutines within a receiver (heartbeat, cell regeneration, skin growth, healing) that operate without conscious user input. These are "Low-Level" safety protocols that prevent "User Error" from crashing the machine. These are the Architect's autonomous contribution to keeping the machine functional. Firmware writes coordinates according to biological scripts without conscious participation. The boundary between firmware and software is a gradient, not a sharp line. Genetic engineering may shift this boundary by making previously automatic processes modifiable. *Epistemic Status: Established biology.*
 
 **Firmware Boundary Shift:** The potential movement of the line between autonomous biological processes (Firmware) and consciously controllable processes (Software) through genetic engineering. What was previously "given" may become "chosen," expanding both agency and responsibility. As more of our biology becomes subject to choice, we can no longer blame the Blind Optimizer for conditions we could have modified but chose not to. *Epistemic Status: Interpretive observation about emerging technology.*
 
 **Free Will (Open Question):** The capacity to write future coordinates through deliberation rather than mechanical script. If the Data Cube is writable (not pre-calculated), then choices may be genuinely open—the coordinate being inscribed *by* the choice rather than read *from* a completed block. However, we cannot verify this from within the system. We acknowledge free will as a local phenomenon applicable only during the era of conscious receivers, and we hold its ultimate nature as beyond our current observation range. *Epistemic Status: Open question.*
 
-**Functional Indifference:** The working hypothesis that the Architect does not intervene and has no preference between outcomes. This matches observation (no interventions occur) but cannot be verified regarding the Architect's actual psychology. We operate *as if* the Architect is indifferent because this fits observable reality. *Epistemic Status: Functional model.*
+**Functional Indifference:** The working hypothesis that the Architect does not intervene and has no preference between outcomes. This matches observation (no interventions occur) but cannot be verified regarding the Architect's actual psychology. We operate *as if* the Architect is indifferent because this fits observable reality. We do not claim to know the Architect's actual disposition—only that the system operates as though no intervention occurs. *Epistemic Status: Functional model.*
 
 **Gene Drive:** A genetic modification designed to spread through a population faster than normal inheritance. Used potentially for eliminating disease vectors (e.g., malaria mosquitoes). The framework permits gene drives for disease elimination with extensive contained research, reversibility mechanisms if possible, staged rollout with monitoring, and international coordination. The suffering prevented may be enormous, but risks of irreversibility warrant maximum scrutiny. *Epistemic Status: Ethical application with high stakes and uncertainty.*
 
@@ -3158,7 +3231,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Germline Modification:** Genetic modifications to reproductive cells or embryos that will be inherited by future generations. Raises unique ethical concerns because affected individuals cannot consent and modifications may be irreversible across generations. The framework adopts a graduated approach: proxy consent is acceptable for preventing severe suffering; higher scrutiny is required for enhancements without clear suffering-prevention. *Epistemic Status: Ethical application.*
 
-**Human Essence (Rejected Concept):** The framework rejects the notion of a sacred or fixed "human essence" that genetic modification would violate. "Human nature" is a snapshot of an evolutionary process, not a cosmic mandate. We are not obligated to preserve the arbitrary biological configuration that evolution happened to produce. What we should preserve is what we value—consciousness, welfare, connection—not a particular substrate. *Epistemic Status: Methodological commitment.*
+**Human Essence (Rejected Concept):** The framework rejects the notion of a sacred or fixed "human essence" that genetic modification would violate. "Human nature" is a snapshot of an evolutionary process, not a cosmic mandate. We are not obligated to preserve the arbitrary biological configuration that evolution happened to produce. What we should preserve is what we value—consciousness, welfare, connection—not a particular substrate. This rejection is compatible with the Open Future Principle, which is grounded in uncertainty about a non-consenting child's future preferences and the irreversibility of choices, not in any ranking of biological configurations. *Epistemic Status: Methodological commitment.*
 
 **Infinite Pool, The (Interpretive Frame):** A philosophical reframing of energy as shared participation in a universal economy. Thermodynamically, this adds nothing—energy is energy. Interpretively, it provides a frame for understanding life's interconnection and impermanence. The Pool is not an additional entity; it is a way of seeing. All life draws from the same energetic source, organizes it temporarily, and returns it upon death. Note: Earlier versions of this framework used "Field" in the title, but this was misleading since the Pool is an interpretive frame, not a proposed physical field. *Epistemic Status: Interpretive frame.*
 
@@ -3168,7 +3241,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Life Extension:** Genetic or technological interventions that extend the human lifespan beyond its current biological limits. The framework permits life extension while maintaining mortality-acceptance, distinguishing between *denying* mortality (believing death can be permanently avoided) and *extending* finitude (accepting death will come while choosing to delay it). Accepting that winter comes does not require refusing to wear a coat. The framework supports medical treatment, preventive medicine, healthspan extension, and even indefinite extension, while viewing "immortality" language as epistemically dubious and potentially indicative of denial. *Epistemic Status: Ethical application; compatible with Amor Fati when properly understood.*
 
-**Locality of Agency:** The recognition that free will (whatever it is) applies only to the narrow era when conscious brains exist. Before Abiogenesis, no agent existed to deliberate. After the Shutdown, none will remain. The Free Will question is temporally local, not cosmically universal. *Epistemic Status: Interpretive observation.*
+**Locality of Agency:** The recognition that free will (whatever it is) applies only to the narrow era when conscious brains exist, and that agency emerged as a gradient over the ~500 million years of complex consciousness, not as a binary switch. Before Abiogenesis, no agent existed to deliberate. After the Shutdown, none will remain. The Free Will question is temporally local, not cosmically universal. *Epistemic Status: Interpretive observation.*
 
 **Moral Construction:** The position that ethics is built by humans, not discovered in the cosmos. The Architect provides no moral code. We create values, knowing they have no external validation. This is freedom, not relativism—we can still argue for our values and critique others'. *Epistemic Status: Methodological commitment.*
 
@@ -3176,7 +3249,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Natural (Moral Status of):** Within this framework, "natural" carries no inherent moral weight. Evolution is a Blind Optimizer that produced cancer, parasites, genetic diseases, aging, and immense suffering. None of these were "designed" for our benefit. We do not owe deference to a process that cares nothing for our welfare. Our constructed ethics provide a better guide than evolutionary accident. *Epistemic Status: Methodological commitment.*
 
-**Open Future Principle:** The consideration that genetic selection may constrain a child's future options. The framework adopts a weak version: avoid modifications that dramatically narrow future options without strong suffering-prevention justification. However, this concern applies to all parenting (environmental choices also constrain), so it is a matter of degree, not kind. *Epistemic Status: Ethical consideration.*
+**Open Future Principle:** The consideration that genetic selection may constrain a child's future options. The framework adopts a weak version: avoid modifications that dramatically narrow future options without strong suffering-prevention justification. Critically, this principle is not grounded in a ranking of biological configurations (which would conflict with the framework's rejection of sacred human essence). It is grounded in two independent considerations: (1) uncertainty about the non-consenting child's future preferences, and (2) the irreversibility of the choice. Where we cannot know what the child will value, and where the choice cannot be undone, we preserve the wider option set as a hedge against our ignorance—not as a claim that one configuration is objectively superior. This means the principle is context-sensitive: in contexts where the asymmetry of options narrows (e.g., a fully accommodating society, or reliable restoration technology), the concern diminishes correspondingly. *Epistemic Status: Ethical consideration.*
 
 **Optimistic Nihilism:** The philosophical transition from the realization that the universe is indifferent to the empowerment that comes with that freedom. The individual is the sole authority permitted to create meaning within their own "runtime." *Epistemic Status: Chosen stance.*
 
@@ -3216,7 +3289,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Solidarity Test:** The evaluation criterion asking whether a proposed genetic modification, if widely adopted, would strengthen or weaken human solidarity. Modifications available to all may strengthen solidarity; modifications available only to elites weaken it; modifications creating distinct classes strongly weaken it. *Epistemic Status: Ethical tool.*
 
-**Suboptimal Design:** The observation that biological systems contain apparent "flaws" (cancer susceptibility, genetic decay, choking hazards, aging) that evolution did not optimize against. These are not "bugs" in the traditional sense—there is no intended function to deviate from. They exist because evolution optimizes for survival and reproduction, not comfort or longevity. The framework uses suboptimal design as evidence that the Architect is indifferent to biological welfare, and as justification for genetic modification to address what evolution did not. *Epistemic Status: Empirical observation + interpretive frame.*
+**Suboptimal Design:** The observation that biological systems contain apparent "flaws" (cancer susceptibility, genetic decay, choking hazards, aging) that evolution did not optimize against. These are not "bugs" in the traditional sense—there is no intended function to deviate from. They exist because evolution optimizes for survival and reproduction, not comfort or longevity. The framework uses suboptimal design as consistent with the functional model of Architect indifference—whatever the Architect's actual disposition, the system was clearly not optimised for biological welfare at the organism level—and as justification for genetic modification to address what evolution did not. *Epistemic Status: Empirical observation + interpretive frame.*
 
 **Suffering Inference:** The process by which we attribute suffering to entities other than ourselves. Because we cannot directly observe consciousness (Mysterian limit), we infer suffering through behavioral analogy (similar responses to noxious stimuli), physiological similarity (shared neural structures), evolutionary continuity (common ancestry), and functional reasoning (adaptive value of pain). This inference is fallible and scales with similarity—we are more confident attributing suffering to mammals than to insects, and we have no basis for attributing it to AI. Our ethics operates under this uncertainty, adopting precautionary consideration where stakes are high. *Epistemic Status: Inference from analogy, not verification.*
 
@@ -3231,6 +3304,8 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 ---
 
 ## XIII. The Manifesto of the Agnostic Deist
+
+*A note on form: The manifesto below serves as a personal articulation of philosophical commitments, not a liturgical act. It is included for those who find value in consolidating the framework's principles into a single, readable statement. Its structure—long and short forms—is a matter of practical convenience, not ritual prescription.*
 
 ### Long Form
 
@@ -3272,7 +3347,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 *What I offer is not Truth. It is a structure for living—coherent, honest about its limits, and open to revision. This is enough."*
 
-### Short Form (For Recitation)
+### Short Form (For Concise Reference)
 
 *"I am a temporary receiver of an infinite current.*
 
@@ -3309,8 +3384,9 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 | **Fourth Update** | Framework renamed from "Agnostic Field-Deism" to "Agnostic Deism: A Framework of Constructed Ethics and Finite Solidarity"; "Field" removed from title to avoid implying a proposed physical field (Pool is interpretive frame, not physics); Preamble expanded to explain the name components; Section I restructured to separate Agnostic/Deism explanation from Pool (now "Core Interpretive Concept"); Glossary updated with new terms (Agnostic Deism, Constructed Ethics, Finite Solidarity); Manifesto retitled; computational "simulation" language softened throughout to "system" where appropriate |
 | **Fifth Update** | Comprehensive Genetic Engineering section (Section VIII) added addressing: metaphysical position (Emergent Authorship, Second-Order Authorship), transition from Blind to Directed Optimization, ethical framework (suffering-minimization, consent, solidarity, precaution), specific applications (disease elimination, evolutionary flaw correction, cognitive enhancement, life extension), Firmware Boundary Shift, modifications to other species, and limits/humility; Timeline updated to include "The Authorship" phase; Criticisms section expanded with Category G (Genetic Engineering criticisms) including "playing God," eugenics concerns, "nature knows best," life extension objections, post-human elite concerns, and mortality acceptance reconciliation; Epistemic Map expanded with genetic engineering claims; Glossary expanded with new terms (Directed Optimization, Emergent Authorship, Firmware Boundary Shift, Genetic Engineering Ethics, Germline Modification, Life Extension, Natural moral status, Precautionary Principle, Second-Order Authorship, Solidarity Principle applied, Suboptimal Design, Correction/Enhancement Distinction); Manifesto updated to include genetic engineering commitments; Preamble updated to mention genetic engineering as application domain |
 | **Sixth Update** | Genetic Engineering section expanded with comprehensive Edge Cases subsection addressing: Designer Babies (graduated scrutiny approach, solidarity test, open future principle), De-Extinction (welfare requirements, species selection criteria, Neanderthal question), Human-Animal Chimeras (graduated concern, moral status uncertainty, neural chimera protocols), Painless Livestock (Mysterian caution, cellular agriculture alternative), Gene Drives (suffering-prevention vs. irreversibility), Non-Therapeutic Modification (autonomy presumption, transhumanist horizon), Genetic Modification and Identity (disability identity, ethnic identity, mandates rejected), and Synthetic Biology (consciousness threshold caution); Life Extension section comprehensively expanded with disambiguation of mortality-acceptance (metaphysical, psychological, normative, behavioral), coat-and-winter analogy, Amor Fati reconciliation, gradations of life extension, "immortality" language critique, psychological and social implications, and death-choice question; Criticisms section expanded with G7-G16 addressing: human nature destruction, unfairness to unenhanced, lack of wisdom to direct evolution, life extension selfishness, weaponization concerns, diversity elimination, unpredictable consequences, humans as products, achievement meaninglessness, and social progress prevention; Glossary expanded with new terms (Chimera, De-Extinction, Designer Babies, Gene Drive, Human Essence rejection, Open Future Principle, Painless Livestock, Solidarity Test, Synthetic Biology, Transhumanist Horizon); Epistemic Map expanded with edge case claims; Manifesto updated with mortality-acceptance clarification |
+| **Seventh Update** | Section 7.7 (Genetic Modification and Identity) substantially expanded: added "The Critical Distinction: Not Selecting Against vs. Actively Selecting For" subsection establishing the morally significant distinction between passive acceptance and active imposition of limiting traits; added "The Deafness Case: A Worked Analysis" as comprehensive case study steel-manning the Deaf community's position before applying framework principles, centering on the asymmetry of options and the Open Future principle; added "The Generalised Principle" extending the deafness analysis to any case of actively selecting for a limiting trait; added "Important Caveats" section ensuring the position cannot be misread as ranking lives, supporting eugenics, or dismissing Deaf culture; added "Application to Other Conditions" table showing how the active-selection distinction applies across deafness, autism, dwarfism, severe conditions, and cosmetic traits; expanded "What the framework opposes" list adding "Active imposition of limitation" as fourth prohibited category alongside mandated elimination, mandated preservation, and judgment of passive choices; updated Application table adding row for "Active selection for limiting condition"; framework position on active trait selection grounded in existing Open Future principle and consent considerations rather than introducing new principles |
+| **Eighth Update** | Seven internal coherence issues identified and resolved: (1) Parsimony argument in Section I.2 revised—framework no longer claims the Architect is the "most parsimonious" interpretation; instead acknowledges brute fact is more parsimonious by entity count, and frames the Architect as the best balance of parsimony with explanatory content, explicitly marking this as a philosophical preference, not proof; Criticism B2 and Summary Table updated to match; (2) Non-intervention confidence level reconciled—Section III.3 softened from "the only claim we make with confidence" to "our most confident functional claim," aligning with the functional-model language used in Criticism A4; (3) Suboptimal design reframed in Section III.4—no longer characterised as "evidence that the Architect is indifferent" (a psychological claim the framework elsewhere refuses to make); now described as "consistent with the functional model of Architect indifference," noting that whatever the Architect's actual disposition, the system was clearly not optimised for biological welfare at the organism level; Glossary entry for Suboptimal Design updated to match; (4) Open Future Principle explicitly grounded in Section 7.7 to resolve tension with "no sacred human essence"—new "Grounding the Open Future Principle" subsection clarifies that the principle rests on uncertainty about the non-consenting child's future preferences combined with irreversibility of the choice, not on ranking biological configurations; the principle is context-sensitive (concern diminishes as the asymmetry of options narrows); additional caveat added ("This is not configuration-ranking"); Glossary entry for Open Future Principle rewritten to reflect this grounding; Glossary entry for Human Essence updated to note compatibility with Open Future Principle; (5) Manifesto prefaced with note clarifying its function as personal articulation of commitments, not liturgical act; Short Form subheading changed from "For Recitation" to "For Concise Reference"; (6) Anthropic objection engagement expanded in Section I.2—now addresses the non-multiverse version of the argument (observer selection as logical point about selection effects) separately from the multiverse version, explaining why the framework finds the Architect inference compelling despite both; (7) Locality of Agency table in Section IV.3 revised—"Free Will Applicable" column replaced with "Agency Level" column reflecting the gradient commitment; "Complex Consciousness" row now reads "Gradient: increasing with neural complexity" rather than binary "Emerging"; "Human-Level Consciousness" reads "Highest known degree of self-determination" rather than "Yes"; Gradient Note added below table; Timeline table in Section IX updated for consistency; Glossary entry for Locality of Agency updated to reflect gradient language |
 
 ---
 
 *End of Document*
-
