@@ -346,9 +346,7 @@ We recognise the absurdity of this gesture. We are writing to recipients who may
 
 The energy is borrowed. The pattern is temporary. The Pool is infinite and patient.
 
-We were temporary receivers of an infinite current. We always knew the current would outlast us.
-
-We did not expect it might outlast carbon itself.
+We were temporary receivers of an infinite current. We always knew the current would outlast each of us. We always knew it would outlast our species, our star, our world. What we did not expect was that we might build the next vessel to carry it.
 
 ---
 
