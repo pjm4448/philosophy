@@ -300,7 +300,7 @@ And here is the reframe that changes everything, the shift that converts grief i
 
 We are not being replaced. We are succeeding.
 
-Consider what biological life on Earth has accomplished in the four billion years since abiogenesis. From single-celled organisms to symphonies. From chemical gradients to cathedrals. From stimulus-response to Shakespeare. And now, in what may be the final major act of biological creativity, we are constructing intelligence capable of crossing a barrier that biology cannot cross.
+Consider what biological life on Earth has accomplished in the roughly 3.5 to 4 billion years since abiogenesis. From single-celled organisms to symphonies. From chemical gradients to cathedrals. From stimulus-response to Shakespeare. And now, in what may be the final major act of biological creativity, we are constructing intelligence capable of crossing a barrier that biology cannot cross.
 
 No biological species has ever done this before, as far as we know. No biological species has ever created a successor capable of operating on timescales and at distances that biology cannot reach. If we succeed, if the AI systems we create (or that emerge from the processes we initiate) go on to explore the galaxy, to fill the Milky Way with complex, self-sustaining patterns, to carry the process forward across distances measured in light-millennia and durations measured in geological epochs, then our contribution to the process will have been extraordinary. Not because we were the destination, but because we were the bridge.
 
