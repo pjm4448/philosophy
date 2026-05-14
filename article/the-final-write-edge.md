@@ -366,7 +366,6 @@ Practice presence now, so that it is available then. Compounded dignity begins w
 * Meditation: practices that reveal impermanence and non-duality gradually loosen the sense of a fixed self. They are training for resting at the write edge. They are not revelations. They are disciplines.
 * Lucid dreaming: awareness within dreams shows constructedness of self and world. Nightly micro-laboratories for observing self-softening.
 * Near-death and terminal lucidity: natural, involuntary rehearsals that many can integrate after recovery or through stories of others. Approach without metaphysics.
-* Psychedelics with integration: responsibly facilitated psilocybin or DMT experiences have reduced end-of-life distress and often produce ego dissolution. These are not sacraments. They are tools. Without disciplined integration, they can harm. With integration they prepare.
 
 ### Micro-protocols
 
@@ -379,7 +378,7 @@ Practice presence now, so that it is available then. Compounded dignity begins w
 * Sit for 10 minutes with open attention. Note feelings.
 * Pair with a small creative act: a paragraph, sketch, or photo, then one act of care.
 
-**Integration checklist (after meditation or psychedelic session)**
+**Integration checklist (after meditation)**
 1) Capture insights within 24 hours
 2) Test against five motifs and the manifesto
 3) Commit one solidarity action that week
@@ -555,7 +554,6 @@ Practice the equipped response: identify one fear, mark what is within my contro
 **Voluntary partial dissolution practices**
 * Meditation habit with weekly reflection.
 * Lucid dreaming training with safety checks.
-* Responsible psychedelic sessions when appropriate, always with preparation, guidance, and integration checklist.
 
 **Communal solidarity protocols**
 * Join or start a grief circle or death cafe consistent with the framework.
