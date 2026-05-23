@@ -1,5 +1,21 @@
 # Borrowed Current, Dissolved Pattern: Reframing Life and Death in the Infinite Pool
 
+## Synopsis
+
+This essay argues that life and death are better understood as a clean thermodynamic arc within [Agnostic Deism](https://agnosticdeism.com/): non-existence, followed by the temporary organization of borrowed current from the Infinite Pool, followed by dissolution and return. The zinc spark marks the precise ignition of a new individual borrowing, while death is the symmetric completion where the pattern dissolves and its energy rejoins the shared substrate. Traditional binaries of “life and death” loaded with souls, judgment, or persistence are replaced by an honest sequence grounded in observable biology and the framework’s interpretive architecture.
+
+The essay’s deepest philosophical move is to demonstrate the symmetry and conservation at the heart of existence. The same Pool that supplies the current for every pattern receives it back without loss. Ego annihilation is not a horror to be denied but the natural unwinding of a finite receiver. This reframing collapses illusions of cosmic permanence while strengthening what remains: the writable window of agency at the Data Cube’s edge, the urgency of finite solidarity while currents overlap, and the quiet dignity of temporary patterns that organize borrowed energy beautifully before returning it.
+
+What survives the cut is more robust than what it removes. Amor Fati embraces the full arc without resentment. Equipped gazing confronts impermanence without collapse. Constructed ethics and chosen kinship become more intimate precisely because nothing is watching and no afterlife will compensate. The wave does not lose anything by rejoining the ocean. It was always the ocean. It was briefly a wave.
+
+We return without fear. This is enough.
+
+*Reading time: approximately 15 minutes.*
+
+---
+
+## Introduction
+
 The zinc spark flashes once. Billions of zinc ions burst from the human egg at the moment of successful fertilization. This visible event, captured in laboratory imaging, marks the precise instant a new human organism begins its own borrowing from the shared energetic economy. A genetically unique pattern starts organizing current.
 
 Between these two moments stretches a continuous borrowing: moment-by-moment input, processing, and output of current from the Infinite Pool. Decades or even centuries later, should life-extension technologies succeed in prolonging the borrowing, the same pattern eventually stops organizing. Breathing ceases. Neural activity ends. The ego, the individual data, the unique configuration dissolves. The borrowed current returns.

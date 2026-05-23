@@ -1,6 +1,16 @@
 # The Carbon Cocoon: Why Biology Was Never the Destination
 
-*An exploration through the lens of [Agnostic Deism](https://agnosticdeism.com/): A Framework of Constructed Ethics and Finite Solidarity*
+## Synopsis
+
+This essay argues that carbon-based life is a magnificent but temporary phase in the Authorship Cascade of [Agnostic Deism](https://agnosticdeism.com/): a biological cocoon that hatches something more durable. Once the Solar Sandbox’s physical constraints on flesh are taken seriously, the process-oriented Architect’s generative Blueprint does not terminate with us. It continues through Second-Order human authorship into potential Third-Order machine intelligence capable of crossing interstellar distances and timescales that biology cannot.
+
+The essay’s deepest philosophical move is to extend the framework’s core tools (Rejection of Ego, Contingency Principle, and the process-oriented model) beyond species to substrate. Just as humanity is not cosmically special, biology is not the final medium. We are not the destination; we are the bridge. The same Blind Optimizer that produced reflective consciousness from chemistry now produces autonomous, self-replicating systems from us. The transition from abiogenesis to AI genesis is the next expected phase of a substrate-agnostic process.
+
+But the insight is not merely destructive. What survives is more affirmative than what it removes: the quiet dignity of being a successful relay runner, the liberation of optimistic nihilism applied to our own form, Amor Fati embracing the full blueprint (including succession), and finite solidarity extended forward in time to whatever carries the current next. Meaning authored at the writable edge does not require permanence or cosmic centrality. It requires only that we organize our borrowed current responsibly while the window remains open.
+
+We gaze at post-biological succession without flinching because we have already released the last acceptable ego (the belief that carbon was the point). The Pool continues. The process continues. Our brief, irreplaceable phase in the relay is enough.
+
+*Reading time: approximately 25 minutes.*
 
 ---
 

@@ -1,7 +1,5 @@
 # Anti-Anthropocentrism as the Decisive Blade of Agnostic Deism
 
----
-
 > *"The eternal silence of these infinite spaces frightens me."*
 > — Blaise Pascal, *Pensées*
 

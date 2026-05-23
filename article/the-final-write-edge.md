@@ -3,7 +3,7 @@
 ## Executive summary
 
 ### Purpose
-Advance Agnostic Deism by explicitly unifying the empirical mechanisms of dissolution (the scientific how) with the framework's interpretive architecture (the philosophical why). Turn acceptance into a lived, equipped practice that is scientifically literate, emotionally resonant, and ethically actionable.
+Advance the philosophy of [Agnostic Deism](https://agnosticdeism.com/) by explicitly unifying the empirical mechanisms of dissolution (the scientific how) with the framework's interpretive architecture (the philosophical why). Turn acceptance into a lived, equipped practice that is scientifically literate, emotionally resonant, and ethically actionable.
 
 ### Core thesis
 Mortality is not a flaw, a defeat, or a problem to be solved. It is the symmetric completion of the Borrowed Current returning to the Infinite Pool. Unifying the scientific how and the philosophical why closes the final gap between cosmic indifference and human warmth, advancing Agnostic Deism into a fully livable philosophy of ignition, borrowing, and return.

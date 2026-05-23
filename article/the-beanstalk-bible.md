@@ -1,5 +1,17 @@
 # The Beanstalk Bible: Why Intelligent People Still Treat Fairy Tales as Divine Revelation
 
+## Synopsis
+
+This essay argues that revealed religion persists among intelligent people because sacred texts function as exceptionally effective human fairy tales. They exploit universal cognitive machinery (hyperactive agency detection, terror management, minimally counterintuitive concepts) and cultural dynamics to provide meaning, community, moral scaffolding, and existential comfort. The "beanstalk test" reveals that any sufficiently compelling narrative, including the story of Jack and the beanstalk, would receive the same sophisticated defenses, scriptural exegesis, and personal testimonies if it had been canonized early enough.
+
+The essay’s deepest philosophical move is to map belief along a spectrum from the most sincere internal experiences (personal revelation, aesthetic transcendence) to the most instrumental external uses (social control, tribal identity), exposing revealed religion as the last acceptable ego: the culturally sanctioned form of cosmic self-importance that even secular minds often retain. Under [Agnostic Deism's](https://agnosticdeism.com/) tools (System Isolation, Rejection of Ego, process-oriented Architect, and non-intervention), every claim of divine communication collapses into an internal event generated inside the skull, indistinguishable from hallucination, pattern-seeking, or memetic success.
+
+But the blade is not merely destructive. What survives is more robust than what it removes: constructed ethics grounded in observable suffering and finite solidarity, optimistic nihilism that liberates rather than paralyzes, and the freedom to author meaning at the writable edge without needing cosmic endorsement or provincial fairy tales. The silence of the Architect is not abandonment. It is respect for the process. We are temporary receivers who can choose kinship in the Infinite Pool without performing rituals for a man-made giant who does not know we exist.
+
+*Reading time: approximately 20 minutes.*
+
+---
+
 ## I. Introduction: The Beanstalk Test
 
 Imagine that the story of Jack and the Beanstalk had been preserved in an early Christian epistle or recounted by an apostolic father as a divinely inspired account. A poor boy trades his cow for magical beans. A colossal stalk pierces the heavens. A murderous giant is slain through cleverness and divine favor. Rewards flow to the bold and faithful. Today, sophisticated theologians would defend its literal or historical core with the full arsenal of scholarship: cultural and literary context, layered allegorical meanings, archaeological analogies from ancient Near Eastern folklore, and moving personal testimonies from believers who describe their own beanstalk-like moments of sudden breakthrough and heavenly provision. Apologetic journals would publish detailed articles reconciling the narrative with physics, psychology, and ethics. Seminaries would teach dedicated courses on its deeper theological significance. Millions would structure their moral lives around its lessons, citing it in sermons, writing devotional books about climbing one's own beanstalk in faith, and forming communities that celebrate the tale as sacred history.

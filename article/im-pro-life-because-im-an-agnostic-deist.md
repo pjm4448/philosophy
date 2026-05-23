@@ -1,5 +1,17 @@
 # I'm Pro-Life Because I'm an Agnostic Deist - And That Should Terrify Both Sides
 
+## Synopsis
+
+This essay argues that a coherent application of [Agnostic Deism](https://agnosticdeism.com/) leads directly to a pro-life position grounded entirely in secular reasoning. From the zinc spark that marks the constitution of a new human organism, through the recognition of deprivation harm, the Developmental Trajectory Principle, and the Open Future Principle, the framework constructs an ethical case for protecting human life from its earliest point without any appeal to God, souls, or revelation.
+
+The essay’s deepest philosophical move is to demonstrate that this conclusion is not an optional add-on but a binding logical consequence of the framework’s own chosen foundations: suffering-minimization, finite solidarity, and the honest acknowledgment of deprivation harm. It applies these tools with equal rigor to the hardest cases and insists that genuine solidarity requires collective support for women who carry pregnancies to term. The position is explicitly species-partial within human moral communities yet fully consistent with the framework’s anti-anthropocentrism about cosmic significance.
+
+What emerges is a pro-life stance that should unsettle both sides. Religious conservatives must confront a robust defense that needs no divine command. Secular progressives must confront an argument built from the same evidence-based and philosophical resources they claim to respect, yet one that leads to a conclusion their tribe rejects. The framework does not soften the moral weight or the practical burdens it imposes. It meets them with constructed ethics and collective solidarity rather than evasion or tribal comfort.
+
+In the end, meaning and morality in Agnostic Deism are not handed down from outside the system. They are built at the writable edge. And on this issue, the construction is clear, costly, and intellectually binding.
+
+*Reading time: approximately 25 minutes.*
+
 ---
 
 ## I. Introduction

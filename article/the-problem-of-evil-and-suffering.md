@@ -1,7 +1,9 @@
 # The Problem of Evil and Suffering: Why the Traditional God of Revealed Religion Is Unlikely to Be Omnibenevolent
 
-**Central Thesis**  
-Assuming the traditional God of revealed religion exists as an omnipotent, omniscient, and personal being, the systematic omission across sacred scriptures of simple, life-saving practical knowledge, most notably the failure to reveal that boiling drinking water kills deadly pathogens, together with the prevalence of apparently gratuitous suffering and reasonable non-belief, constitutes strong evidence that this God is unlikely to be omnibenevolent. In contrast, the framework of Agnostic Deism offers a far more coherent alternative: a non-intervening, process-oriented Architect who designed elegant physical constants and an autonomous evolutionary process but does not manage specific outcomes or intervene to alleviate preventable human suffering.
+## Synopsis
+Assuming the traditional God of revealed religion exists as an omnipotent, omniscient, and personal being, the systematic omission across sacred scriptures of simple, life-saving practical knowledge, most notably the failure to reveal that boiling drinking water kills deadly pathogens, together with the prevalence of apparently gratuitous suffering and reasonable non-belief, constitutes strong evidence that this God is unlikely to be omnibenevolent. In contrast, the framework of [Agnostic Deism](https://agnosticdeism.com/) offers a far more coherent alternative: a non-intervening, process-oriented Architect who designed elegant physical constants and an autonomous evolutionary process but does not manage specific outcomes or intervene to alleviate preventable human suffering.
+
+---
 
 ### I. Introduction
 
