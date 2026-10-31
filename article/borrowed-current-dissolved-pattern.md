@@ -22,7 +22,7 @@ From that moment a continuous borrowing begins: moment-by-moment input, processi
 
 Traditional language of “life and death” invites misunderstanding. It suggests a binary loaded with expectations of souls, judgment, or some form of persistence. Agnostic Deism offers a clearer sequence grounded in the framework’s foundations: non-existence, followed by temporary existence as an organized pattern, followed by non-existence once more. The Infinite Pool provides the interpretive frame for this arc. Energy is conserved and recycled. The pattern is not.
 
-This reframing is not a new claim. It flows directly from the framework as set out in its twelfth update. It integrates the zinc spark as the observable threshold of individual existence, the Data Cube as the writable window of agency, ego annihilation as honest acceptance, and finite solidarity as the chosen response while current still flows through us. No revelation. No fairy tales. No cosmic significance. Just a coherent structure for navigating the human situation.
+This reframing is not a new claim. It flows directly from the framework as set out in its Eleventh Update. It integrates the zinc spark as the observable threshold of individual existence, the Data Cube as the writable window of agency, ego annihilation as honest acceptance, and finite solidarity as the chosen response while current still flows through us. No revelation. No fairy tales. No cosmic significance. Just a coherent structure for navigating the human situation.
 
 ## Why the Traditional Binary Misleads
 
