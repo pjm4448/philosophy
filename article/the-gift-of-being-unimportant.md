@@ -10,13 +10,13 @@ Here are five radical shifts in how this framework redefines the human experienc
 
 ### 1. Your Insignificance is the Only Honest Foundation for Meaning
 
-Most of us cling to what philosophers call the "Last Acceptable Ego": the deeply held assumption that the universe was arranged with humans in mind. We treat the cosmos as a story written for us, assuming we are the destination of complexity rather than merely one of its temporary bridges.
+Most of us cling to what Agnostic Deism calls the "Last Acceptable Ego": the deeply held assumption that the universe was arranged with humans in mind. We treat the cosmos as a story written for us, assuming we are the destination of complexity rather than merely one of its temporary bridges.
 
 Once we look at the data, however, we realize that "cosmic importance" has no available bearer. Importance is a relational property. It requires a valuer. But the universe, as substrate, has no preferences. Its "Infinite Pool" of energy has no favorites. Asking if humans are important to the cosmos is as nonsensical as asking if the number seven is heavy. And the one possible valuer the framework infers, the Architect, shows every sign of caring about the rules rather than about any outcome they produce, including us.
 
-As the Source Context notes:
+As *Anti-Anthropocentrism as the Decisive Blade* puts it, describing the reaction when someone is told that humanity is a bridge rather than the destination of complexity:
 
-"The recoil many feel when told that humanity is not the destination of complexity, but merely one temporary bridge within it, reveals how deeply this assumption runs. It is foundational."
+"That recoil is diagnostic. It reveals not a peripheral belief under threat but a load-bearing wall."
 
 If meaning isn't granted from "above" by a universe that cares, we are the sole architects of it. This is not a loss. It is an existential promotion. Meaning authored without cosmic permission is the only coherent form meaning can take.
 
@@ -34,9 +34,11 @@ This shift radically changes our view of suffering. In this model, cancer or nat
 
 ### 3. The "Zinc Spark" and Ethics Without God
 
-Perhaps the most provocative shift is how this framework grounds pro-life ethics in biology and physics rather than religious dogma. It identifies the "Zinc Spark", the fluorescence of zinc ions released at the moment of fertilization, as the empirically observable moment a new individual begins "borrowing" from the Infinite Pool in its own right.
+Perhaps the most provocative shift is how this framework grounds pro-life ethics in biology and secular philosophy rather than religious dogma. It identifies the "Zinc Spark", the fluorescence of zinc ions released at the moment of fertilization, as the empirically observable moment a new individual begins "borrowing" from the Infinite Pool in its own right.
 
-This framework protects life through the "Open Future Principle" and the "Developmental Trajectory Principle." It argues that a human embryo is not a "potential" human, but the same individual as the adult it will become, just at an earlier stage. Ending that life is what the Source calls a "Deprivation Harm", the maximally extreme elimination of future options.
+This framework protects life through the "Open Future Principle" and the "Developmental Trajectory Principle." It argues that a human embryo is not a "potential" human, but the same individual as the adult it will become, just at an earlier stage. Ending that life is what the framework calls a "Deprivation Harm", the loss of an entire future that would otherwise have been lived, and the most extreme possible elimination of future options.
+
+As the core framework states it:
 
 "A new human life begins at fertilization, marked by the zinc spark, the empirically observable moment when a genetically unique human organism is constituted and begins borrowing from the Pool in its own right."
 
@@ -50,7 +52,7 @@ We often view our lives as personal possessions. Agnostic Deism suggests we are 
 
 This leads to the Annihilation of the Ego. When we die, our "User Data", memories, personality, and self-awareness, is permanently deleted because the hardware (the brain) is destroyed. However, the energy itself, the current, is never destroyed. It simply returns to the Pool to be organized by the next form of life.
 
-There is a quiet solace in this participation. Think of it through the "Coat and the Winter" analogy: we accept that winter (death) is inevitable, yet we still wear a coat (we care for life and seek to delay its end). Accepting our mortality does not mean we must resent it or welcome it prematurely. It means accepting the "shutdown" of our personal runtime as a return to a state of rest. We are not disappearing into a void. We are returning a borrowed resource after our brief turn at the controls.
+There is a quiet solace in this participation. Think of it through the "Coat and the Winter" analogy: we accept that winter (death) is inevitable, yet we still wear a coat (we care for life and seek to delay its end). Accepting our mortality does not mean we must resent it or welcome it prematurely. Nor does it mean pretending death is good: the end of a pattern is a real loss to the one who dies, and every future they would have authored goes with it. It means accepting the "shutdown" of our personal runtime as real, without imagining it as rest, since no one remains to experience rest. The pattern ends; the energy does not disappear into a void. We are returning a borrowed resource after our brief turn at the controls.
 
 ---
 
@@ -60,7 +62,7 @@ For billions of years, we were products of a "Blind Optimizer", evolution, a pro
 
 Some call this "playing God," but that is a category error. There is no intervening God to usurp. Instead, we are shifting from "Firmware" (automatic biology) to "Software" (choice). This is an existential promotion, but it is also a terrifying burden of responsibility.
 
-As the Source Context states:
+As the core framework states:
 
 "We cannot blame the Blind Optimizer for conditions we could have modified but chose not to."
 
