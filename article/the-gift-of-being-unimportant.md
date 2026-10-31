@@ -12,7 +12,7 @@ Here are five radical shifts in how this framework redefines the human experienc
 
 Most of us cling to what philosophers call the "Last Acceptable Ego": the deeply held assumption that the universe was arranged with humans in mind. We treat the cosmos as a story written for us, assuming we are the destination of complexity rather than merely one of its temporary bridges.
 
-Once we look at the data, however, we realize that "cosmic importance" is a category error. Importance is a relational property. It requires a valuer. But the universe has no preferences. Its "Infinite Pool" of energy has no favorites. Asking if humans are cosmically important is as nonsensical as asking if the number seven is heavy.
+Once we look at the data, however, we realize that "cosmic importance" has no available bearer. Importance is a relational property. It requires a valuer. But the universe, as substrate, has no preferences. Its "Infinite Pool" of energy has no favorites. Asking if humans are important to the cosmos is as nonsensical as asking if the number seven is heavy. And the one possible valuer the framework infers, the Architect, shows every sign of caring about the rules rather than about any outcome they produce, including us.
 
 As the Source Context notes:
 
