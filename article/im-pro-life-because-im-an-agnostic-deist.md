@@ -170,6 +170,10 @@ After fertilization, there is an individual. A genetically unique human organism
 
 The distinction is between preventing the creation of an individual (no harm, because there is no subject to be harmed) and destroying an individual that already exists (deprivation harm, because a subject with a future is eliminated). Contraception does the former. Abortion does the latter. They are not on a continuum. They are categorically different acts separated by the zinc spark.
 
+#### A Note on the End of Life
+
+A reader may ask how this position fits with the framework's narrow acceptance of assisted dying, set out in *The Final Write Edge*. The same principles govern both. Deprivation harm scales with the future that is actually foreclosed, and the Open Future Principle forbids foreclosing a being's future by *others'* choices. An embryo has decades of future authorship ahead of it and cannot consent; its future would be ended by someone else. A competent person near the final write edge, whose suffering is intractable and whose alternatives are exhausted, is making the last authored choice about the last days of their own future. The framework permits that choice within strict limits and nowhere else. It is an exception for the dying, not a principle that weakens protection for anyone whose future is still ahead of them.
+
 ---
 
 ## IV. The Bodily Autonomy Conflict
