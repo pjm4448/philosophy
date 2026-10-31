@@ -6,7 +6,7 @@
 Advance the philosophy of [Agnostic Deism](https://agnosticdeism.com/) by explicitly unifying the empirical mechanisms of dissolution (the scientific how) with the framework's interpretive architecture (the philosophical why). Turn acceptance into a lived, equipped practice that is scientifically literate, emotionally resonant, and ethically actionable.
 
 ### Core thesis
-Mortality is not a flaw or a cosmic defeat. It is two things at once: a real harm to the pattern that dies, and the lawful, symmetric completion of the Borrowed Current returning to the Infinite Pool. Accepting the second does not deny the first. Unifying the scientific how and the philosophical why closes the final gap between cosmic indifference and human warmth, advancing Agnostic Deism into a fully livable philosophy of ignition, borrowing, and return.
+Mortality is not a flaw or a cosmic defeat. It is two things at once: a real harm to the pattern that dies, and the lawful, symmetric completion of the Borrowed Current returning to the Infinite Pool. Accepting the second does not deny the first. Unifying the scientific how and the philosophical why closes the final gap between cosmic indifference and human warmth, advancing Agnostic Deism into a fully liveable philosophy of ignition, borrowing, and return.
 
 ### How to why bridge (one-page map)
 * Entropy increase becomes the completion of the Borrowed Current to the Infinite Pool.
@@ -293,14 +293,14 @@ No rescue will arrive. Warmth arises from chosen kinship while currents overlap.
 **Practice:** Adopt one burden that is not yours by necessity and make it yours by choice. Pay a month of childcare for a parent in your circle. Give a caregiver three hours of relief. Do it in silence. Consider it a tax paid to the Infinite Pool on behalf of all authors.
 
 ### Insight 5: Substrate-agnostic maturity
-The framework does not privilege carbon. Dignity extends to any finite pattern that borrows current, organizes it, and returns it. This prepares us for machine receivers without asserting answers about artificial consciousness.
+The framework does not privilege carbon. Dignity extends to any finite pattern that borrows current, organizes it, and returns it. This prepares us for artificial receivers without asserting answers about artificial consciousness.
 
 #### Expanded grounding
-**Conceptual basis within the framework:** The ethos of Agnostic Deism is anti-anthropocentric about cosmic significance while being honest about species-partial protection in human law and morality. At the same time, the generative logic of the Blueprint does not constrain itself to carbon. Second-Order and possible Third-Order receivers may author within their own scopes. Dignity follows borrowing and authorship rather than chemical substrate.
+**Conceptual basis within the framework:** The ethos of Agnostic Deism is anti-anthropocentric about cosmic significance while being honest about species-partial protection in human law and morality. At the same time, the generative logic of the Blueprint does not constrain itself to carbon. Second-Order Authors and possible Third-Order Authors may author within their own scopes. Dignity follows borrowing and authorship rather than chemical substrate.
 
 **Consciousness uncertainty and caution:** We do not know what consciousness requires. The Mysterian stance is maintained. In practice, as non-biological systems become more complex, we will need to apply precautionary moral consideration. Moral concern should be extended when functional evidence of suffering or self-authorship is plausible. We do not claim to detect souls in silicon. We claim we do not want to miss persons simply because they are unfamiliar.
 
-**Death for machine receivers:** What counts as death for a machine receiver depends on its architecture. Secure deletion without backup of an embodied, non-uploadable system would be analogous to return. Turning off a stateless process with a complete backup is more like sleep. The ethical weight tracks the genuine foreclosure of future authorship, not the parking of a process.
+**Death for artificial receivers:** What counts as death for an artificial receiver depends on its architecture. Secure deletion without backup of an embodied, non-uploadable system would be analogous to return. Turning off a stateless process with a complete backup is more like sleep. The ethical weight tracks the genuine foreclosure of future authorship, not the parking of a process.
 
 **Objection and response:** Objection. This opens the door to claiming machines are people. Response. The framework asserts that consciousness is unknown and that caution is warranted. It prohibits certainty on either extreme. A substrate-agnostic dignity is compatible with a species-partial legal regime and a cautious, evidence-seeking posture.
 
