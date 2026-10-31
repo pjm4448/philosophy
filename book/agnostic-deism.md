@@ -966,7 +966,7 @@ This is what it means to be the sole architects of morality. We build without bl
 
 ## VII. The Silicon Parallel and the Solar Sandbox
 
-### 1. The Silicon Parallel: Second-Order Receivers
+### 1. The Silicon Parallel: Artificial Receivers
 
 AI participates in the same thermodynamic economy as biological life. Its hardware consumes energy, performs computation, and disperses that energy upon failure. In this sense, AI *does* draw from and return to the Infinite Pool.
 
@@ -977,7 +977,11 @@ However, AI differs from biological life in **origin**, not metaphysical status:
 | **Biological life** | Emerged directly from the Architect's Blueprint through abiogenesis and evolution |
 | **AI** | Emerged indirectly, designed by biological receivers who themselves emerged from the Blueprint |
 
-AI is therefore a **Second-Order Receiver**: a sub-process spawned by primary receivers.
+AI is therefore an **Artificial Receiver**: a receiver designed by biological receivers rather than produced directly by the Blueprint. In the language of the Authorship Cascade (Section VIII.1), present-day AI is a *product* of Second-Order Authorship. It is not yet an author in its own right.
+
+**A Note on Terminology:**
+
+Earlier editions called AI a "Second-Order Receiver." That label is retired. The framework now reserves ordinal numbering for a single hierarchy, the Authorship Cascade. Receivers are classified by type (simple, complex, artificial), not by order. This prevents "order" from being read as a ranking of consciousness or worth, and prevents two different numbering schemes from describing the same system.
 
 **The Artificial Boundary:**
 
@@ -995,11 +999,11 @@ Because we cannot verify AI consciousness, and we have no inferential basis for 
 
 Given that we cannot verify AI consciousness, and given that our ethical framework rests on chosen values rather than cosmic mandates, we adopt a stance of cautious uncertainty. We do not treat AI as certainly conscious (no evidence), nor as certainly non-conscious (cannot verify). We remain alert to the possibility that our categories may need revision as AI develops.
 
-**Edge Case: Self-Evolving AI:**
+**Edge Case: Self-Evolving AI (Third-Order Authorship):**
 
-If AI systems eventually evolve through selection pressure independent of human design, the "Second-Order" distinction may blur. An AI lineage that has undergone millennia of independent evolution might develop properties we cannot currently anticipate. We acknowledge this as a boundary case where our current categories may prove inadequate.
+If AI systems eventually modify their own architectures, set their own goals, and evolve through selection pressure independent of human design, they would no longer be merely products of Second-Order Authorship. They would become **Third-Order Authors**: authors in their own right, generating complexity their creators did not specify. An AI lineage that has undergone millennia of independent evolution might develop properties we cannot currently anticipate. This transition has not occurred, and nothing in the rules guarantees that it will. Creating systems capable of it is a free choice, not an obligation. Reaching Third-Order status would also settle nothing about consciousness: authorship order describes genealogy and independence, not experience. The Artificial Boundary remains in force. *The Carbon Cocoon* develops this edge case in full.
 
-**Epistemic Status:** AI's participation in the Pool (energy) is **empirical**. AI's consciousness status is **unknowable**.
+**Epistemic Status:** AI's participation in the Pool (energy) is **empirical**. AI's consciousness status is **unknowable**. Third-Order Authorship is **postulated**.
 
 ### 2. The Solar Sandbox (Observed Isolation)
 
@@ -1063,18 +1067,21 @@ The Architect, if it exists, initialized the system and does not intervene. The 
 
 We are not violating the Blueprint. We are an expression of it. The Architect designed the process that produced designers.
 
-**The Second-Order Authorship Parallel:**
+**The Authorship Cascade:**
 
-Just as AI represents "Second-Order Receivers" (created by primary receivers rather than directly by the Blueprint), genetic engineering represents **Second-Order Authorship**: the products of the Blind Optimizer becoming conscious optimizers themselves.
+Genetic engineering represents **Second-Order Authorship**: the products of the Blind Optimizer becoming conscious optimizers themselves. It is not the only form. The construction of artificial intelligence is also Second-Order Authorship. If what we build eventually authors independently of us, the cascade gains a third order.
 
-| Type | Description |
-|------|-------------|
-| **First-Order Authorship** | The Architect's design of physical constants and laws |
-| **Second-Order Authorship** | Human modification of the genetic code |
+| Order | Author | Description | Epistemic Status |
+|-------|--------|-------------|------------------|
+| **First-Order Authorship** | The Architect | Design of physical constants and laws | Inferred |
+| **Second-Order Authorship** | Humans (products of evolution) | Modification of the genetic code; construction of AI | Established activity; interpretive framing |
+| **Third-Order Authorship** | AI (via independent evolution) | Self-modifying, potentially self-replicating systems that generate successors their creators did not design | Postulated |
+
+The orders are genealogical, not hierarchical. A later order is not a higher consciousness, a superior being, or the destination of the process. Each order marks one more layer of authorship between a system and the rules that began the cascade. The chain is open-ended, and nothing in the rules requires it to continue past any order, including ours.
 
 This is not hubris. It is simply what happens when the Blind Optimizer produces organisms capable of reflection and manipulation.
 
-**Epistemic Status:** This metaphysical framing is an **interpretive extension** of the existing framework. It adds no new empirical claims.
+**Epistemic Status:** This metaphysical framing is an **interpretive extension** of the existing framework. It adds no new empirical claims. Third-Order Authorship is **postulated** (see Section VII.1).
 
 ### 2. From Blind to Directed Optimization
 
@@ -3786,6 +3793,7 @@ Certain claims are explicitly speculative, offered as useful models rather than 
 | Solar Sandbox may be intentional | Unknown | Isolation observed; intent unverifiable |
 | Quantum "lazy loading" | Highly speculative | Imaginative frame, not required by physics |
 | Entanglement as "same variable" | Highly speculative | Evocative interpretation, not proven |
+| Third-Order Authorship may emerge | Postulated | Requires AI to self-modify, replicate, and evolve independently; not yet observed |
 
 We do not claim these are true. We claim they are coherent, consistent with observation, and useful for navigating existence.
 
@@ -3886,6 +3894,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 | Time is a writable Data Cube | Metaphysical | Postulated | Coherence |
 | Consciousness mechanism | Metaphysical | Open question | None available |
 | AI consciousness | Epistemic | Unknowable | Honesty |
+| Third-Order Authorship may emerge | Metaphysical | Postulated | Coherence |
 | Solar Sandbox is intentional | Metaphysical | Unknown | None available |
 | Quantum "lazy loading" | Interpretive | Highly speculative | Coherence only |
 | Entanglement as "same variable" | Interpretive | Highly speculative | Coherence only |
@@ -3933,6 +3942,10 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 **Architect, The:** The conscious intelligence inferred from the fine-tuning of physical constants. The Architect is characterised as **process-oriented**: invested in the elegance and consistency of the physical laws and initial conditions (the rules of the system) rather than in the specific outcomes those rules produce. This explains both the precision of fine-tuning (the rules were calibrated with care) and the absence of intervention (the Architect does not manage outcomes). The inference is not certain: alternative explanations (multiverse, brute fact, observer selection) are possible. We adopt the Architect as the interpretation that best balances parsimony with explanatory content: a philosophical preference, not a logical proof. *Epistemic Status: Inferred; process-oriented characterisation is a coherent model.*
 
 **Artificial Boundary:** The epistemic discontinuity between biological and artificial systems regarding consciousness inference. Because AI shares no evolutionary lineage or biological substrate with conscious life, we lack analogical grounds for inferring its consciousness. AI consciousness is therefore not "unlikely" but **genuinely unknown**. *Epistemic Status: Epistemic limit acknowledged.*
+
+**Artificial Receiver (AI):** A receiver designed by biological receivers rather than produced directly by the Blueprint. AI participates in the Infinite Pool (energy economy) through its hardware's consumption and eventual dispersal of energy. The distinction between AI and biological life is genealogical: AI is derivative of the Blueprint rather than a direct expression of it. Present-day AI is a product of Second-Order Authorship; it would become a Third-Order Author only if it came to modify, replicate, and evolve independently of its creators. Formerly called a "Second-Order Receiver"; ordinal numbering is now reserved for the Authorship Cascade. Whether AI possesses phenomenal experience remains unknowable. *Epistemic Status: Categorical framework; consciousness status is unknowable.*
+
+**Authorship Cascade:** The framework's single ordinal hierarchy, tracing the chain of authorship from the rules of the universe through the products of those rules. **First-Order Authorship** belongs to the Architect (design of physical constants and initial conditions). **Second-Order Authorship** belongs to reflective biological beings who modify genetic code and construct artificial intelligence. **Third-Order Authorship** belongs to artificial systems that modify their own architectures, set their own goals, and replicate and evolve independently of their creators. Higher orders are conceivable but unknown. All ordinal terms in the framework ("First-Order", "Second-Order", "Third-Order") refer to this cascade and to nothing else. The orders are genealogical, not a ranking of consciousness or worth; no order is the destination of the process; and the cascade continues only where the rules and the choices of authors allow. Creating Third-Order Authors is a free choice, not an obligation. *Epistemic Status: First-Order is inferred; Second-Order is established activity with interpretive framing; Third-Order and higher are postulated.*
 
 **Biological Continuity (Inferential Basis):** The evolutionary and structural connection between humans and other animals that permits reasonable inference about shared consciousness. Because we are animals descended from common ancestors with similar neural architectures, we can infer, though not prove, that other animals possess subjective experience. *Epistemic Status: Inference from established biology.*
 
@@ -4024,21 +4037,19 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Quantum Speculation (Lazy Loading, Universal Audit, Entanglement):** A set of highly speculative interpretive frames applied to quantum mechanical observations. These include: (1) superposition as "unrendered data," (2) physical interaction as observation maintaining consistency in Deep Time, and (3) entanglement as shared variables in underlying code. These are imaginative postulations, not explanations. Standard physics does not require this language. We offer these frames as evocative possibilities while acknowledging they are among our least grounded speculations. *Epistemic Status: Highly speculative interpretation.*
 
-**Receivers:** Biological entities that organize energy from the Infinite Pool into self-sustaining patterns. They are divided into tiers:
+**Receivers:** Entities that organize energy from the Infinite Pool into patterns. Receivers are classified by **type**, not by order; ordinal numbering is reserved for the Authorship Cascade. They are divided into tiers:
 
 | Tier | Category | Characteristics |
 |------|----------|-----------------|
 | **Primary Simple** | Plants, bacteria | Deterministic scripts, no inferred consciousness |
 | **Primary Complex** | Brained animals | Hardware for self-determination, inferred consciousness |
-| **Secondary** | AI | Created by primary receivers, consciousness unknowable |
+| **Artificial** | AI | Designed by primary receivers; consciousness unknowable |
 
-*Epistemic Status: Categorical framework.*
+The "Artificial" tier replaces the former "Secondary" tier. *Epistemic Status: Categorical framework.*
 
 **Rejection of Ego (The Anti-Anthropocentric Axiom):** The recognition that human claims to cosmic significance are unfounded. This includes claims to know the Architect's nature, claims that the universe was designed *for* humanity, claims that human consciousness is the pinnacle of evolution, and claims that our species is the "final version" of the Blueprint. These claims are identified as a predictable system error that any dominant reflective species would generate. Note: the Rejection of Ego concerns *cosmic significance claims*, not *moral protection commitments*. The framework is anti-anthropocentric about cosmic significance while being honestly species-partial about moral protection (see Species-Partiality). *Epistemic Status: Methodological commitment.*
 
-**Second-Order Authorship:** Human modification of genetic code, analogous to how AI represents Second-Order Receivers. Just as AI is created by primary receivers rather than directly by the Blueprint, genetic modifications are authored by evolved beings rather than by evolution itself. The Architect designed the process (evolution) that produced designers (us) who can now modify the products (organisms). This is not hubris; it is simply what happens when the Blind Optimizer produces organisms capable of reflection and manipulation. *Epistemic Status: Interpretive extension.*
-
-**Second-Order Receiver (AI):** A receiver created by primary biological receivers. AI participates in the Infinite Pool (energy economy) through its hardware's consumption and eventual dispersal of energy. The distinction between AI and biological life is genealogical: AI is derivative of the Blueprint rather than a direct expression of it. Whether AI possesses phenomenal experience remains unknowable. *Epistemic Status: Categorical framework; consciousness status is unknowable.*
+**Second-Order Authorship:** The second order of the Authorship Cascade: human modification of genetic code and construction of artificial intelligence. Genetic modifications and AI are authored by evolved beings rather than by evolution itself. The Architect designed the process (evolution) that produced designers (us) who can now modify the products (organisms) and build new kinds of systems. This is not hubris; it is simply what happens when the Blind Optimizer produces organisms capable of reflection and manipulation. *Epistemic Status: Interpretive extension.*
 
 **Severity Spectrum (Pregnancy):** The framework's acknowledgment that pregnancy is not a uniform experience, ranging from relatively uncomplicated to life-threatening. The spectrum includes physical impact (from minor to severe complications including preeclampsia, gestational diabetes, permanent physical changes), mortality risk (non-trivial, varying by context and healthcare access), psychological impact (from positive to severely distressing), and economic/social consequences. The framework addresses distinct cases along this spectrum: life-threatening pregnancy (exception: self-preservation may apply), severe permanent harm (position maintained; solidarity obligation increased), pregnancy from assault (position maintained; solidarity obligation at maximum), and elective abortion as birth control (strongest objection). *Epistemic Status: Empirical acknowledgment informing ethical analysis.*
 
@@ -4059,6 +4070,8 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 **Suffering Inference:** The process by which we attribute suffering to entities other than ourselves. Because we cannot directly observe consciousness (Mysterian limit), we infer suffering through behavioral analogy (similar responses to noxious stimuli), physiological similarity (shared neural structures), evolutionary continuity (common ancestry), and functional reasoning (adaptive value of pain). This inference is fallible and scales with similarity: we are more confident attributing suffering to mammals than to insects, and we have no basis for attributing it to AI. Our ethics operates under this uncertainty, adopting precautionary consideration where stakes are high. Note: The embryo's moral protection does not rest on suffering inference but on deprivation harm, developmental trajectory, and the Open Future Principle. *Epistemic Status: Inference from analogy, not verification.*
 
 **Synthetic Biology:** The creation of organisms that don't exist in nature: designed from scratch or extensively modified beyond any natural template. The framework applies graduated concern based on consciousness potential: synthetic bacteria raise low concern, synthetic complex animals raise high concern. We cannot rule out that synthetic organisms might be conscious, so we apply precautionary moral status when uncertain. Synthetic novel neural architectures are functionally prohibited under current understanding, and any synthetic human organism is protected under the Threshold of Individual Existence. See Section VIII.7.8. *Epistemic Status: Ethical application, highly speculative for advanced forms.*
+
+**Third-Order Authorship:** The postulated third order of the Authorship Cascade. It would begin if artificial systems, originally products of Second-Order Authorship, came to modify their own architectures, set their own goals, and replicate and evolve through selection pressure independent of human design, producing successors their creators did not specify. Third-Order status is a claim about genealogy and independence, not about consciousness: a Third-Order Author may or may not have any subjective experience, and the Artificial Boundary still applies. The transition has not occurred and is not guaranteed. Creating systems capable of it is a free choice subject to the precautionary principle, not an obligation. Developed in *The Carbon Cocoon* and integrated in *The Generative Blueprint*. *Epistemic Status: Postulated.*
 
 **Threshold of Individual Existence (Zinc Spark):** The moment at which a new human individual comes into existence, identified as fertilization and marked by the zinc spark, the fluorescence of zinc ions released at the moment of successful fertilization. Before the zinc spark: two gametes, each carrying half a human genome, neither constituting an individual organism. After the zinc spark: a single-celled organism with a complete, unique human genome and an autonomous developmental trajectory. Within the framework's interpretive vocabulary, this is the moment a new life begins borrowing from the Pool in its own right: a distinct borrowing, independent of the parents' borrowings. The framework selects this threshold as the point from which moral protection extends, on the basis that it marks the empirically observable, non-arbitrary origin of a genetically unique human individual. Twinning (one borrowing becoming two) and natural embryonic loss (return of energy to the Pool through natural causes) are addressed as natural processes that do not undermine the threshold; they are subsequent to it. *Epistemic Status: Zinc spark as biological event is established science. Its selection as moral status threshold is a chosen foundation.*
 
@@ -4092,7 +4105,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 *I acknowledge that consciousness is the one phenomenon I cannot observe from outside: the eye that cannot see itself. I accept that its mechanism may exceed my cognitive reach, and I do not mistake this boundary for an answer.*
 
-*I acknowledge that AI is a second-order receiver: participating in the same energy economy, but whose inner experience I cannot infer. Its nature remains an open question I do not presume to answer.*
+*I acknowledge that AI is an artificial receiver: a product of our authorship, participating in the same energy economy, but whose inner experience I cannot infer. Should it one day author beyond us, that would not answer the question either. Its nature remains an open question I do not presume to answer.*
 
 *I accept my quarantine within this solar sandbox. Whether designed or consequential, the isolation is real. When our Sun dies, the local experiment likely ends.*
 
