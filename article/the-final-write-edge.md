@@ -6,7 +6,7 @@
 Advance the philosophy of [Agnostic Deism](https://agnosticdeism.com/) by explicitly unifying the empirical mechanisms of dissolution (the scientific how) with the framework's interpretive architecture (the philosophical why). Turn acceptance into a lived, equipped practice that is scientifically literate, emotionally resonant, and ethically actionable.
 
 ### Core thesis
-Mortality is not a flaw, a defeat, or a problem to be solved. It is the symmetric completion of the Borrowed Current returning to the Infinite Pool. Unifying the scientific how and the philosophical why closes the final gap between cosmic indifference and human warmth, advancing Agnostic Deism into a fully livable philosophy of ignition, borrowing, and return.
+Mortality is not a flaw or a cosmic defeat. It is two things at once: a real harm to the pattern that dies, and the lawful, symmetric completion of the Borrowed Current returning to the Infinite Pool. Accepting the second does not deny the first. Unifying the scientific how and the philosophical why closes the final gap between cosmic indifference and human warmth, advancing Agnostic Deism into a fully livable philosophy of ignition, borrowing, and return.
 
 ### How to why bridge (one-page map)
 * Entropy increase becomes the completion of the Borrowed Current to the Infinite Pool.
@@ -43,7 +43,9 @@ We return without fear. This is enough.
 **Ignition. Borrowing. Return.**
 
 ## Thesis (core advancement of the framework)
-Agnostic Deism reaches its fullest maturity when the empirical mechanisms of biological and cosmic dissolution are explicitly unified with its interpretive architecture. Mortality is not a flaw, a defeat, or a problem to be solved, but the symmetric completion of the Borrowed Current returning to the Infinite Pool. This integration transforms the framework into a complete, equipped, and emotionally resonant operating system for temporary receivers. It is honest about impermanence, warm in finite solidarity, and aligned with the universe's scale-invariant architecture. By closing the final gap between cosmic indifference and human warmth, this essay advances Agnostic Deism into a fully livable philosophy of the entire cycle: ignition, borrowing, and return.
+Agnostic Deism reaches its fullest maturity when the empirical mechanisms of biological and cosmic dissolution are explicitly unified with its interpretive architecture. Mortality is not a flaw or a cosmic defeat. It is a genuine harm to the one who dies, the loss of every future they would have authored, and at the same time the symmetric completion of the Borrowed Current returning to the Infinite Pool. This integration transforms the framework into a complete, equipped, and emotionally resonant operating system for temporary receivers. It is honest about impermanence, warm in finite solidarity, and aligned with the universe's scale-invariant architecture. By closing the final gap between cosmic indifference and human warmth, this essay advances Agnostic Deism into a fully livable philosophy of the entire cycle: ignition, borrowing, and return.
+
+**A note on harm and completion:** Throughout this essay, "completion" and "return" describe what death is at the level of energy and law. They do not say that death is good. The framework accepts mortality metaphysically (death is real and inevitable) and psychologically (we need not live in terror of it). It does not accept mortality normatively: death remains the annihilation of a conscious being and a real harm to the one who dies. Nor does it accept mortality behaviourally: accepting that winter comes does not mean refusing the coat. Every image of calm return in what follows should be read with this in mind. The energy is conserved. The pattern, and every future it would have authored, is lost.
 
 ## I. Introduction: Mortality as the decisive integration point
 *[Epistemic status: Inferred]*
@@ -189,7 +191,7 @@ Seeing the bridge clarifies that return is orderly, not chaotic. I can choose to
 ## IV. The unification: where how and why converge
 *[Epistemic status: Inferred with empirical anchors and clearly marked analogies]*
 
-Entropy is the way the ocean draws things level. The Second Law is the tide timetable pinned to the marina wall. In our language, it is the way the Borrowed Current returns to the Infinite Pool. Energy is conserved. The shape is not. That is not loss. That is law.
+Entropy is the way the ocean draws things level. The Second Law is the tide timetable pinned to the marina wall. In our language, it is the way the Borrowed Current returns to the Infinite Pool. Energy is conserved. The shape is not. The energy is not lost; the pattern is. That is law, and the loss of the pattern is still a real harm to the one who dies.
 
 Renormalization-group flow is a staircase into the abyss, a descent through chambers where each successive room is cleaner, quieter, and wider. Ego dissolution feels like this in many reports. The mapping is conceptual and flagged as such, yet the mood aligns. Anyone who has allowed the self to loosen will recognize the relief and the dread of having less to carry. The equations teach reverence for the methodical. The phenomenology supplies the ache and the relief.
 
@@ -214,7 +216,7 @@ I can plan for my last write edge by writing a letter of reconciliation now, not
 *[Epistemic status: Inferred]*
 
 ### Insight 1: Symmetric completion
-Death is the precise mirror image of the zinc spark. The zinc spark marks the constitution of a new individual. Death completes the lawful return. Entropy does not abolish meaning. It closes a thermodynamic arc that began in ignition.
+Death is the precise mirror image of the zinc spark. The zinc spark marks the constitution of a new individual. Death completes the lawful return. That completion does not cancel the harm: what is lost is the pattern and every future it would have authored. Entropy does not abolish meaning. It closes a thermodynamic arc that began in ignition.
 
 #### Expanded grounding
 **Conceptual basis within the framework:** The zinc spark is adopted as the interpretive threshold of individual existence. It is an empirically observable oocyte activation marker that marks the beginning of a distinct developmental trajectory. The end of life is the symmetric cessation of organized borrowing. Together they bracket a single, continuous thermodynamic event. The Infinite Pool functions as the interpretive frame for the energy that is conserved throughout. The Borrowed Current begins at the spark and ends in return. The Writable Data Cube clarifies where authorship occurs between these bookends.
@@ -344,7 +346,7 @@ Dignity accumulates as presence. The more we practice write-edge authorship and 
 #### Expanded grounding
 **Conceptual basis within the framework:** Presence is a habit of mind and a practice of body. As with any habit, repetition grooves it deeper. If you practice small returns to the write edge every day, you will not panic when the edge narrows. This does not remove fear. It makes fear bearable. This does not remove grief. It makes grief clean. In the arithmetic of dignity, each small act adds up. Nothing is lost. Your ledgers are in your own hand.
 
-**Practical confirmation:** Families who read the last daily entries of people like Daniel experience a different grief than those who must reconstruct narratives from memory. Patients like Elena who refine a manifesto over years can draw it like a sword in one sentence when the time comes. Clinicians like Dr. Chen who anchor their work in presence find their own moral injury reduced. These are not proofs. They are consistent observations.
+**Illustration, not evidence:** In the composite vignettes in Section VI, families who read the last daily entries of people like Daniel experience a different grief than those who must reconstruct narratives from memory. Patients like Elena who refine a manifesto over years can draw it like a sword in one sentence when the time comes. Clinicians like Dr. Chen who anchor their work in presence find their own moral injury reduced. These are illustrations of the hypothesis, not observations. Whether compounded dignity works this way in real lives is an empirical question, and the research agenda in Section XII proposes how to test it.
 
 **Objection and response:** Objection. Life is chaotic. Many people cannot sustain habits. Response. Any presence is better than none. Compounding works with small deposits. Start with 60 seconds. Write one line. Light one candle. Call one person.
 
@@ -425,7 +427,7 @@ Dr. Mei Chen directed palliative care in a mid-sized hospital. She was a secular
 
 In one case, a 62-year-old man with end-stage pulmonary fibrosis requested assisted dying the day of admission, overwhelmed by breathlessness and fear. After a discussion of intent and alternatives, he agreed to a two-day trial of intensified symptom control and the equipped practices. On day two, after dictating a letter to his estranged son and revising his manifesto, he reaffirmed his request. He was found competent. In the jurisdiction, assisted dying required a second opinion and a waiting period, which was observed. He died under the law with his manifesto read aloud. The stark hospital lighting, the rigid intubation protocols nearby, and the chill of the pharmaceutical interventions were softened by the constructed warmth of the minute of silence, the gentle reading of the patient's authored lines, and the deliberate restoration of narrative agency. The family later reported that the presence practices changed the ending, even if the timing still felt swift. In another case, a patient who initially asked for assisted dying withdrew the request after two weeks of daily manifesto readings, saying, "I do not want to stop writing yet."
 
-Dr. Chen tracked outcomes. Families reported higher satisfaction and lower rates of complicated grief compared to historical controls. Staff reported clearer ethical grounding. The protocol did not impose belief. It offered disciplined practices at the edge.
+In this composite, Dr. Chen's team noticed that families seemed more satisfied and staff described clearer ethical grounding. These are illustrative impressions, not measured results. Whether a protocol like this actually reduces complicated grief is exactly what Study 1 in Section XII is designed to test. The protocol did not impose belief. It offered disciplined practices at the edge.
 
 **So what for my life today?**
 Choose one micro-protocol and schedule it. Preparation is not theoretical.
@@ -465,6 +467,13 @@ Write the closing sentence you would want read to you at the edge. Place it with
 
 ### B. Assisted dying boundaries
 **Competence and final edge:** The framework supports competent, voluntary requests near the final write edge when suffering is intractable and alternatives are exhausted. Coercion, psychiatric crisis without imminent finality, and non-voluntary cases are not supported. Prevention and care, not facilitation, are appropriate in non-terminal cases. Palliative sedation remains a distinct practice aimed at suffering relief.
+
+**Why this is consistent with deprivation harm:** The framework holds that death is a harm because it forecloses a future, and it protects human life from the zinc spark on exactly that basis. Assisted dying is a narrow exception, not a contradiction, for three reasons.
+- **The size of the foreclosed future.** Deprivation harm scales with the future that is actually lost. An embryo loses decades of authorship. A competent person near the final write edge loses days or weeks that the condition itself is already closing.
+- **Whose choice forecloses the future.** The Open Future Principle forbids foreclosing a being's future by *others'* choices. The embryo cannot consent; its future would be ended by someone else. The competent dying person is the author of their own final entry. Their request is the last act of authorship at the write edge, not something done to them.
+- **What remains of the future.** When suffering is intractable and alternatives are exhausted, the person judges that what remains is dominated by suffering. The framework trusts that judgment only when the person is competent and the end is near, because only then can it reliably be distinguished from a symptom of treatable crisis.
+
+If any condition fails (the person is not near the final edge, is not competent, is under pressure, or has untried options), the exception does not apply and the presumption against hastening death returns in full. Accepting mortality never requires hastening it. This exception permits a choice; it does not recommend one.
 
 ### C. Life extension ethics
 **Coat-and-winter analogy:** It is coherent to extend life while accepting death as eventual. Directed Optimization aligns with authorship.
