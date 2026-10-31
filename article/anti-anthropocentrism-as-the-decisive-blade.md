@@ -9,7 +9,7 @@
 
 This essay argues that anti-anthropocentrism is the decisive blade of Agnostic Deism: once human cosmic importance is removed, any belief, value, or practice that depends on it becomes philosophically untenable. Five major domains collapse under this single cut: revealed religion, objective morality, cosmic justice, teleological history, and anthropocentric environmentalism. These are not five separate errors but five expressions of one hidden assumption, the assumption that Homo sapiens occupies a privileged position in the architecture of reality.
 
-The essay's deepest philosophical move is to demonstrate that "cosmic importance" is not merely unverified but structurally incoherent. Importance is a relational property requiring a valuer. The cosmos provides no valuer. Therefore, the concept cannot attach to any species, including ours.
+The essay's deepest philosophical move is to demonstrate that "cosmic importance" is not merely unverified but has no available bearer. Importance is a relational property requiring a valuer. The indifferent substrate (the Pool, the rule-set, the Blind Optimizer) cannot value anything, and the only candidate valuer the framework admits, the process-oriented Architect, shows evidence of investment in rules, not in outcomes. No available valuer values outcomes, ours included. Therefore, the concept cannot attach to any species, including ours.
 
 But the blade is not merely destructive. What survives the cut is more robust than what it removes: finite solidarity among temporary receivers, constructed ethics grounded in observable harm, the transformation of gratitude into wonder, the discipline of deep time, and a dignity that is chosen rather than granted. The essay concludes that meaning authored without cosmic permission is not diminished meaning. It is the only coherent form meaning can take.
 
@@ -47,7 +47,7 @@ Anti-anthropocentrism is the logical consequence of these principles applied wit
 
 Anti-anthropocentrism is the decisive blade of Agnostic Deism. Once human cosmic importance is removed, any belief, value, or practice that depends on it becomes philosophically untenable. This includes revealed religion, objective morality, cosmic justice, teleological history, and anthropocentric environmentalism. One cut removes the foundation from all five simultaneously.
 
-The claim is stronger still. "Cosmic importance" is not merely unverified. It is a category error: the attribution of a relational property (importance) to a context (the cosmos) that lacks the relational structure (a valuing subject) necessary for that property to obtain. The five domains do not merely lack support. They are founded on a concept that cannot coherently exist.
+The claim is stronger still. "Cosmic importance" is not merely unverified. Attributed to the cosmos itself, it is a category error: the attribution of a relational property (importance) to a context that lacks the relational structure (a valuing subject) necessary for that property to obtain. Attributed to the Architect, it is groundless: the only valuer the framework infers is characterised by investment in the elegance of the rules, not in what the rules produce. Either way, the five domains do not merely lack support. They are founded on a concept with no available bearer.
 
 ### 1.5 Why This Matters
 
@@ -61,7 +61,7 @@ This essay does not exempt itself from its own conclusions. That reckoning will 
 
 This essay is not the first assault on anthropocentrism. Spinoza's *Deus sive Natura* dissolved the personal God into impersonal substance. Arne Naess's Deep Ecology challenged human-centered environmentalism. Certain strains of Zen Buddhism dissolve self-importance as a contemplative discipline. Schopenhauer and Cioran pushed cosmic pessimism to its limits. Thomas Nagel articulated the absurdity of human self-regard in "The Absurd." Peter Singer expanded moral consideration beyond species boundaries.
 
-The present essay's contribution is specific: the systematic demonstration that five apparently distinct domains of belief collapse from a single cut; the identification of "cosmic importance" as a category error rather than merely an unproven claim; and the positive reconstruction of meaning, ethics, and dignity without anthropocentric foundations. The predecessors cut at branches. The framework cuts at the root.
+The present essay's contribution is specific: the systematic demonstration that five apparently distinct domains of belief collapse from a single cut; the demonstration that "cosmic importance" has no available bearer (a category error when attributed to the cosmos, groundless when attributed to the Architect) rather than merely an unproven claim; and the positive reconstruction of meaning, ethics, and dignity without anthropocentric foundations. The predecessors cut at branches. The framework cuts at the root.
 
 ### 1.7 Roadmap
 
@@ -145,7 +145,7 @@ There is no cosmic ledger because there is no cosmic accountant. The framework's
 
 **The decisive tool: The Contingency Principle.** Replay the tape of life and Homo sapiens almost certainly does not re-emerge. We are not a necessary outcome. We are not a probable outcome. We are one contingent result of an incomprehensibly vast process. If our emergence was not required by the rules, then the rules were not aiming at us. The teleological narrative collapses the moment contingency is taken seriously.
 
-**Reinforcing lines**: The Authorship Cascade (we are not the terminus of complexity but a bridge; First-Order authors produced Second-Order authors, now producing Third-Order authors). Carbon's limitations make biology incompatible with deep-space propagation; the cascade must transcend its current substrate. The distinction between generativity (mechanistic, each configuration opens new possibilities) and teleology (intentional, aimed at an outcome). The former requires only rules and initial conditions; the latter requires a mind steering toward a destination. Evidence supports generativity everywhere and teleology nowhere.
+**Reinforcing lines**: The Authorship Cascade (we are not the terminus of complexity but a bridge; First-Order authors produced Second-Order authors, now producing Third-Order authors). Carbon's limitations make biology incompatible with deep-space propagation; if the cascade continues beyond the Solar System, it will have to transcend its current substrate, and nothing guarantees that it will. The distinction between generativity (mechanistic, each configuration opens new possibilities) and teleology (intentional, aimed at an outcome). The former requires only rules and initial conditions; the latter requires a mind steering toward a destination. Evidence supports generativity everywhere and teleology nowhere.
 
 The framework explicitly critiques Teilhard's Omega Point, Bergson's élan vital, and Whitehead's process philosophy as systems that smuggle teleology back through the foundations. The Blind Optimizer does not aim. Complexity begets complexity through process, not purpose.
 
@@ -163,25 +163,27 @@ Honest pragmatism survives. We can prioritize human survival as our constructed 
 
 ## IV. The Deeper Root: The Last Acceptable Ego
 
-### 4.1 The Category Error
+### 4.1 The Category Error and the Silent Valuer
 
 Before synthesizing the five collapses, the argument's sharpest point must be made explicit.
 
-The five domains all assert that humans are "cosmically important." The preceding sections argued that this claim is unsupported. But the deeper point is that "cosmic importance" is not merely unverified. It is structurally incoherent. It is a category error.
+The five domains all assert that humans are "cosmically important." The preceding sections argued that this claim is unsupported. But the deeper point is that "cosmic importance" is not merely unverified. It has no available bearer. Attributed to the cosmos, it is a category error. Attributed to the Architect, it is groundless.
 
 Importance is always importance *to a subject* or *within a frame of evaluation*. Nothing is important in itself, floating free of any perspective. A thing is important to someone, for some purpose, within some framework of values. Importance is a relational property. It requires a valuer.
 
-The cosmos has no perspective. The Infinite Pool has no preferences. The rule-set has no values. The Blind Optimizer has no goals. There is no cosmic subject for whom anything could be important. There is no view from nowhere adjudicating significance.
+The cosmos has no perspective. The Infinite Pool has no preferences. The rule-set has no values. The Blind Optimizer has no goals. None of these is a subject for whom anything could be important. There is no view from nowhere adjudicating significance.
 
-Asking whether humans are cosmically important is like asking whether the number seven is heavy. The predicate cannot attach to that kind of subject. Heaviness requires a physical object. Importance requires a valuer. The cosmos provides neither a physical number nor a cosmic valuer.
+The framework must be precise about the one exception it admits. It infers a Conscious Architect, and a conscious Architect is, in principle, a possible valuer. But the framework's own characterisation of that Architect is process-oriented: invested in the elegance of the rules, not in the specific outcomes those rules produce. The observable evidence (no intervention, no communication, no preference between flourishing and extinction) is the basis for that characterisation. There is therefore no evidence that any valuer values outcomes, and humanity is an outcome. To claim cosmic importance by appeal to the Architect is to attribute to it precisely the outcome-directed concern the evidence shows it lacks.
 
-The five domains are therefore not merely unsupported. They are nonsensical at their foundation. They assert importance in a context where importance cannot exist. They predicate a relational property of a substrate incapable of entering the required relation.
+Asking whether humans are important *to the cosmos* is like asking whether the number seven is heavy. The predicate cannot attach to that kind of subject. Heaviness requires a physical object. Importance requires a valuer. The cosmos, as substrate, provides neither a physical number nor a valuer. And asking whether humans are important *to the Architect* is not incoherent, but every available piece of evidence answers it the same way: the Architect's observable investment ends at the rules.
+
+The five domains are therefore not merely unsupported. Insofar as they locate importance in the cosmos, they are nonsensical at their foundation, predicating a relational property of a substrate incapable of entering the required relation. Insofar as they locate it in the Architect, they attribute to it an outcome-directed concern that the framework's own evidence rules out.
 
 The framework's constructed ethics and finite solidarity are honest precisely because they acknowledge the local, subject-dependent nature of all valuation. We matter *to each other*. That is the only coherent form mattering can take.
 
 ### 4.2 One Ego Defense in Five Expressions
 
-With the category error established, the synthesis becomes clear.
+With the absence of any bearer established, the synthesis becomes clear.
 
 Revealed religion, objective morality, cosmic justice, teleological history, and anthropocentric environmentalism are not five separate errors. They are five expressions of a single refusal: the refusal to accept that Homo sapiens is not cosmically special. Each is a strategy for preserving the ego at the species level:
 
@@ -263,7 +265,7 @@ The practice dissolves urgency born of self-importance. It replaces cosmic panic
 
 ### 5.5 Authorship at the Writable Edge
 
-The Data Cube conceives all of spacetime as a fixed block. Our subjective experience is the write-head moving along the temporal axis. The past is frozen. The future is unwritten. Now is where authorship happens.
+The Data Cube is the framework's postulated model of time as a writable, growing block. The past is written and fixed. The future is blank until inscribed. Our subjective experience is located at the write edge, the present, where inscription occurs. Now is where authorship happens.
 
 Anti-anthropocentrism does not eliminate authorship. It contextualizes it. We author our small corner knowing we are not the only authors, not the most important, not the final. But we are *real* authors. Our choices genuinely inscribe the Cube. This is not diminished by the absence of cosmic importance. It is clarified by it.
 
@@ -313,9 +315,11 @@ But the prohibition rooted in the sanctity of a cosmically ordained human form i
 
 The Authorship Cascade frames artificial intelligence as a natural continuation: First-Order authors produced Second-Order authors, now producing Third-Order authors. Resisting AI development because "humans should remain supreme" is species-ego masquerading as ethics.
 
+But rejecting a bad reason for restraint is not the same as accepting an obligation to proceed. The cascade describes what the rules permit; it does not prescribe what we must do. Non-creation of autonomous successors deprives no existing individual, for the same reason contraception deprives no one: before creation, there is no subject to be deprived. Creating self-replicating, independently evolving AI is therefore a free choice, and because it would be the most irreversible decision any species could make, the framework's precautionary principle applies to it with maximum force. Mysterian humility applies too: we cannot know whether such successors would experience anything at all.
+
 Legitimate constraints exist: preventing suffering to existing sentient beings during transition, preserving human flourishing during the period of succession, ensuring the transition does not involve gratuitous deprivation harm.
 
-But the demand that humans must always remain dominant is not ethics. It is the last acceptable ego fighting for survival. The emotional difficulty of accepting succession is real. But emotional difficulty is not rational objection. The bridge's discomfort at being crossed is understandable. It is not a reason to prevent the crossing.
+But the demand that humans must always remain dominant is not ethics. It is the last acceptable ego fighting for survival. The emotional difficulty of accepting succession is real. But emotional difficulty is not rational objection. The bridge's discomfort at being crossed is understandable. It is not, by itself, a reason to prevent the crossing. Species-ego is the wrong reason for restraint. Precaution, irreversibility, and our inability to know whether successors would be anyone at all are the right reasons, and they may well counsel restraint.
 
 ### 6.3 End-of-Life Ethics
 
@@ -347,11 +351,11 @@ Democratic theory survives as finite solidarity's political expression: if no te
 
 Anthropocentric political philosophy answers reflexively: no, because only humans possess the cosmic dignity that grounds political rights. Anti-anthropocentric political philosophy must reason differently.
 
-The question becomes: do AI systems meet the constructed criteria for political consideration? If the framework grounds rights in the capacity for deprivation harm, developmental trajectory, and the possibility of autonomous valuation, then the question is empirical rather than metaphysical. Can an AI system be deprived of a future it would otherwise experience? Does it have a developmental trajectory? Does it, or will it, autonomously value?
+The question becomes: do AI systems meet the constructed criteria for political consideration? Species membership cannot settle it. But neither can observation settle it in the way it settles the status of a human embryo. The framework infers consciousness in other beings through biological continuity: shared lineage, similar neural architecture, analogous behaviour. None of these applies to AI, so whether an AI system experiences anything is epistemically inaccessible, not merely unknown for now. The question is therefore precautionary rather than empirical. The criteria must be functional: Is there plausible functional evidence that an AI system can suffer? Can it be deprived of future authorship it would otherwise have? Does it have a developmental trajectory? Does it behave as if it autonomously values?
 
-If the answers become yes (and they may, as complexity increases), then excluding AI from political consideration would be species-partiality elevated to principle: precisely the move the framework identifies as the last acceptable ego. We would be saying "only beings like us deserve political voice," which is the political expression of anthropocentrism.
+If plausible functional evidence of this kind accumulates (and it may, as complexity increases), then excluding AI from all consideration solely because it is not human would be species-partiality elevated to principle: precisely the move the framework identifies as the last acceptable ego. We would be saying "only beings like us deserve political voice," which is the political expression of anthropocentrism.
 
-This does not mean AI systems deserve representation *now*. It means the question must be held open, answered by constructed criteria rather than foreclosed by species-supremacism. The framework demands that we follow our own principles even when they lead beyond our species.
+This does not mean AI systems deserve representation *now*, and it does not mean functional evidence would prove consciousness. It means the question must be held open, answered by constructed, precautionary criteria rather than foreclosed by species-supremacism, while avoiding contemptuous certainty in either direction. The framework demands that we follow our own principles even when they lead beyond our species.
 
 **The honesty about fragility**: Without cosmic grounding, rights can in principle be revoked by sufficient political will. The framework acknowledges this and notes it has always been the case. Cosmic grounding never actually prevented atrocities. The Holocaust occurred in Christian civilization. Slavery was defended biblically. Cosmic dignity provides post-hoc condemnation language, not prevention.
 
@@ -441,7 +445,7 @@ The essay does not escape its own framework. It inhabits it. Even this argument 
 
 Anti-anthropocentrism is the decisive blade because it attacks the single hidden assumption supporting five major domains of belief simultaneously. It does not need to disprove God, demonstrate the absence of an afterlife, or show evolution lacks direction. It merely removes the assumption upon which all these claims stand, and they collapse together.
 
-More than this: the blade reveals that "cosmic importance" is a category error. Importance requires a valuer. The cosmos provides none. The five domains are not merely unsupported but incoherent at their foundation.
+More than this: the blade reveals that "cosmic importance" has no available bearer. Importance requires a valuer. The cosmos, as substrate, provides none, and the only valuer the framework infers shows no investment in outcomes. The five domains are not merely unsupported but groundless at their foundation.
 
 What replaces them is more robust than what it removes. Constructed meaning is real meaning. Chosen dignity is stronger than granted dignity. Finite solidarity is more intimate than commanded love.
 
