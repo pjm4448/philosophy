@@ -8,23 +8,32 @@
 
 ## Preamble
 
-This document presents a philosophical framework for interpreting existence. It is not a religion, not a scientific theory, and not a claim to revealed truth. It is a *structure for living*: an attempt to integrate scientific understanding with existential needs while remaining honest about the limits of human knowledge.
+This document presents a philosophical framework for interpreting existence and for living within it. It is not a religion, not a scientific theory, and not a claim to revealed truth. It is a *structure for living*: an attempt to integrate scientific understanding, metaphysical interpretation, constructed ethics, and existential meaning while remaining honest about the limits of human knowledge.
 
-**The Name Explained:**
+**The Name Explained:**  
+**Agnostic**: We acknowledge fundamental limits on what can be known from within the system. We cannot observe the "Outside," verify the Architect's nature, or claim access to cosmic truth. Epistemic humility is therefore foundational.
 
-**Agnostic**: We acknowledge fundamental limits on what can be known from within the system. We cannot observe the "outside," verify the Architect's nature, or claim cosmic truth. Epistemic humility is foundational.
+**Deism**: We infer a non-intervening Architect from features of reality we interpret as suggestive of design, particularly the apparent fine-tuning of physical constants. Unlike classical theism, this Architect does not intervene, answer prayers, reveal moral law, or manage particular outcomes. Unlike atheism, we do not reject the possibility of an Architect. We infer one while explicitly accepting that the inference may be wrong.
 
-**Deism**: We infer a non-intervening designer from the fine-tuning of physical constants. Unlike classical theism, this designer does not intervene, answer prayers, or provide moral law. Unlike atheism, we do not deny a designer: we infer one while admitting uncertainty.
+**The Architect and the Process**: The framework does not interpret humanity, consciousness, or any particular species as the intended outcome of creation. If an Architect exists, we understand its authorship as applying primarily to the laws, constants, and generative conditions from which complexity became possible. Evolution is therefore a Blind Optimizer: a process without foresight, moral concern, or predetermined biological destination. Humanity is one contingent product of that process, not its culmination.
 
-**Constructed Ethics**: The universe provides no moral code. We build ethics from chosen foundations: the recognition of suffering, the choice of solidarity, the acceptance of shared mortality, and the protection of human life from the point of individual existence.
+**The Rejection of Cosmic Privilege**: Human intelligence does not make humanity the point of existence. We reject anthropocentrism as a claim about cosmic significance. We are temporary, contingent, and replaceable expressions of a universe that shows no evidence of privileging our species. Yet cosmic insignificance does not entail personal or moral insignificance. Importance exists wherever beings capable of valuing one another create it.
 
-**Finite Solidarity**: We are temporary patterns of organized energy, connected to all life through participation in the same thermodynamic economy. Our mortality is shared; our kinship is chosen.
+**Constructed Meaning and Ethics**: The universe provides neither a discoverable moral code nor a pre-written purpose for human existence. We therefore construct meaning and ethics rather than pretending to receive them from outside the system. Our ethical foundations include the recognition of suffering, deprivation harm, solidarity, shared mortality, and the protection of human life from the point of individual existence. These are chosen commitments, not cosmic commandments. Their lack of external authorization does not diminish our responsibility for the consequences that follow from them.
 
-The framework makes claims of different types: empirical foundations drawn from science, metaphysical interpretations that provide meaning, postulated models offered as useful speculation, methodological commitments that guide inquiry, and constructed values that shape ethics. These different claim types are subject to different standards, and we mark each accordingly.
+**Finite Solidarity**: We are temporary patterns of organized matter and energy participating in the same thermodynamic economy. The Infinite Pool is our interpretive vocabulary for this shared condition, not an additional physical substance and not a source of moral law. We borrow, organize, and eventually return the energy that sustains us. Our mortality is shared; our kinship is chosen.
 
-The framework also addresses practical domains, including genetic engineering and the moral status of early human life, applying its principles to emerging questions about human self-modification and the protection of human existence from its earliest point. We are products of a Blind Optimizer, but we are not obligated to remain as that process made us. Our constructed ethics guide our modifications and also establish limits on what may be done to the most vulnerable members of our species.
+**Agency and Authorship**: We are products of processes we did not choose, but we have developed the capacity to understand and increasingly modify some of those processes. Through reason, technology, genetic engineering, and potentially the creation of new forms of intelligence, the products of blind optimization can become conscious authors. This does not make us cosmically privileged. It makes us responsible for what we choose to do with the limited authorship available to us.
 
-We do not claim certainty where we have none. We do not mistake interpretation for discovery, or postulation for proof. What we offer is coherence, honesty, and a viable structure for navigating the human situation.
+**Mortality and the Finite Life**: Individual consciousness, memory, personality, and identity depend upon the organized biological pattern that sustains them. When that pattern irreversibly dissolves, the individual ends. We accept this without requiring ourselves to welcome death, hasten it, or refuse attempts to extend life. Acceptance is not endorsement. Finitude does not make life meaningless; it makes the present domain of agency precious.
+
+**Epistemic Discipline**: The framework makes claims of different kinds: empirical foundations drawn from science, philosophical inferences, metaphysical interpretations, postulated models, methodological commitments, and constructed values. These categories are not interchangeable. An evocative metaphor is not thereby physics; an inference is not an observation; a scientific fact does not by itself produce a moral obligation; and a chosen value is not rendered dishonest merely because the universe did not command it. Each claim must be held according to the epistemic standard appropriate to it.
+
+Agnostic Deism is therefore the **metaphysical foundation** of a broader philosophy rather than a complete description of everything the framework contains. From that foundation follows an attempt to confront existence without revelation, humanity without cosmic privilege, morality without divine command, suffering without providence, agency without guaranteed free will, and mortality without an afterlife.
+
+We do not claim certainty where we have none. We do not mistake interpretation for discovery, possibility for inevitability, description for prescription, or postulation for proof. We do not require the universe to care about us before we care about one another.
+
+What we offer instead is coherence, epistemic humility, constructed meaning, finite solidarity, and the deliberate use of whatever authorship the present allows.
 
 ---
 
