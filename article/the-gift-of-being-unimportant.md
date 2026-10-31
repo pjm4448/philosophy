@@ -2,7 +2,7 @@
 
 In 1990, the Voyager 1 spacecraft turned its lens toward home from 3.7 billion miles away. The result was a photograph of a single, lonely pixel suspended in a sunbeam: a "pale blue dot." For many, this image triggers a profound existential vertigo, a spike in anxiety as the mind registers our absolute smallness against the "eternal silence of infinite spaces." Historically, our response to this vertigo has been a rescue operation. We reach for religion or unique destiny to recenter ourselves as the protagonists of the cosmic story.
 
-But there is a more courageous path. It is found in Agnostic Deism, not a religion, but a structure for living built on "epistemic humility." It suggests that the most surprising thing about our cosmic unimportance is that the universe’s indifference is actually our greatest source of freedom. By letting go of the need for "cosmic permission," we can reconstruct a life of meaning and solidarity that is more robust precisely because it is entirely our own.
+But there is a more courageous path. It is found in Agnostic Deism, not a religion, but a structure for living built on "epistemic humility." It suggests that the most surprising thing about our cosmic unimportance is that the universe's indifference is actually our greatest source of freedom. By letting go of the need for "cosmic permission," we can reconstruct a life of meaning and solidarity that is more robust precisely because it is entirely our own.
 
 Here are five radical shifts in how this framework redefines the human experience.
 
