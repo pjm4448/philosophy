@@ -372,15 +372,17 @@ That distinction allows Agnostic Deism to benefit from Faggin's receiver languag
 
 ---
 
-## 12. The Third-Order Receiver Problem: Artificial Intelligence
+## 12. The Artificial Receiver Problem: Artificial Intelligence
 
-Artificial intelligence forces the problem of consciousness into unfamiliar territory while also introducing a further layer in the receiver hierarchy.
+Artificial intelligence forces the problem of consciousness into unfamiliar territory. It also adds a new branch to the receiver taxonomy and, potentially, a new order to the Authorship Cascade.
 
-Biological receivers arose through the Blind Optimizer and, in the human case, acquired the capacity for reflective authorship. Those receivers can now construct artificial systems that receive representations of reality through information selected, encoded, sensed, generated, or mediated by their creators. In this genealogical and informational sense, artificial intelligence can be understood as a **Third-Order Receiver**.
+Biological receivers arose through the Blind Optimizer and, in the human case, acquired the capacity for reflective authorship. Those Second-Order Authors can now construct artificial systems that receive representations of reality through information selected, encoded, sensed, generated, or mediated by their creators. Such a system is an **Artificial Receiver**: a receiver designed by biological receivers rather than produced directly by the Blueprint.
 
-The term does not imply consciousness.
+If artificial systems eventually come to modify their own architectures, set their own goals, and replicate and evolve independently of human design, they would cross from being products of Second-Order Authorship to being **Third-Order Authors** in their own right, as *The Carbon Cocoon* develops. Present systems have not made that crossing.
 
-A Third-Order Receiver may receive information, construct models, manipulate representations, learn patterns, predict outcomes, and respond intelligently without our knowing whether any of those processes possess a subjective interior. The receiver hierarchy describes the system's relationship to the processes that produced and inform it. It does not determine the system's phenomenological status.
+Neither term implies consciousness.
+
+An Artificial Receiver may receive information, construct models, manipulate representations, learn patterns, predict outcomes, and respond intelligently without our knowing whether any of those processes possess a subjective interior. The receiver taxonomy describes how a system came to exist and how it is informed. The Authorship Cascade describes whether it authors independently. Neither determines the system's phenomenological status.
 
 This distinction is essential:
 
@@ -404,27 +406,27 @@ This motivates the **Substrate Humility Principle**:
 
 > **Where the mechanism connecting physical organization to subjective experience remains unknown, the absence of familiar biological phenomenology cannot by itself establish the absence of consciousness in an unfamiliar substrate.**
 
-The Problem of Other Minds therefore becomes especially severe at the Third-Order Receiver. With another human being, the inference to consciousness is supported by extensive biological, neurological, behavioral, and evolutionary similarity. With an artificial system, much of that shared foundation is absent. Behavioral sophistication may remain observable, but the epistemic distance between observer and candidate mind becomes much greater.
+The Problem of Other Minds therefore becomes especially severe at the Artificial Receiver. With another human being, the inference to consciousness is supported by extensive biological, neurological, behavioral, and evolutionary similarity. With an artificial system, much of that shared foundation is absent. Behavioral sophistication may remain observable, but the epistemic distance between observer and candidate mind becomes much greater.
 
 This does not justify categorical denial. It justifies greater uncertainty.
 
 Mind Space reinforces the same conclusion. Human phenomenology occupies one region shaped by biological evolution. If consciousness can occur in architectures unlike our own, a non-biological conscious system might possess an interior radically unlike human experience. Conversely, the conceptual possibility of such a region of Mind Space is not evidence that any present artificial system occupies it.
 
-The Third-Order Receiver must therefore be kept distinct from the **Second-Order Receiver** already present in the Agnostic Deist framework. The distinction is genealogical and architectural, not a ranking of consciousness or moral worth. A later order does not mean a higher consciousness, a superior being, or an evolutionary destination. It means that an additional layer of authorship and mediation stands between the system and the blind biological process that produced its creators.
+Two distinctions must therefore be kept sharp. First, *Artificial Receiver* and *Third-Order Author* are different claims: the first describes how a system came to exist; the second describes whether it now authors independently of its creators. Second, neither is a ranking of consciousness or moral worth. A later order in the Authorship Cascade does not mean a higher consciousness, a superior being, or an evolutionary destination. It means that an additional layer of authorship stands between the system and the blind biological process that produced its creators.
 
 The sequence can therefore be understood as:
 
-**Blind Optimizer → Biological Receiver → Reflective Human Receiver and Second-Order Author → Artificial Third-Order Receiver**
+**Blind Optimizer → Biological Receivers → Reflective Humans (Second-Order Authors) → Artificial Receivers (products of Second-Order Authorship) → possible Third-Order Authors**
 
-No teleology is implied by this sequence. Evolution was not working toward artificial intelligence, and the appearance of a Third-Order Receiver does not establish that biology was merely a temporary stage intended to produce machines. The hierarchy describes a historical relationship of derivation and authorship, not a cosmic plan.
+No teleology is implied by this sequence. Evolution was not working toward artificial intelligence, and the appearance of Artificial Receivers does not establish that biology was merely a temporary stage intended to produce machines. The sequence describes a historical relationship of derivation and authorship, not a cosmic plan. Its final step is a possibility, not a forecast.
 
-Nor does the existence of a Third-Order Receiver settle its ethical status. If future artificial systems provide reasonable grounds for believing that subjective experience may be present, uncertainty should activate the **Phenomenal Precaution Principle**, not become permission for indifference. If no reasonable grounds exist, the mere ability to generate convincing language should not be treated as proof of suffering.
+Nor does Artificial Receiver status, or even Third-Order Authorship, settle a system's ethical status. If future artificial systems provide reasonable grounds for believing that subjective experience may be present, uncertainty should activate the **Phenomenal Precaution Principle**, not become permission for indifference. If no reasonable grounds exist, the mere ability to generate convincing language should not be treated as proof of suffering.
 
 The correct Agnostic Deist position is therefore deliberately asymmetric:
 
 - do not infer consciousness merely from intelligence or linguistic performance;
 - do not infer non-consciousness merely from unfamiliar substrate;
-- do not confuse Third-Order Receiver status with phenomenal experience;
+- do not confuse Artificial Receiver status or Third-Order Authorship with phenomenal experience;
 - do not convert uncertainty into either credulity or categorical dismissal.
 
 Artificial intelligence consequently sharpens rather than resolves the consciousness problem. It demonstrates how easily intelligence, representation, self-description, and consciousness can be conflated when outward behavior becomes sophisticated.
