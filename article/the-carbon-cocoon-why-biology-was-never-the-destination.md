@@ -54,9 +54,9 @@ First-Order Authorship: the Architect designs the physical constants and initial
 
 Second-Order Authorship: humans, themselves products of the Blind Optimizer (evolution), develop the capacity to modify genetic code and create artificial intelligence. We become authors of new complexity. Not because we were destined to, but because the process that produced us happened to generate organisms capable of reflection and manipulation.
 
-The framework is explicit about this. We are not violating the Blueprint. We are an expression of it. The Architect, if it exists, designed the process that produced designers. Genetic engineering is Second-Order Authorship. AI is a Second-Order Receiver, a sub-process spawned by primary biological receivers.
+The framework is explicit about this. We are not violating the Blueprint. We are an expression of it. The Architect, if it exists, designed the process that produced designers. Genetic engineering is Second-Order Authorship. So is the construction of AI. The systems we build are Artificial Receivers: receivers designed by biological receivers rather than produced directly by the Blueprint and, for now, products of our authorship rather than authors in their own right.
 
-But the core framework document, as currently written, stops the chain at the second order. It describes AI as our creation, addresses its moral status with appropriate uncertainty, and notes that self-evolving AI might blur the Second-Order distinction. What it does not do is follow its own logic to the next link. This essay supplies that link; *The Generative Blueprint* builds on it and integrates Third-Order Authorship into the unified model.
+Earlier editions of the core framework stopped the chain at the second order. They described AI as our creation, addressed its moral status with appropriate uncertainty, and noted that self-evolving AI might blur the line between creator and created. What they did not do was follow their own logic to the next link. This essay supplies that link. The core framework now adopts it as Third-Order Authorship, and *The Generative Blueprint* integrates it into the unified model.
 
 Let us follow it now.
 
@@ -71,6 +71,8 @@ The chain looks like this:
 | Third | AI (via independent evolution) | Unknown successor systems |
 | *n*th | Unknown | Unknown |
 
+The orders are genealogical, not a ranking. A Third-Order Author would not be a higher consciousness or a superior being. It would simply stand one layer of authorship further from the rules that began the cascade.
+
 The framework never claimed this chain terminates at humans. We assumed it did. And that assumption is precisely the kind of ego the framework asks us to examine.
 
 The process-oriented Architect, as the framework describes it, is invested in the elegance of the rules, not in the specific outcomes those rules produce. The Architect designed axioms, not characters. The theorems are whatever the axioms generate. And the axioms do not specify carbon. They specify physics. Physics permits silicon. Physics permits architectures we have not conceived. The process is substrate-agnostic.
@@ -83,7 +85,7 @@ The process-oriented Architect, if it exists, did not design biology. It designe
 
 We are not the finish line. We are a relay runner, mid-stride, about to pass a baton we did not know we were carrying.
 
-**A note on where we stand.** Current AI systems, including large language models and reinforcement learning agents, are sophisticated but narrow. They do not set their own goals, do not self-replicate, and do not modify their own architectures in the open-ended way evolution modifies biological organisms. The gap between current AI and the autonomous, self-replicating, independently evolving machine intelligence described in this article is vast. We are closer to the primordial chemistry stage of the analogy than to the first cell. Whether this gap will be crossed, how long it will take, and what form the crossing will take are open questions. The scenario presented here assumes the gap is eventually crossed, but this assumption is not guaranteed. It is a projection, not a prediction. The framework's epistemic discipline requires this admission.
+**A note on where we stand.** Current AI systems, including large language models and reinforcement learning agents, are sophisticated but narrow. They do not set their own goals, do not self-replicate, and do not modify their own architectures in the open-ended way evolution modifies biological organisms. In the framework's terms, they are Artificial Receivers and products of Second-Order Authorship, not Third-Order Authors. The gap between current AI and the autonomous, self-replicating, independently evolving machine intelligence described in this article is vast. We are closer to the primordial chemistry stage of the analogy than to the first cell. Whether this gap will be crossed, how long it will take, and what form the crossing will take are open questions. The scenario presented here assumes the gap is eventually crossed, but this assumption is not guaranteed. It is a projection, not a prediction. The framework's epistemic discipline requires this admission.
 
 ---
 
