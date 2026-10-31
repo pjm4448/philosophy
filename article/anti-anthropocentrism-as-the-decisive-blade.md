@@ -1,7 +1,7 @@
 # Anti-Anthropocentrism as the Decisive Blade of Agnostic Deism
 
 > *"The eternal silence of these infinite spaces frightens me."*
-> — Blaise Pascal, *Pensées*
+> Blaise Pascal, *Pensées*
 
 ---
 
@@ -459,7 +459,7 @@ We can feel the upwelling of existence and let it bloom into wonder rather than 
 
 We can sit with deep time, feeling our brevity not as tragedy but as the condition of all finite beauty.
 
-We can die without terror because returning Borrowed Current is not loss. It is completion. The wave does not lose anything by rejoining the ocean. It was always the ocean. It was briefly a wave.
+We can die without terror. Death is still a loss: the pattern, and every future it would have authored, does not come back. But returning Borrowed Current is also completion. The energy is conserved; the water rejoins the ocean. It was always the ocean. It was briefly a wave.
 
 Even this essay is Borrowed Current being spent. Even this clarity will dissolve.
 
