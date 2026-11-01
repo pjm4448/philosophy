@@ -21,7 +21,7 @@ Mortality is not a flaw or a cosmic defeat. It is two things at once: a real har
 2. Concentrated authorship: the final write edge intensifies agency and intention.
 3. Ego annihilation as fractal self-similarity: personal dissolution reflects universal motifs.
 4. Finite solidarity as human warmth: chosen kinship is the bridge from silence to care.
-5. Substrate-agnostic maturity: dignity extends to any finite pattern, not just carbon.
+5. Substrate-agnostic maturity: substrate alone neither grants nor rules out moral consideration.
 6. Equipped gazing as creative affirmation: transform passive nihilism into authorship.
 7. Quiet dignity of return: the mature affective signature of Agnostic Deism.
 
@@ -197,7 +197,7 @@ Renormalization-group flow is a staircase into the abyss, a descent through cham
 
 The quantum substrate is an old sea under a new moon. We are threaded from its foam. To return is not to be betrayed. It is to reenter the only dark that has ever existed. The process-oriented Architect did not write a rescue scene for the end. The scene is the ocean itself. We are not abandoned to it. We are revealed by it.
 
-The zinc spark gives us symmetry's bright point. There is an exactness to the moral origin that completes itself in an exactness of return. Between the clinical flash and the soft, rhythmic dissolution lies an authored life. This clarifies the pro-life commitment without appeal to revelation. A borrowing that has begun should not be cut short without grave counter-reasons. Deprivation harm is concrete: an entire future of authorship and solidarity foreclosed.
+The zinc spark gives us symmetry's bright point. There is an exactness to the moral origin that completes itself in an exactness of return. Between the clinical flash and the soft, rhythmic dissolution lies an authored life. This clarifies the pro-life commitment without appeal to revelation. A borrowing that has begun should not be deliberately cut short. The framework recognises only two exceptions: a pregnancy that threatens the life of the woman, where two lives are in tragic conflict, and the narrow assisted-dying exception for a competent person near the final write edge (core framework, Section VI.8). Deprivation harm is concrete: an entire future of authorship and solidarity foreclosed.
 
 Self-similarity binds the grand scene to the intimate. The dying of a star and the dying of a person share motifs. A core collapses. There is a threshold. There is release of stored forms. There is a new baseline. To feel this kinship is to cease taking our decay personally, to accept it as the way the universe writes and erases everything it loves and does not love.
 
@@ -293,12 +293,12 @@ No rescue will arrive. Warmth arises from chosen kinship while currents overlap.
 **Practice:** Adopt one burden that is not yours by necessity and make it yours by choice. Pay a month of childcare for a parent in your circle. Give a caregiver three hours of relief. Do it in silence. Consider it a tax paid to the Infinite Pool on behalf of all authors.
 
 ### Insight 5: Substrate-agnostic maturity
-The framework does not privilege carbon. Dignity extends to any finite pattern that borrows current, organizes it, and returns it. This prepares us for artificial receivers without asserting answers about artificial consciousness.
+The framework does not treat carbon as a requirement for mind. Substrate alone neither grants moral consideration nor rules it out. This prepares us for artificial receivers without asserting answers about artificial consciousness.
 
 #### Expanded grounding
-**Conceptual basis within the framework:** The ethos of Agnostic Deism is anti-anthropocentric about cosmic significance while being honest about species-partial protection in human law and morality. At the same time, the generative logic of the Blueprint does not constrain itself to carbon. Second-Order Authors and possible Third-Order Authors may author within their own scopes. Dignity follows borrowing and authorship rather than chemical substrate.
+**Conceptual basis within the framework:** The ethos of Agnostic Deism is anti-anthropocentric about cosmic significance while being honest about species-partial protection in human law and morality. At the same time, the generative logic of the Blueprint does not constrain itself to carbon. Second-Order Authors and possible Third-Order Authors may author within their own scopes. Authorship, however, is not experience: the order a system holds in the Authorship Cascade settles nothing about whether it is conscious, and moral consideration tracks the possibility of experience, not chemical substrate.
 
-**Consciousness uncertainty and caution:** We do not know what consciousness requires. The Mysterian stance is maintained. In practice, as non-biological systems become more complex, we will need to apply precautionary moral consideration. Moral concern should be extended when functional evidence of suffering or self-authorship is plausible. We do not claim to detect souls in silicon. We claim we do not want to miss persons simply because they are unfamiliar.
+**Consciousness uncertainty and caution:** We do not know what consciousness requires. The Mysterian stance is maintained. The core framework holds that AI consciousness is epistemically inaccessible: we cannot infer it by biological analogy, and functional evidence cannot establish it. What functional evidence can do is trigger precaution. As non-biological systems become more complex, plausible functional indicators of suffering or self-authorship should prompt precautionary moral consideration without being mistaken for proof. We do not claim to detect souls in silicon. We claim we do not want to miss persons simply because they are unfamiliar.
 
 **Death for artificial receivers:** What counts as death for an artificial receiver depends on its architecture. Secure deletion without backup of an embodied, non-uploadable system would be analogous to return. Turning off a stateless process with a complete backup is more like sleep. The ethical weight tracks the genuine foreclosure of future authorship, not the parking of a process.
 
