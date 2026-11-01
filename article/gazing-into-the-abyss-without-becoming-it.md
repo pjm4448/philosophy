@@ -13,7 +13,7 @@ This essay argues that sustained, unprotected contemplation of cosmic indifferen
 
 The essay’s deepest philosophical move is to demonstrate that [Agnostic Deism](https://agnosticdeism.com/) does not forbid the gaze. It equips the gazer. Using the framework’s core resources (Rejection of Ego, Contingency Principle, Amor Fati, optimistic nihilism, finite solidarity, and the distinction between passive and active nihilism), it transforms the abyss from a source of corrosion into a hammer that clears false comforts, making space for constructed ethics and deliberate authorship at the writable edge.
 
-Revealed religion often functions as the last acceptable ego, a preemptive shield that fills the silence before the gaze can fully land. What survives the unprotected stare is more resilient than what it removes: active construction of meaning through chosen foundations, collective solidarity that bears real ethical burdens together, and the quiet dignity of temporary receivers who affirm the blueprint without demanding cosmic reassurance. The framework offers practical safeguards such as scheduled abyss sessions paired with creative response, living manifestos, and community buffers, allowing honest engagement without collapse.
+Revealed religion often functions as the most culturally sanctioned form of the last acceptable ego (the species-level belief that humanity is cosmically special): a preemptive shield that fills the silence before the gaze can fully land. What survives the unprotected stare is more resilient than what it removes: active construction of meaning through chosen foundations, collective solidarity that bears real ethical burdens together, and the quiet dignity of temporary receivers who affirm the blueprint without demanding cosmic reassurance. The framework offers practical safeguards such as scheduled abyss sessions paired with creative response, living manifestos, and community buffers, allowing honest engagement without collapse.
 
 We can gaze into the abyss without becoming it because we have already released the expectation that the universe must answer back. The Pool continues. The process continues. Our brief, honest participation in it is enough.
 
@@ -61,7 +61,7 @@ Empirical research now corroborates Nietzsche’s insight. Studies using the Exi
 
 The hazard is structural. Consciousness is relational; what we attend to reshapes the temporary receiver. System Isolation and the writable Data Cube make the search feel bottomless. Minds evolved for local agency-detection confront cosmic indifference under a non-intervening, process-oriented Architect. Our firmware is optimized for small-band survival and hyperactive agency detection, while the software must grapple with vast scales of time, contingency, and silence. The ego mounts a final defensive stand against the contingency principle, only to find itself hollowed when that defense fails.
 
-These built-in vulnerabilities make the need for equipped gazing not merely helpful, but essential. Revealed religion often functions as the last acceptable ego, a culturally sanctioned shield that fills the silence before the unprotected gaze can fully land.
+These built-in vulnerabilities make the need for equipped gazing not merely helpful, but essential. Revealed religion often functions as the most culturally sanctioned form of the last acceptable ego, the species-level belief that humanity is cosmically special: a shield that fills the silence before the unprotected gaze can fully land.
 
 ## Equipped Gazing — Agnostic Deism as Antidote
 
