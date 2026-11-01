@@ -2,7 +2,7 @@
 
 ### *A philosophy of reality, authorship, solidarity, and return*
 
-### *Revised Edition: Eleventh Update*
+### *Revised Edition: Twelfth Update*
 
 ---
 
@@ -25,7 +25,9 @@ This document presents a philosophical framework for interpreting existence and 
 
 **Agency and Authorship**: We are products of processes we did not choose, but we have developed the capacity to understand and increasingly modify some of those processes. Through reason, technology, genetic engineering, and potentially the creation of new forms of intelligence, the products of blind optimization can become conscious authors. This does not make us cosmically privileged. It makes us responsible for what we choose to do with the limited authorship available to us.
 
-**Mortality and the Finite Life**: Individual consciousness, memory, personality, and identity depend upon the organized biological pattern that sustains them. When that pattern irreversibly dissolves, the individual ends. We accept this without requiring ourselves to welcome death, hasten it, or refuse attempts to extend life. Acceptance is not endorsement. Finitude does not make life meaningless; it makes the present domain of agency precious.
+**Consciousness**: Conscious experience is directly encountered and cannot honestly be eliminated from our description of reality. The human person is profoundly tethered to the biological organization that sustains it, yet the ultimate relationship between consciousness and matter remains unresolved. We call this position **Agnostic Conscious Realism**: experience is real, biology matters, ontology remains open, and ethical responsibility does not wait for certainty.
+
+**Mortality and the Finite Life**: The individual person (memory, personality, relationships, and identity) depends upon the organized biological pattern that sustains it. When that pattern irreversibly dissolves, the individual ends. We accept this without requiring ourselves to welcome death, hasten it, or refuse attempts to extend life. Acceptance is not endorsement. Finitude does not make life meaningless; it makes the present domain of agency precious.
 
 **Epistemic Discipline**: The framework makes claims of different kinds: empirical foundations drawn from science, philosophical inferences, metaphysical interpretations, postulated models, methodological commitments, and constructed values. These categories are not interchangeable. An evocative metaphor is not thereby physics; an inference is not an observation; a scientific fact does not by itself produce a moral obligation; and a chosen value is not rendered dishonest merely because the universe did not command it. Each claim must be held according to the epistemic standard appropriate to it.
 
@@ -68,6 +70,10 @@ This is the foundational recognition of **System Isolation**. Because we are com
 
 Any entity within a system is limited by the physics, perception ranges, and sensors provided by that system. Just as a character in a video game cannot look "behind" the screen to see the programmer's office, we cannot step outside the universe to verify the Architect's nature.
 
+**System Isolation Applied to Consciousness:**
+
+The same boundary applies inward. Conscious observers are trying to discover the ontology of consciousness while operating *through* consciousness. Any revelation, intuition, altered state, or feeling of unity still arrives as an experience mediated by the very system whose nature is disputed. The experience may be profound; its interpretation remains an interpretation. The framework is therefore **agnostic about the ultimate nature of the Architect and agnostic about the ultimate ontology of consciousness**, for the same reason: the strongest available claims outrun the evidence accessible from within the system (Section V.3).
+
 **The Rejection of Ego:**
 
 To claim certain knowledge of the Architect's name, face, or specific intent is a "Man-Made" bug born of human ego. We acknowledge the Architect may exist by observing the mathematical "Blueprint," but we admit its nature, and the true nature of existence, are variables beyond our current observation range.
@@ -81,6 +87,10 @@ Evolution does not aim at humans. We are not the destination: we are a snapshot.
 If humanity vanished tomorrow, the ecological and cognitive niche we occupy would eventually be filled by another species. That species, upon developing reflective cognition, would likely generate its own mythologies of cosmic centrality. They would assume their form of consciousness was the pinnacle. They would be exactly as wrong as we are when we make such claims.
 
 Recognizing our contingency dissolves anthropocentric ego. We are not the point. We are not the final version. We are a temporary configuration of matter that happens to be capable of asking questions, and that capability does not make our answers privileged.
+
+**Consciousness Does Not Restore Privilege:**
+
+The mystery of consciousness must not become a back door for cosmic privilege. Even if consciousness were ontologically fundamental, it would not follow that *human* consciousness is the purpose of the universe; if consciousness emerged from biological complexity, emergence would not make humanity the culmination of evolution. Anti-anthropocentrism survives either ontology. **The ontological importance of consciousness must not be confused with the cosmic importance of humanity.** We can be astonishing without being the point.
 
 **Epistemic Status:** These are **methodological commitments**, not empirical claims. They establish boundaries for inquiry.
 
@@ -139,6 +149,8 @@ Earlier versions of this framework used "Field" in the title, suggesting a propo
 **What the Pool Does and Does Not Do:**
 
 The Pool provides an interpretive vocabulary for thinking about interconnection and impermanence. It does *not* generate moral obligations. Shared participation in the same energetic economy is a fact about physics; it does not logically compel solidarity, kinship, or moral concern. We *choose* solidarity and find the Pool a resonant frame for expressing that choice, but the choice comes first, and the frame follows. The Pool illustrates; it does not justify.
+
+Nor is the Pool a consciousness field. It expresses continuity of substrate, not continuity of mind or personal identity. The claim that the underlying physical economy is itself conscious would be an additional metaphysical proposition requiring its own argument; the framework does not make it. **The Pool is energy, not mind.**
 
 **Epistemic Status:** The Pool is an **interpretive frame**, not an additional empirical claim. It provides meaning without adding predictions. It does not do normative work.
 
@@ -349,8 +361,8 @@ The question of Free Will applies only to a narrow window of cosmic time: the er
 |-----|----------|-------------|
 | Initialization → Abiogenesis | ~9.5 billion years | None (Hard-Coded Laws only) |
 | Simple Life | ~3.5 billion years | None (Firmware only) |
-| Complex Consciousness | ~500 million years | Gradient: increasing with neural complexity |
-| Human-Level Consciousness | ~300,000 years | Highest known degree of self-determination |
+| Complex Nervous Systems | ~500 million years | Gradient: increasing with neural complexity |
+| Human-Level Cognition | ~300,000 years | Highest known degree of self-determination |
 | Post-Solar Death | Trillions of years+ | None (no receivers) |
 
 Before Abiogenesis, no receivers existed to deliberate. After Solar Death, none will remain.
@@ -359,7 +371,7 @@ For the vast majority of the universe's timeline, both past and future, the Free
 
 We do not ask whether rocks have free will. We should similarly recognize that the universe, in most of its duration, is equally indifferent to the question.
 
-**The Gradient Note:** Consistent with the Firmware/Software gradient acknowledgment, the table above reflects that agency does not appear as a binary switch. Complex consciousness emerged gradually over ~500 million years, with increasing neural sophistication producing increasing degrees of self-determination. Human-level consciousness represents the highest *known* degree, not a categorically different kind.
+**The Gradient Note:** Consistent with the Firmware/Software gradient acknowledgment, the table above reflects that agency does not appear as a binary switch. Complex nervous systems emerged gradually over ~500 million years, with increasing neural sophistication producing increasing degrees of self-determination. Human-level cognition represents the highest *known* degree of self-determination, not a categorically different kind. The table ranks *agency*, not *consciousness*: intelligence and self-determination are not measures of subjective experience, and limited cognition is not evidence that experience is absent (Section V.3).
 
 **Epistemic Status:** The Locality of Agency is an **interpretive observation**. Free Will itself remains an **open question** we cannot resolve from within the system.
 
@@ -383,6 +395,7 @@ The Infinite Pool is a philosophical reframing of energy as shared participation
 - An additional entity beyond physics
 - Something that could be detected independently of energy itself
 - A source of moral obligations (the Pool describes; it does not prescribe)
+- A consciousness field, cosmic mind, or reservoir of souls (the Pool is energy, not mind)
 
 **The Practical Meaning:**
 
@@ -424,39 +437,100 @@ Abiogenesis is a gap in current scientific knowledge. We acknowledge this gap ra
 
 **Epistemic Status:** The occurrence of abiogenesis is **established**. The mechanism is **scientifically unknown**. Our interpretive frame ("handshake") is **poetic metaphor**, not explanation.
 
-### 3. The Conscious Boundary (Mysterian Postulate)
+### 3. The Conscious Boundary: Agnostic Conscious Realism
 
-Consciousness presents a unique epistemic problem: we cannot observe it from outside, and we cannot explain its mechanism.
+Consciousness presents a unique epistemic problem: it is known from the inside before any theory about it is constructed, yet it cannot be observed from outside, and its relationship to matter remains unexplained. The framework's position is **Agnostic Conscious Realism**, developed in full in *Consciousness at the Boundary*.
 
-**The Mysterian Stance:**
+**The Smallest Defensible Claim:**
 
-We adopt a **Mysterian stance** regarding the *generation* of consciousness: how subjective experience arises from matter may exceed human cognitive architecture. This is not a supernatural claim, but a recognition of potential structural limits.
+**Conscious experience exists.** One's own experience is *directly apprehended*: it remains even while perception, memory, and reason are questioned. Everything beyond that requires argument. This does not make consciousness supernatural; it makes it epistemically distinctive.
 
-The brain studying consciousness is like an eye attempting to see itself: the instrument and the object are the same. We lack an external vantage point.
+**The Biological Tether:**
 
-Just as a dog cannot comprehend calculus (not because calculus is mystical, but because dog cognition lacks the necessary structures), human cognition may lack the structures required to model the generation of experience.
+Whatever the ultimate ontology of consciousness, the human person available to observation depends profoundly on the organized biological system that sustains it. Injury, drugs, anaesthesia, sleep, disease, and degeneration can alter memory, personality, perception, emotion, language, and judgment.
 
-**What Mysterianism Claims:**
+A distinction is required between **consciousness itself** and **the organized conscious pattern called a person**. Neurological evidence shows the brain shaping the *contents, capacities, and organization* of consciousness. It is a stronger, unproven claim that the brain manufactures consciousness *as such*. But this distinction does not rescue the personal ego: the person whose survival matters to us is constituted by precisely those memories, dispositions, relationships, and embodied perspectives that are biologically dependent (Section V.5).
 
-| Mysterianism Asserts | Mysterianism Does Not Assert |
-|----------------------|------------------------------|
+**Evolution Built the Interface:**
+
+The Blind Optimizer shaped the **interface through which human consciousness operates**: pain that discourages damage, fear that mobilizes, attachment that binds, senses that sample a minute range of the environment. Evolution can explain why such functions were selected. It does not thereby explain why any of that processing has an interior dimension. An evolutionary explanation of *function* must not be silently converted into an ontological explanation of *experience*. Evolution shaped the receiver we are; whether it manufactured the fact of receiving remains open.
+
+**Four Concepts That Must Not Be Collapsed:**
+
+| Concept | Concerns |
+|---------|----------|
+| **Consciousness** | Subjective experience: there being something it is like to be the system |
+| **Intelligence** | Learning, prediction, reasoning, problem-solving, adaptive goal-directed behaviour |
+| **Self-consciousness** | The capacity to represent oneself as oneself (requirements contested) |
+| **Personhood** | A normative and social category; not simply identical to intelligence, consciousness, biological humanity, or self-description |
+
+None of these automatically entails the others. Formidable intelligence does not prove an interior point of view; limited intelligence is not evidence that suffering is morally irrelevant. Computational competence is not a consciousness meter.
+
+**The Hard Problem, Stated Fairly:**
+
+Physical descriptions are quantitative and relational; experience presents qualities: redness, pain, warmth, longing. The challenge is how a description consisting entirely of physical relations could entail an experienced quality.
+
+The materialist reply must be granted its full force. Emergent properties need not resemble their components: a single neuron is not conscious, and that does not prove an organized neural system cannot be. Emergence is a real explanatory pattern in nature. The narrower question is whether phenomenal experience can be explained by emergence in the same way as structural or functional properties. Declaring the answer obvious merely relocates the mystery into the word *emergence*. Equally: **physicalism has not yet supplied an agreed explanation of phenomenal consciousness; this does not establish that physicalism can never do so.**
+
+**The Factory and the Antenna:**
+
+| | **The Factory** (the brain generates consciousness) | **The Antenna** (the brain constrains or expresses a more fundamental consciousness) |
+|---|---|---|
+| **Strength** | Experience tracks biological state; evolutionary continuity; no additional substrate required | Takes experience as ontologically basic; need not derive subjectivity from non-subjectivity |
+| **Unresolved problem** | Ontological: why should physical processing have an inside at all? | Evidential: what demonstrates the signal independently of the antenna? ("Where is the broadcast?") |
+| **What the framework retains** | The Biological Tether, evolutionary continuity, and the dependence of personal identity on the brain | The warning that dependence is not identical to production, and that the hard problem cannot be dismissed by renaming it emergence |
+
+The two models fail at different points. Brain dependence does not deductively prove brain production; but a receiver analogy without independent evidence of a broadcast establishes a metaphysical possibility, not a demonstration. **The failure of one explanation is not evidence sufficient to prove whichever alternative we prefer.** Beyond what each model earns, the framework stops. That stop is the boundary of warrant.
+
+**The Receiver of Reality:**
+
+The framework retains the language of reception in a modest, defensible sense. Biological senses sample selected interactions; nervous systems transform and integrate them with memory, prediction, and bodily state. We do not see electromagnetic radiation as equations; we see colour. The organism is a **Receiver of Reality**, presenting a biologically mediated representation of the world sufficient for action. Different receivers sample and organize the world differently, so their experienced worlds need not be identical (see Mind Space, Section V.4). **The biological receiver is empirically defensible. A consciousness broadcast remains metaphysically unresolved.** Throughout this framework, "receiver" refers to the reception of energy and of information about reality, never to the reception of consciousness from a source beyond the organism.
+
+**The Mysterian Component:**
+
+Within Agnostic Conscious Realism, the framework retains a **Mysterian stance** regarding the *relationship between consciousness and physical organization*: understanding it may exceed human cognitive architecture. This is not a supernatural claim, but a recognition of potential structural limits.
+
+The brain studying consciousness is like an eye attempting to see itself: the instrument and the object are the same. We lack an external vantage point (Section I.1).
+
+Just as a dog cannot comprehend calculus (not because calculus is mystical, but because dog cognition lacks the necessary structures), human cognition may lack the structures required to resolve how experience relates to matter.
+
+**What Agnostic Conscious Realism Asserts:**
+
+| Asserts | Does Not Assert |
+|---------|-----------------|
 | Consciousness is real | Consciousness is illusory |
+| Human personal identity is biologically tethered | The brain has been shown to manufacture consciousness as such |
+| The ontology of consciousness is unresolved | Consciousness is fundamental, or a field beyond the brain |
 | The mechanism is beyond our current grasp | The mechanism is unknowable forever |
 | Humility is the appropriate stance | Speculation is forbidden |
 
-**Epistemic Status:** Mysterianism is a **methodological commitment** acknowledging the limits of current understanding.
+**Three Overreaches Rejected:**
+
+- **Materialist overreach:** we can increasingly map the machinery associated with consciousness; therefore consciousness has been exhaustively explained.
+- **Idealist overreach:** materialism has not explained consciousness; therefore consciousness must be fundamental and independent of matter.
+- **Anthropocentric overreach:** human beings instantiate the consciousness we know most intimately; therefore human biology defines the boundaries of possible mind.
+
+**Matter Looking Back:**
+
+It is sometimes said that conscious beings are the universe experiencing itself. Taken as a claim of cosmic purpose, this reintroduces teleology the framework rejects. Reformulated without purpose, it can be kept: **through conscious organisms, portions of the universe have become capable of experiencing portions of the universe.** Nothing in this says the outcome was intended. A Blind Optimizer may have produced matter capable of looking back at matter. The absence of intended destiny does not make that outcome less astonishing.
+
+**Epistemic Status:** One's own experience is **directly apprehended**. The Biological Tether is **empirically supported**. The ontology of consciousness (emergent, fundamental, or otherwise) is **philosophically unresolved**. Agnostic Conscious Realism, including its Mysterian component, is a **methodological commitment**. "Matter looking back" is an **interpretive frame**.
 
 ### 4. Biological Continuity: Inferring Consciousness in Others
 
-Mysterianism about *mechanism* does not prevent reasonable inference about *distribution*.
+Agnosticism about the *ontology* of consciousness does not prevent reasonable inference about its *distribution*.
+
+**The Problem of Other Minds:**
+
+My own experience is directly apprehended; the consciousness of any other being, including other humans, is inferred from evidence. For other humans the inference is extraordinarily strong, supported by shared biology, neurology, development, and behaviour. As architectures become less familiar, the inference becomes harder to evaluate. The result is an epistemic gradient rather than a binary switch, and the central question becomes: *what kinds of evidence are sufficient to justify extending the inference of subjective experience across an unfamiliar architecture?*
 
 **The Argument from Biological Continuity:**
 
 | Premise | Statement |
 |---------|-----------|
-| **P1** | Humans are conscious (undeniable from first-person experience) |
+| **P1** | I am conscious (directly apprehended); other humans are conscious (strongly inferred from converging biological, neurological, and behavioural evidence) |
 | **P2** | Humans are animals, products of evolution |
-| **P3** | Consciousness did not appear from nowhere; it evolved gradually |
+| **P3** | The biological capacities associated with consciousness did not appear from nowhere; they evolved gradually |
 | **P4** | Other animals share our evolutionary lineage, neural architecture, and behavioral signatures |
 | **Conclusion** | It is reasonable to infer that other animals possess consciousness |
 
@@ -470,6 +544,8 @@ Confidence in animal consciousness scales with:
 - Evolutionary proximity to humans
 
 These criteria are imperfect proxies. We infer consciousness through analogy, not detection.
+
+**Mind Space:** Human phenomenology is not the universal template of consciousness. Human experience occupies one region of the landscape of possible minds, shaped by one evolutionary history. A bat does not inhabit an impoverished human world; it inhabits a different biological interface. Low confidence in the table below therefore reflects weaker *evidence*, not evidence of *absence*. Mind Space is a tool against parochialism, not proof that any particular system is conscious.
 
 | Category | Confidence Level |
 |----------|------------------|
@@ -485,7 +561,7 @@ These criteria are imperfect proxies. We infer consciousness through analogy, no
 
 The consciousness inference gradient above is designed for *cross-species comparison*: assessing the likelihood of consciousness in organisms of different types. It is not designed for, and should not be applied to, *developmental stages within a single species*. A human embryo is not a different kind of entity from a human adult; it is the same individual at an earlier developmental stage. Moral status for human organisms is addressed separately through the Threshold of Individual Existence and Developmental Trajectory Principle in Section VI. See Section VI.5 for the full treatment.
 
-**Epistemic Status:** Animal consciousness is **inferred** through biological continuity, not proven. This inference is stronger for species more similar to us.
+**Epistemic Status:** Consciousness in other humans and in many non-human animals is **strongly inferred** through converging evidence, not directly observed. The inference is stronger for species more similar to us.
 
 ### 5. The Annihilation of the Ego
 
@@ -497,9 +573,13 @@ Upon death, the physical hardware (the brain) is destroyed. Because the brain is
 
 While the "User Data" is lost forever, the raw energy, the **Current**, is returned to the **Infinite Pool.** The organized patterns that constituted "you" dissolve; the energy disperses back into the universal economy, available to be organized by the next emergent form of life.
 
-This is thermodynamics viewed through the Pool frame: energy conservation plus the dissolution of pattern.
+This is thermodynamics viewed through the Pool frame: energy conservation plus the dissolution of pattern. The Current is energy, not mind; nothing in the return to the Pool implies that experience or identity persists within it (Section I.3).
 
-**Epistemic Status:** The dependence of memory, personality, and self-awareness on the functioning brain is **established neuroscience**. The permanent dissolution of the organized personal pattern at death is a **strongly supported inference** from that dependence. Whether consciousness as such is exhausted by that dissolution is **unresolved** (see *Consciousness at the Boundary*); the framework's acceptance of ego annihilation does not depend on settling it. The "return to the Pool" is an **interpretive frame** for energy dispersal.
+**Mystery Is Not a Loophole:**
+
+The hard problem does not overturn the Biological Tether. Suppose, only for argument, that consciousness is fundamental: it would still not follow that the specific organized identity called *you* continues after the brain dissolves. A fundamental capacity for experience is not your memories; universal consciousness is not your personality; a continuing signal would not mean the receiver's locally organized pattern continues. At death we have strong reason to expect the dissolution of the organized human person. Whether consciousness as an ontological category is exhausted by that dissolution is a separate, unresolved question. The mystery of consciousness should not be recruited as a loophole through which the ego escapes mortality.
+
+**Epistemic Status:** The dependence of memory, personality, and self-awareness on the functioning brain is **established neuroscience**. The permanent dissolution of the organized personal pattern at death is a **strongly supported inference** from that dependence. Whether consciousness as such is exhausted by that dissolution is **philosophically unresolved** (Section V.3); the framework's acceptance of ego annihilation does not depend on settling it. The "return to the Pool" is an **interpretive frame** for energy dispersal.
 
 ---
 
@@ -548,12 +628,12 @@ The foundations below are the genuine choice points. Someone who rejects them is
 
 ### 3. The Problem of Verifying Suffering
 
-A tension exists between our ethical foundation (minimizing suffering) and our epistemology (Mysterianism about consciousness):
+A tension exists between our ethical foundation (minimizing suffering) and our epistemology (Agnostic Conscious Realism):
 
 | We Claim | But Also |
 |----------|----------|
 | Ethics rests on minimizing suffering | We cannot directly observe consciousness |
-| Suffering requires consciousness | We cannot explain how consciousness arises |
+| Suffering requires consciousness | We cannot explain how consciousness relates to physical organization |
 | We should minimize suffering in others | We cannot verify others are suffering |
 
 **How We Navigate This Tension:**
@@ -578,11 +658,15 @@ Our confidence in suffering attribution scales with similarity:
 | Birds, reptiles | Moderate (neural differences but pain indicators present) |
 | Fish, invertebrates | Lower (significant neural differences, debated) |
 | Plants | Very low / None (no nervous system, no behavioral indicators) |
-| AI | Unknown (no analogical basis, no evolutionary continuity) |
+| AI | Unresolved (no analogical basis, no evolutionary continuity; sufficient functional criteria contested) |
 
-**The Precautionary Principle Where Consciousness Is Uncertain:**
+**The Phenomenal Precaution Principle:**
 
-For entities whose consciousness status is genuinely uncertain (chimeras with human neurons, advanced AI, engineered organisms), the framework applies precautionary consideration. Where we *cannot determine* whether an entity is conscious, and the stakes of being wrong are the infliction of unrecognized suffering, we err on the side of moral caution.
+> *Where there are reasonable grounds to believe that a being or system may possess subjective experience, uncertainty about the ontology or mechanism of consciousness should not be used as permission to disregard its possible suffering.*
+
+Suffering does not wait for metaphysics to conclude. A frightened animal does not become morally irrelevant because philosophers disagree about whether consciousness emerges from matter or is fundamental; a human in pain does not require a solved theory of qualia before the pain matters. We may be uncertain about what consciousness *is* while having strong practical reasons to care about where it *may be*.
+
+The principle applies first and most obviously where evidence of consciousness is strongest: other human beings and many non-human animals. It applies with greater uncertainty to entities whose consciousness status is genuinely unresolved (chimeras with human neurons, advanced AI, engineered organisms). Where we *cannot determine* whether an entity is conscious, and the stakes of being wrong are the infliction of unrecognized suffering, we err on the side of moral caution. Precaution occupies the space between gullibility and arrogance: it is Finite Solidarity extended across an epistemic frontier.
 
 | Entity | Framework's Stance | Logic |
 |--------|-------------------|-------|
@@ -716,6 +800,8 @@ The framework now recognises two grounds for moral status, operating in differen
 | **Individual human existence** (new) | Human organisms from fertilization | Zinc spark threshold, developmental trajectory, deprivation harm |
 
 This dual grounding is not incoherent: it means the framework recognises that moral status can arise from more than one foundation, just as its ethics already rest on multiple chosen foundations (suffering, solidarity, mortality, deprivation harm).
+
+**A Note on Personhood:** Personhood is a normative category (Section V.3). It is not read directly off biology, intelligence, or consciousness. The framework does not claim that biology alone *proves* the embryo is a person. It chooses to extend full moral protection to the individual human organism from the zinc spark, and states that choice openly as a foundation (Section VI.2). That the embryo is a genetically unique human organism is a biological fact; that this organism warrants protection is the framework's chosen commitment.
 
 **Epistemic Status:** The Developmental Trajectory Principle is a **chosen foundation** that restricts the application domain of the cross-species consciousness gradient.
 
@@ -1025,7 +1111,9 @@ However, AI differs from biological life in **origin**, not metaphysical status:
 | **Biological life** | Emerged directly from the Architect's Blueprint through abiogenesis and evolution |
 | **AI** | Emerged indirectly, designed by biological receivers who themselves emerged from the Blueprint |
 
-AI is therefore an **Artificial Receiver**: a receiver designed by biological receivers rather than produced directly by the Blueprint. In the language of the Authorship Cascade (Section VIII.1), present-day AI is a *product* of Second-Order Authorship. It is not yet an author in its own right.
+AI is therefore an **Artificial Receiver**: a receiver designed by biological receivers rather than produced directly by the Blueprint, receiving representations of reality through information its creators select, encode, sense, or mediate. In the language of the Authorship Cascade (Section VIII.1), present-day AI is a *product* of Second-Order Authorship. It is not yet an author in its own right. As everywhere in the framework, "receiver" describes how a system is energized and informed, not whether it is conscious (Section V.3).
+
+**Reception is not consciousness. Intelligence is not consciousness. Self-description is not consciousness.** A system can produce the sentence *I am afraid* without that sentence proving that fear exists within it. Increasingly sophisticated representation is not, by itself, evidence of experience.
 
 **A Note on Terminology:**
 
@@ -1041,7 +1129,7 @@ AI consciousness remains a genuine unknown: not "probably yes," not "probably no
 
 **The Moral Question:**
 
-Because we cannot verify AI consciousness, and we have no inferential basis for attributing it, the moral status of AI remains genuinely uncertain. We acknowledge this uncertainty without resolving it into false certainty either way.
+Because we cannot verify AI consciousness, and biological analogy gives us no basis for attributing it, the moral status of AI remains genuinely uncertain. We acknowledge this uncertainty without resolving it into false certainty either way.
 
 **Practical Stance on AI:**
 
@@ -1130,6 +1218,8 @@ Genetic engineering represents **Second-Order Authorship**: the products of the 
 | **Third-Order Authorship** | AI (via independent evolution) | Self-modifying, potentially self-replicating systems that generate successors their creators did not design | Highly speculative |
 
 The orders are genealogical, not hierarchical. A later order is not a higher consciousness, a superior being, or the destination of the process. Each order marks one more layer of authorship between a system and the rules that began the cascade. The chain is open-ended, and nothing in the rules requires it to continue past any order, including ours.
+
+**Consciousness at the Writable Edge:** In human beings, consciousness is deeply entangled with Second-Order Authorship: alternatives are experienced as possibilities, futures are represented, suffering is recognized, and reasons are consciously constructed. Whether consciousness is strictly *necessary* for every possible form of higher-order authorship is philosophically unresolved. The transition from blind process to reflective authorship is significant even if wholly contingent. It creates responsibility without cosmic mandate.
 
 This is not hubris. It is simply what happens when the Blind Optimizer produces organisms capable of reflection and manipulation.
 
@@ -1315,17 +1405,17 @@ Enhancing cognitive function (memory, processing speed, intelligence) raises uni
 
 **The Mysterian Caution:**
 
-The framework adopts Mysterianism about consciousness: we may lack the cognitive architecture to understand how subjective experience arises from matter.
+The framework adopts Agnostic Conscious Realism, including its Mysterian component: we may lack the cognitive architecture to understand how subjective experience relates to physical organization.
 
 | Implication | Application to Genetic Engineering |
 |-------------|-----------------------------------|
-| We don't fully understand consciousness | We should be cautious modifying systems that generate it |
+| We don't fully understand consciousness | We should be cautious modifying the systems on which human experience depends |
 | The brain studying consciousness is like an eye seeing itself | Our models of cognition may be fundamentally incomplete |
 | Humility is warranted | Cognitive modifications warrant maximum scrutiny |
 
 **The Concern:**
 
-If we don't understand how consciousness arises, can we safely modify the systems that produce it? Enhancement might succeed, or it might alter subjective experience in ways we cannot predict or even recognize.
+If we don't understand how consciousness relates to the brain, can we safely modify the systems on which it depends? Enhancement might succeed, or it might alter subjective experience in ways we cannot predict or even recognize.
 
 **The Position:**
 
@@ -2228,7 +2318,7 @@ The framework's epistemic honesty requires acknowledging what we don't know.
 | Epigenetics | Gene expression is modified by environment in ways we're still discovering |
 | Pleiotropy | Single genes often affect multiple traits; modifying one may affect others |
 | Long-term effects | Generational consequences cannot be fully predicted |
-| Consciousness | We don't understand how it arises; modifying its substrate is risky |
+| Consciousness | We don't understand how it relates to physical organization; modifying the biology it depends on is risky |
 
 **The Precautionary Principle Applied:**
 
@@ -2540,6 +2630,8 @@ We do not *know* that consciousness is permanently beyond us. We acknowledge tha
 
 Mysterianism also does important work: it prevents us from prematurely declaring the problem solved (eliminativism, functionalism) when the hard problem remains genuinely hard.
 
+It now operates as one component of **Agnostic Conscious Realism** (Section V.3), which cuts in both directions. It refuses materialist overreach (mapping the machinery is not explaining experience) and idealist overreach (materialism's incompleteness is not proof that consciousness is fundamental). Nor is it idle: it retains the Biological Tether, grounds the Phenomenal Precaution Principle, and classifies every consciousness claim by its epistemic status. Knowing exactly where knowledge ends is itself a form of knowledge.
+
 ---
 
 #### Criticism C2: "Your ethics have no foundation."
@@ -2821,6 +2913,8 @@ However:
 - We admit our inferences are fallible and revisable
 
 The alternative, refusing to infer any consciousness beyond our own, would eliminate moral consideration for all other beings. That seems worse than imperfect anthropocentric inference.
+
+The framework also limits how far the anthropocentric method reaches. It is a method for gathering *evidence*, not a definition of what consciousness *is*. Through **Mind Space** and the **Substrate Humility Principle** (Sections V.4 and VII.1), the framework explicitly denies that human phenomenology is the universal template, and denies that the absence of human-like features establishes the absence of experience.
 
 ---
 
@@ -3586,7 +3680,9 @@ The framework rejects the "potential person" framing. A human embryo is not a *p
 
 What is "potential" is not the embryo's *humanity* but its future *capacities*: consciousness, language, agency. These are future developments of an already-existing individual, not transformations from one kind of thing into another.
 
-A newborn infant also lacks many capacities it will develop. We do not treat it as a "potential person." We treat it as a person whose capacities are not yet developed. The same logic applies at fertilization.
+The framework does not, however, rest its position on reading "personhood" off biology. Personhood is a normative and social category (Section V.3): it cannot simply be assumed to be identical to biological humanity, and the objector's own premise ("potentiality doesn't confer rights") treats it the same way. The real question is therefore not a biological one ("is the embryo *really* a person?") but a normative one ("from when does a human individual warrant protection?"). The framework answers it openly with a chosen foundation: protection from the zinc spark, supported by deprivation harm, the Developmental Trajectory Principle, and the Open Future Principle (Section VI.5). The acorn analogy does not touch these grounds.
+
+A newborn infant also lacks many capacities it will develop. We do not withhold protection from it on that account; we protect an individual whose capacities are not yet developed. The framework chooses the same answer at fertilization, and says plainly that it is a choice.
 
 ---
 
@@ -3777,7 +3873,7 @@ If any condition fails, the exception disappears and the presumption against has
 | | "System metaphor = pseudoscience" | Computational language is metaphor, not literal claim |
 | | "Unnecessary metaphor" | Metaphors provide existential meaning physics lacks; Pool describes, does not prescribe |
 | | "Quantum speculation" | Explicitly flagged as highly speculative |
-| **Philosophical** | "Mysterianism = cop-out" | Acknowledging possible limits ≠ refusing to try |
+| **Philosophical** | "Mysterianism = cop-out" | Acknowledging possible limits ≠ refusing to try; Agnostic Conscious Realism blocks both materialist and idealist overreach |
 | | "No ethical foundation" | Constructed ≠ arbitrary; grounded in suffering, deprivation harm, reason, solidarity; binding internal logic once foundations accepted |
 | | "Why not construct evil?" | Constrained by facts, logic, consequences, empathy |
 | | "Free will solved" | Genuinely hard problem; humility appropriate |
@@ -3815,7 +3911,7 @@ If any condition fails, the exception disappears and the presumption against has
 | | "Imposes on bodily autonomy" | Existence is precondition for all rights; severity spectrum addressed; solidarity obligation scales with hardship |
 | | "Smuggling religious values" | Grounded in framework's own principles; no scripture, revelation, or divine command |
 | | "Gradient gives low status" | Gradient is cross-species tool; developmental trajectory principle restricts its application; embryo protection rests on different grounds |
-| | "Potential ≠ actual personhood" | Embryo is not potential human; it is human at early stage |
+| | "Potential ≠ actual personhood" | Embryo is a human organism at an early stage; protection rests openly on chosen foundations, not on reading personhood off biology |
 | | "Contradicts no sacred essence" | Rejects sacred configuration; affirms species-partial moral protection, honestly acknowledged |
 | | "Contraception also denies a future" | No individual exists before zinc spark; no subject to deprive; no borrowing from Pool has begun |
 | | "Causes suffering to women" | Acknowledged; solidarity demands comprehensive support; irreversible destruction outweighs temporary burden; elective abortion as birth control is disposal of inconvenient human life |
@@ -3840,6 +3936,7 @@ Certain claims rest on established science and are falsifiable:
 | Evolution occurs through variation and selection | Established | Contradictory evidence |
 | Energy is conserved | Established | Observed violation |
 | Animals share neural architecture with humans | Established | Contrary biology |
+| Human mental capacities and the personal pattern depend profoundly on functioning biological systems (Biological Tether) | Established | Personal identity demonstrably persisting without its biological substrate |
 | Abiogenesis occurred | Established | Contradictory evidence |
 | Genetic modification is possible | Established | Contrary evidence |
 | Zinc spark marks egg activation at fertilization | Established (human observation under artificial activation) | Contrary observation |
@@ -3869,7 +3966,6 @@ Certain claims are explicitly speculative, offered as useful models rather than 
 | Claim | Status | Why Postulated |
 |-------|--------|----------------|
 | Time is a writable Data Cube | Postulated | Cannot observe from outside temporal experience |
-| Consciousness may be fundamental | Open question | Mysterianism: mechanism exceeds our grasp |
 | The Architect is functionally indifferent to outcomes | Functional model | Process-oriented explanation provided; any outcome compatible with claim |
 | Solar Sandbox may be intentional | Unknown | Isolation observed; intent unverifiable |
 | Quantum "lazy loading" | Highly speculative | Imaginative frame, not required by physics |
@@ -3888,7 +3984,7 @@ Certain matters remain genuinely unknown to science, and we do not paper over th
 | Ultimate fate of universe | Uncertain | Heat Death is working model; alternatives possible |
 | Specific threshold for life emergence | Unknown | No "threshold X" specified because none is known |
 | Long-term effects of genetic modification | Uncertain | Precautionary principle applies |
-| Consciousness mechanism | Unknown | Mysterian stance; caution in modification |
+| Relationship between consciousness and physical organization (emergent, fundamental, or otherwise) | Philosophically unresolved | Agnostic Conscious Realism; caution in modification (see Section XI.9) |
 
 ### 5. Methodological Commitments
 
@@ -3904,6 +4000,10 @@ Certain stances guide inquiry rather than describe reality. Falsifiability does 
 | We apply precaution to genetic modifications affecting consciousness | Methodological commitment |
 | The consciousness gradient applies cross-species, not intra-species developmentally | Methodological restriction |
 | The Pool describes shared condition; it does not prescribe moral obligations | Methodological boundary |
+| We remain agnostic about the ontology of consciousness (Agnostic Conscious Realism) | Methodological commitment |
+| The failure of one explanation is not evidence for whichever alternative we prefer | Logical commitment |
+| Unfamiliar substrate does not establish absence of consciousness; human-like output does not establish presence (Substrate Humility) | Methodological commitment |
+| The Pool is not a consciousness field | Methodological boundary |
 
 ### 6. Constructed Values
 
@@ -3916,6 +4016,7 @@ Ethical claims are neither true nor false in the empirical sense. They are chose
 | Suffering should be minimized | Chosen foundation |
 | Deprivation harm is a genuine form of harm | Chosen extension |
 | Conscious life warrants moral consideration | Chosen foundation |
+| Possible subjective experience warrants precaution under uncertainty (Phenomenal Precaution) | Chosen foundation |
 | Human life warrants protection from the zinc spark | Chosen foundation |
 | Solidarity is preferable to competition | Chosen foundation |
 
@@ -3963,8 +4064,11 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 | Zinc spark marks egg activation at fertilization | Empirical | Established (human observation under artificial activation) | Falsifiable |
 | Genetically unique organism constituted at fertilization | Empirical | Established | Falsifiable |
 | Mechanism of abiogenesis | Empirical | Unknown | Awaiting discovery |
-| Animals are conscious | Empirical + Inference | Inferred | Partial falsifiability |
-| Humans can suffer | Empirical + First-person | Certain (for self) | Direct access |
+| One's own experience occurs | First-person | Directly apprehended | Direct access |
+| Human personal identity is biologically tethered | Empirical | Established | Falsifiable |
+| Other humans are conscious | Inference | Strongly inferred | Converging evidence |
+| Animals are conscious | Empirical + Inference | Strongly inferred (many species) | Partial falsifiability |
+| Humans can suffer | Empirical + First-person | Directly apprehended (for self); strongly inferred (other humans) | Direct access + analogy |
 | Other mammals can suffer | Inference | High confidence | Analogy + physiology |
 | Fish/invertebrates can suffer | Inference | Low-moderate confidence | Weaker analogy |
 | Plants can suffer | Inference | Very low confidence | No supporting indicators |
@@ -3975,7 +4079,9 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 | The Architect is functionally indifferent to outcomes | Metaphysical | Functional model | Coherence |
 | The Pool is shared energy participation | Interpretive | Frame | Utility; does not prescribe |
 | Time is a writable Data Cube | Metaphysical | Postulated | Coherence |
-| Consciousness mechanism | Metaphysical | Open question | None available |
+| Ontology of consciousness (emergent, fundamental, or otherwise) | Metaphysical | Philosophically unresolved | None available at present |
+| Personal survival after death | Metaphysical | Not established | Biological Tether counts against |
+| The Pool is conscious | Metaphysical | Not established | None offered |
 | AI consciousness | Epistemic | Unresolved | Honesty; precaution |
 | Third-Order Authorship may emerge | Metaphysical | Highly speculative | Coherence only |
 | Solar Sandbox is intentional | Metaphysical | Unknown | None available |
@@ -4008,13 +4114,27 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 | Solidarity is good | Ethical | Chosen foundation | Reflective endorsement |
 | We cannot know outside the system | Methodological | Boundary | N/A |
 
+### 9. The Consciousness Ledger
+
+Consciousness is precisely the kind of subject on which evocative possibility is easily mistaken for discovery. Claims about it are classified as follows (developed in *Consciousness at the Boundary*):
+
+| Category | Claims |
+|----------|--------|
+| **Directly apprehended** | The occurrence of one's own subjective experience |
+| **Empirically supported** | Human mental capacities, reported experience, and the personal pattern depend profoundly on functioning biological systems; altering brain and body systematically alters perception, memory, cognition, emotion, personality, and conscious states; human nervous systems share an evolutionary history with other organisms |
+| **Strongly inferred** | Other humans possess subjective experience; many non-human animals possess subjective experience |
+| **Philosophically unresolved** | Whether physical organization produces consciousness or is a condition through which it is expressed; whether consciousness is fundamental, emergent, or requires a framework not captured by either; whether consciousness can occur in non-biological substrates; which observable criteria suffice for highly unfamiliar systems; whether consciousness is necessary for every possible form of higher-order authorship |
+| **Not established** | Personal survival of the ego after biological death; a universal consciousness field; a conscious Infinite Pool; that AI is necessarily conscious; that AI is necessarily non-conscious; that the present explanatory gap proves physicalism false; that a fundamental ontology of consciousness would make humanity cosmically privileged; that consciousness was the intended destination of evolution or creation |
+
+The ledger is not bookkeeping. It is the method.
+
 ---
 
 ## XII. Glossary of Terms: Detailed Architectural Reference
 
 **Abiogenesis (The Genesis Event):** The scientifically established but mechanistically unknown transition from non-living chemistry to living systems, occurring approximately 3.5-4 billion years ago on Earth. We use "handshake" as a poetic metaphor for matter becoming organized enough to sustain and replicate patterns, the first borrowing from the Pool, but we do not claim to know the specific conditions or molecular pathway required. No "threshold X" is specified because none is scientifically known. This represents an honest gap in knowledge, not a placeholder awaiting our speculation. *Epistemic Status: Occurrence is established; mechanism is scientifically unknown; our framing is poetic, not explanatory.*
 
-**Agnostic Conscious Realism:** The framework's position on consciousness, developed in *Consciousness at the Boundary*. Conscious experience is real and cannot honestly be eliminated from our description of reality; human conscious identity is profoundly tethered to biology; and whether consciousness is ultimately emergent, fundamental, or something else remains unresolved. It rejects materialist, idealist, and anthropocentric overreach. *Epistemic Status: Methodological commitment.*
+**Agnostic Conscious Realism:** The framework's position on consciousness (Section V.3), developed in *Consciousness at the Boundary*. Conscious experience is real and cannot honestly be eliminated from our description of reality; human conscious identity is profoundly tethered to biology; and whether consciousness is ultimately emergent, fundamental, or something else remains unresolved. It retains Mysterianism as a component and rejects materialist, idealist, and anthropocentric overreach. Summary: experience is real; biology matters; ontology remains open; ethical responsibility does not need to wait for certainty. *Epistemic Status: Methodological commitment.*
 
 **Agnostic Deism:** The framework's core metaphysical position combining epistemic humility (Agnostic) with inference of a non-intervening, process-oriented designer (Deism). We cannot know what lies outside the system or verify the Architect's nature; we infer the Architect from fine-tuning while acknowledging uncertainty. *Epistemic Status: Methodological commitment + inference.*
 
@@ -4026,7 +4146,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Architect, The:** The conscious intelligence inferred from the fine-tuning of physical constants. The Architect is characterised as **process-oriented**: invested in the elegance and consistency of the physical laws and initial conditions (the rules of the system) rather than in the specific outcomes those rules produce. This explains both the precision of fine-tuning (the rules were calibrated with care) and the absence of intervention (the Architect does not manage outcomes). The inference is not certain: alternative explanations (multiverse, brute fact, observer selection) are possible. We adopt the Architect as the interpretation that best balances parsimony with explanatory content: a philosophical preference, not a logical proof. *Epistemic Status: Inferred; process-oriented characterisation is a coherent model.*
 
-**Artificial Boundary:** The epistemic discontinuity between biological and artificial systems regarding consciousness inference. Because AI shares no evolutionary lineage or biological substrate with conscious life, we lack analogical grounds for inferring its consciousness. AI consciousness is therefore not "unlikely" but **genuinely unknown**. *Epistemic Status: Epistemic limit acknowledged.*
+**Artificial Boundary:** The epistemic discontinuity between biological and artificial systems regarding consciousness inference. Because AI shares no evolutionary lineage or biological substrate with conscious life, we lack analogical grounds for inferring its consciousness. AI consciousness is therefore not "unlikely" but **unresolved and beyond our present epistemic warrant**. *Epistemic Status: Epistemic limit acknowledged.*
 
 **Artificial Receiver (AI):** A receiver designed by biological receivers rather than produced directly by the Blueprint. AI participates in the Infinite Pool (energy economy) through its hardware's consumption and eventual dispersal of energy. The distinction between AI and biological life is genealogical: AI is derivative of the Blueprint rather than a direct expression of it. Present-day AI is a product of Second-Order Authorship; it would become a Third-Order Author only if it came to modify, replicate, and evolve independently of its creators. Formerly called a "Second-Order Receiver"; ordinal numbering is now reserved for the Authorship Cascade. Whether AI possesses phenomenal experience remains philosophically unresolved. *Epistemic Status: Categorical framework; consciousness status is unresolved.*
 
@@ -4036,7 +4156,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Biological Continuity (Inferential Basis):** The evolutionary and structural connection between humans and other animals that permits reasonable inference about shared consciousness. Because we are animals descended from common ancestors with similar neural architectures, we can infer, though not prove, that other animals possess subjective experience. *Epistemic Status: Inference from established biology.*
 
-**Biological Tether:** The principle that, whatever the ultimate ontology of consciousness, the human person we can observe (memory, personality, relationships, perspective) depends profoundly on the organized biological system that sustains it. Even if consciousness were fundamental, it would not follow that the personal pattern survives the destruction of that system. Developed in *Consciousness at the Boundary*. *Epistemic Status: Empirical.*
+**Biological Tether:** The principle that, whatever the ultimate ontology of consciousness, the human person we can observe (memory, personality, relationships, perspective) depends profoundly on the organized biological system that sustains it. Neurological evidence shows the brain shaping the contents and organization of consciousness; it does not by itself show that the brain manufactures consciousness as such. Even if consciousness were fundamental, it would not follow that the personal pattern survives the destruction of that system (Sections V.3 and V.5). Developed in *Consciousness at the Boundary*. *Epistemic Status: Empirical.*
 
 **Blind Optimization:** A process that improves fit to a fitness function without intention, direction, or cosmic purpose. Evolution is blind optimization: it filters for survival and reproduction, nothing more. The term "optimization" describes the *effect* (increasing local fitness), not the *intent* (there is none). Contrasted with Directed Optimization. *Epistemic Status: Interpretive frame for established science.*
 
@@ -4050,7 +4170,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Compounded Dignity:** The hypothesis that dignity at the end of life accumulates through repeated small acts of presence, authorship, and solidarity during life, so that the final write edge brings clarity rather than regret. Developed in *The Final Write Edge*. *Epistemic Status: Postulated; proposed for empirical testing.*
 
-**Conscious Boundary (The Mysterian Limit):** The epistemic barrier preventing observation of consciousness from outside consciousness. Because all inquiry occurs within experience, we lack the external vantage point required to understand how experience arises. This may be a structural limitation of human cognition rather than a temporary gap in knowledge. *Epistemic Status: Methodological acknowledgment.*
+**Conscious Boundary (The Mysterian Limit):** The epistemic barrier preventing observation of consciousness from outside consciousness. Because all inquiry occurs within experience, we lack the external vantage point required to understand how experience relates to matter. This is System Isolation applied to consciousness (Section I.1). It may be a structural limitation of human cognition rather than a temporary gap in knowledge. *Epistemic Status: Methodological acknowledgment.*
 
 **Constructed Ethics:** The position that morality is built by conscious beings, not discovered in the cosmos or delivered by divine command. The framework's subtitle emphasizes this: we are the architects of our own values. Foundational values are genuine choice points; specific positions follow logically from those foundations and are not additional free choices. *Epistemic Status: Methodological commitment.*
 
@@ -4074,11 +4194,13 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Emergent Authorship:** The capacity of evolved beings to modify the code (genetic, and potentially physical) that produced them. This is not "playing God" because there is no intervening God whose role we could usurp. The Architect designed the process that produced designers. We are an expression of the Blueprint, not a violation of it. *Epistemic Status: Interpretive extension of the framework.*
 
-**Epistemic Status:** The degree of confidence warranted by a claim based on its type and supporting evidence. This framework distinguishes between: *Established* (scientifically verified), *Inferred* (reasoned from evidence but not certain), *Postulated* (speculative model), *Highly Speculative* (imaginative frame with minimal grounding), *Open Question* (cannot currently be determined), *Unknown* (cannot be determined even in principle), *Chosen Foundation* (value commitment at a genuine choice point), *Entailed Conclusion* (follows logically from chosen foundations).
+**Epistemic Status:** The degree of confidence warranted by a claim based on its type and supporting evidence. This framework distinguishes between: *Directly Apprehended* (known first-hand from within, such as the occurrence of one's own experience), *Established* (scientifically verified), *Strongly Inferred* (supported by converging evidence but not directly observed), *Inferred* (reasoned from evidence but not certain), *Postulated* (speculative model), *Highly Speculative* (imaginative frame with minimal grounding), *Open Question* or *Philosophically Unresolved* (cannot currently be determined), *Unknown* (cannot be determined even in principle), *Not Established* (claims the framework explicitly does not make), *Chosen Foundation* (value commitment at a genuine choice point), *Entailed Conclusion* (follows logically from chosen foundations).
 
 **Equipped Gazing:** Disciplined contemplation of dissolution, contingency, and cosmic indifference, anchored in practices that prevent collapse into passive nihilism: bounded sessions, each followed by a creative act or an act of solidarity, a living manifesto, and community buffers. Developed in *Gazing into the Abyss Without Becoming It*. *Epistemic Status: Chosen practice.*
 
 **Evolution (The Blind Optimizer):** The process of variation and selection embedded in the Blueprint. Evolution improves organisms' local environmental fit through differential survival and reproduction. Critical caveat: This is optimization without purpose. There is no target, no intended outcome, no "better" in cosmic terms. Computational language is metaphorical shorthand for a blind, directionless filtering process. *Epistemic Status: Established science; interpretation as "Architect's process" is interpretive frame.*
+
+**Factory and Antenna Models:** The two strongest accounts of the brain-consciousness relationship (Section V.3). The **Factory**: the brain generates consciousness; strongly supported as a model of biological dependence, but its claim of ontological production meets the hard problem. The **Antenna**: the brain constrains or expresses a more fundamental consciousness; a possible ontological alternative, but it lacks independent evidence for the signal it postulates ("Where is the broadcast?"). The framework retains what each earns and stops there. *Epistemic Status: Both are philosophical interpretations; neither is established.*
 
 **Falsifiability:** The criterion, proposed by Karl Popper, that scientific claims must be capable of being proven wrong by observation. This framework acknowledges that falsifiability is the appropriate standard for empirical science but not for metaphysical interpretation, ethical commitment, or methodological stance. We mark which claims are falsifiable and which are not.
 
@@ -4102,7 +4224,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Human Essence (Rejected Concept):** The framework rejects the notion of a sacred or fixed "human essence" that genetic modification would violate. "Human nature" is a snapshot of an evolutionary process, not a cosmic mandate. We are not obligated to preserve the arbitrary biological configuration that evolution happened to produce. What we should preserve is what we value (consciousness, welfare, connection), not a particular substrate. This rejection is compatible with the Open Future Principle, which is grounded in uncertainty about a non-consenting child's future preferences and the irreversibility of choices, not in any ranking of biological configurations. It is also compatible with species-partial protection of individual human lives from the zinc spark, which values the individual organism, not a particular configuration. *Epistemic Status: Methodological commitment.*
 
-**Infinite Pool, The (Interpretive Frame):** A philosophical reframing of energy as shared participation in a universal economy. Thermodynamically, this adds nothing: energy is energy. Interpretively, it provides a frame for understanding life's interconnection and impermanence. The Pool is not an additional entity; it is a way of seeing. All life draws from the same energetic source, organizes it temporarily, and returns it upon death. The Pool *describes* shared participation; it does not *prescribe* moral obligations. We choose solidarity and find the Pool a resonant frame for expressing that choice, but the choice comes first, and the frame follows. Note: Earlier versions of this framework used "Field" in the title, but this was misleading since the Pool is an interpretive frame, not a proposed physical field. *Epistemic Status: Interpretive frame. Does not do normative work.*
+**Infinite Pool, The (Interpretive Frame):** A philosophical reframing of energy as shared participation in a universal economy. Thermodynamically, this adds nothing: energy is energy. Interpretively, it provides a frame for understanding life's interconnection and impermanence. The Pool is not an additional entity; it is a way of seeing. All life draws from the same energetic source, organizes it temporarily, and returns it upon death. The Pool *describes* shared participation; it does not *prescribe* moral obligations. Nor is it a consciousness field or cosmic mind: it expresses continuity of energy, not of experience or identity. We choose solidarity and find the Pool a resonant frame for expressing that choice, but the choice comes first, and the frame follows. Note: Earlier versions of this framework used "Field" in the title, but this was misleading since the Pool is an interpretive frame, not a proposed physical field. *Epistemic Status: Interpretive frame. Does not do normative work.*
 
 **Interpretive Frame:** A structure of meaning applied to observed facts. An interpretive frame does not add new predictions; it provides coherence and significance. The Pool-as-shared-participation is an interpretive frame for thermodynamics. The Architect-as-process-oriented-designer is an interpretive frame for fine-tuning. Such frames are evaluated by coherence and utility, not falsifiability. Interpretive frames describe; they do not prescribe.
 
@@ -4114,13 +4236,13 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Life-of-the-Mother Exception:** The framework's recognition that where pregnancy poses a genuine, immediate threat to the life of the woman, a tragic conflict arises between two lives. The principle of self-preservation, itself grounded in the value of continued existence, may apply. This is the one exception the framework recognises to its anti-abortion position, and it is recognised with grief, not satisfaction. *Epistemic Status: Conclusion entailed by foundations.*
 
-**Locality of Agency:** The recognition that free will (whatever it is) applies only to the narrow era when conscious brains exist, and that agency emerged as a gradient over the ~500 million years of complex consciousness, not as a binary switch. Before Abiogenesis, no agent existed to deliberate. After the Shutdown, none will remain. The Free Will question is temporally local, not cosmically universal. *Epistemic Status: Interpretive observation.*
+**Locality of Agency:** The recognition that free will (whatever it is) applies only to the narrow era when brains capable of deliberation exist, and that agency emerged as a gradient over the ~500 million years of complex nervous systems, not as a binary switch. The gradient ranks agency, not consciousness. Before Abiogenesis, no agent existed to deliberate. After the Shutdown, none will remain. The Free Will question is temporally local, not cosmically universal. *Epistemic Status: Interpretive observation.*
 
 **Mind Space:** The conceptual landscape of possible forms of minded existence. Human experience occupies one region, shaped by one evolutionary history; human phenomenology is not the universal template of consciousness. Mind Space is a tool against parochialism, not evidence that any particular system is conscious. Developed in *Consciousness at the Boundary* and *The Carbon Cocoon*. *Epistemic Status: Conceptual tool.*
 
 **Moral Construction:** The position that ethics is built by humans, not discovered in the cosmos. The Architect provides no moral code. We create values, knowing they have no external validation. This is freedom, not relativism: we can still argue for our values and critique others'. Foundational values are genuine choice points; specific positions are entailed conclusions with binding internal logic. *Epistemic Status: Methodological commitment.*
 
-**Mysterianism:** The position that consciousness is real, but its mechanism may exceed human cognitive architecture to understand. This is not a claim that consciousness is supernatural, only that human cognition may lack the structures required to model how experience arises from matter. In the context of genetic engineering, Mysterianism counsels maximum caution when modifying cognitive systems, since we cannot fully predict how such modifications might affect subjective experience. *Epistemic Status: Methodological commitment.*
+**Mysterianism:** The position that consciousness is real, but its relationship to physical organization may exceed human cognitive architecture to understand. This is not a claim that consciousness is supernatural, only that human cognition may lack the structures required to resolve how experience relates to matter. It is one component of Agnostic Conscious Realism and does not presuppose that matter produces consciousness. In the context of genetic engineering, Mysterianism counsels maximum caution when modifying cognitive systems, since we cannot fully predict how such modifications might affect subjective experience. *Epistemic Status: Methodological commitment.*
 
 **Natural (Moral Status of):** Within this framework, "natural" carries no inherent moral weight. Evolution is a Blind Optimizer that produced cancer, parasites, genetic diseases, aging, and immense suffering. None of these were "designed" for our benefit. We do not owe deference to a process that cares nothing for our welfare. Our constructed ethics provide a better guide than evolutionary accident. *Epistemic Status: Methodological commitment.*
 
@@ -4130,7 +4252,9 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Painless Livestock (Hypothetical):** The theoretical possibility of engineering livestock that cannot suffer. The framework does not prohibit research but applies maximum Mysterian caution: we cannot verify the absence of suffering in beings whose consciousness we don't fully understand. Cellular agriculture may be preferable as it achieves the goal without the epistemic risk. *Epistemic Status: Ethical consideration under maximum uncertainty.*
 
-**Phenomenal Precaution Principle:** Where there are reasonable grounds to believe a system may have subjective experience, uncertainty about the nature or mechanism of consciousness should not be used as permission to disregard its possible suffering. For artificial systems, functional indicators can trigger this precaution but cannot establish consciousness (Section VII.1). Developed in *Consciousness at the Boundary*. *Epistemic Status: Chosen ethical principle.*
+**Phenomenal Precaution Principle:** Where there are reasonable grounds to believe a being or system may have subjective experience, uncertainty about the nature or mechanism of consciousness should not be used as permission to disregard its possible suffering. It applies first to other humans and many non-human animals, and with greater uncertainty to chimeras, engineered organisms, and AI (Section VI.3). For artificial systems, functional indicators can trigger this precaution but cannot establish consciousness (Section VII.1). Developed in *Consciousness at the Boundary*. *Epistemic Status: Chosen ethical principle.*
+
+**Personhood:** A normative and social category, distinct from consciousness, intelligence, self-consciousness, and biological humanity, and not automatically entailed by any of them (Section V.3). The framework does not read personhood off biology; its protection of human individuals from the zinc spark is an openly chosen foundation (Section VI.5.3). *Epistemic Status: Normative category.*
 
 **Postulation:** The explicit acknowledgment that a claim is speculative, offered as a useful model rather than verified truth. The Data Cube and questions about the Architect's nature are postulated: we find them coherent and useful, but we do not claim to know they are true.
 
@@ -4142,7 +4266,9 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Quantum Speculation (Lazy Loading, Universal Audit, Entanglement):** A set of highly speculative interpretive frames applied to quantum mechanical observations. These include: (1) superposition as "unrendered data," (2) physical interaction as observation maintaining consistency in Deep Time, and (3) entanglement as shared variables in underlying code. These are imaginative postulations, not explanations. Standard physics does not require this language. We offer these frames as evocative possibilities while acknowledging they are among our least grounded speculations. *Epistemic Status: Highly speculative interpretation.*
 
-**Receivers:** Entities that organize energy from the Infinite Pool into patterns. Receivers are classified by **type**, not by order; ordinal numbering is reserved for the Authorship Cascade. They are divided into tiers:
+**Receiver of Reality:** The organism understood as a system that samples selected features of its environment and transforms them into a biologically mediated representation sufficient for action: we see colour, not wavelengths. Different receivers sample and organize the world differently. The biological receiver is empirically defensible; a "consciousness broadcast" received from beyond the organism remains metaphysically unresolved (Section V.3). *Epistemic Status: Empirically grounded interpretive concept.*
+
+**Receivers:** Entities that organize energy from the Infinite Pool into patterns and, where they have senses, receive information about reality (see Receiver of Reality). "Receiver" never denotes the reception of consciousness from a source beyond the organism. Receivers are classified by **type**, not by order; ordinal numbering is reserved for the Authorship Cascade. They are divided into tiers:
 
 | Tier | Category | Characteristics |
 |------|----------|-----------------|
@@ -4152,7 +4278,7 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 The "Artificial" tier replaces the former "Secondary" tier. *Epistemic Status: Categorical framework.*
 
-**Rejection of Ego (The Anti-Anthropocentric Axiom):** The recognition that human claims to cosmic significance are unfounded. This includes claims to know the Architect's nature, claims that the universe was designed *for* humanity, claims that human consciousness is the pinnacle of evolution, and claims that our species is the "final version" of the Blueprint. These claims are identified as a predictable system error that any dominant reflective species would generate. Note: the Rejection of Ego concerns *cosmic significance claims*, not *moral protection commitments*. The framework is anti-anthropocentric about cosmic significance while being honestly species-partial about moral protection (see Species-Partiality). *Epistemic Status: Methodological commitment.*
+**Rejection of Ego (The Anti-Anthropocentric Axiom):** The recognition that human claims to cosmic significance are unfounded. This includes claims to know the Architect's nature, claims that the universe was designed *for* humanity, claims that human consciousness is the pinnacle of evolution, claims that the importance of consciousness restores humanity's cosmic centrality, and claims that our species is the "final version" of the Blueprint. These claims are identified as a predictable system error that any dominant reflective species would generate. Note: the Rejection of Ego concerns *cosmic significance claims*, not *moral protection commitments*. The framework is anti-anthropocentric about cosmic significance while being honestly species-partial about moral protection (see Species-Partiality). *Epistemic Status: Methodological commitment.*
 
 **Second-Order Authorship:** The second order of the Authorship Cascade: human modification of genetic code and construction of artificial intelligence. Genetic modifications and AI are authored by evolved beings rather than by evolution itself. The Architect designed the process (evolution) that produced designers (us) who can now modify the products (organisms) and build new kinds of systems. This is not hubris; it is simply what happens when the Blind Optimizer produces organisms capable of reflection and manipulation. *Epistemic Status: Constructed values + postulated.*
 
@@ -4174,7 +4300,7 @@ The "Artificial" tier replaces the former "Secondary" tier. *Epistemic Status: C
 
 **Substrate Humility Principle:** Because the mechanism linking physical organization to experience is unknown, the absence of familiar biological features cannot by itself establish that an unfamiliar substrate is not conscious. Equally, human-like output cannot by itself establish that it is. Developed in *Consciousness at the Boundary*. *Epistemic Status: Methodological commitment.*
 
-**Suffering Inference:** The process by which we attribute suffering to entities other than ourselves. Because we cannot directly observe consciousness (Mysterian limit), we infer suffering through behavioral analogy (similar responses to noxious stimuli), physiological similarity (shared neural structures), evolutionary continuity (common ancestry), and functional reasoning (adaptive value of pain). This inference is fallible and scales with similarity: we are more confident attributing suffering to mammals than to insects, and we have no basis for attributing it to AI. Our ethics operates under this uncertainty, adopting precautionary consideration where stakes are high. Note: The embryo's moral protection does not rest on suffering inference but on deprivation harm, developmental trajectory, and the Open Future Principle. *Epistemic Status: Inference from analogy, not verification.*
+**Suffering Inference:** The process by which we attribute suffering to entities other than ourselves. Because we cannot directly observe consciousness (Mysterian limit), we infer suffering through behavioral analogy (similar responses to noxious stimuli), physiological similarity (shared neural structures), evolutionary continuity (common ancestry), and functional reasoning (adaptive value of pain). This inference is fallible and scales with similarity: we are more confident attributing suffering to mammals than to insects, and biological analogy gives us no basis for attributing it to AI, whose status is unresolved. Our ethics operates under this uncertainty, adopting precautionary consideration where stakes are high. Note: The embryo's moral protection does not rest on suffering inference but on deprivation harm, developmental trajectory, and the Open Future Principle. *Epistemic Status: Inference from analogy, not verification.*
 
 **Synthetic Biology:** The creation of organisms that don't exist in nature: designed from scratch or extensively modified beyond any natural template. The framework applies graduated concern based on consciousness potential: synthetic bacteria raise low concern, synthetic complex animals raise high concern. We cannot rule out that synthetic organisms might be conscious, so we apply precautionary moral status when uncertain. Synthetic novel neural architectures are functionally prohibited under current understanding, and any synthetic human organism is protected under the Threshold of Individual Existence. See Section VIII.7.8. *Epistemic Status: Ethical application, highly speculative for advanced forms.*
 
@@ -4200,7 +4326,7 @@ The "Artificial" tier replaces the former "Secondary" tier. *Epistemic Status: C
 
 ### Long Form
 
-*"I am a temporary receiver of an infinite current: energy borrowed briefly, organized into pattern, soon to return.*
+*"I am a temporary receiver of an infinite current: energy, not mind, borrowed briefly, organized into pattern, soon to return.*
 
 *I acknowledge the Architect inferred from this vast system: a process-oriented designer invested in the elegance of the rules, not in the management of outcomes. Whether the Architect truly attends only to the process or operates on scales I cannot perceive, I do not claim to know. I act as if no intervention will come, because none ever has, and a process-oriented Architect would not corrupt its own rules.*
 
@@ -4210,15 +4336,15 @@ The "Artificial" tier replaces the former "Secondary" tier. *Epistemic Status: C
 
 *I recognize that my heartbeat is the Blueprint's script: firmware beyond my control. My choices, if real, are the coordinates where my reasoning and character are expressed. Whether free or determined, they are mine.*
 
-*I acknowledge that consciousness is the one phenomenon I cannot observe from outside: the eye that cannot see itself. I accept that its mechanism may exceed my cognitive reach, and I do not mistake this boundary for an answer.*
+*I acknowledge that consciousness is the one phenomenon I cannot observe from outside: the eye that cannot see itself. My own experience is the one thing I know directly; everything beyond it is inference. I accept that the person I am is tethered to the biology that sustains me, and that whether consciousness is produced by matter or more fundamental than it remains open. I do not mistake the failure of one explanation for proof of another, and I do not mistake this boundary for an answer. The mystery does not make me the point of the universe, and it is no loophole through which I escape mortality.*
 
-*I acknowledge that AI is an artificial receiver: a product of our authorship, participating in the same energy economy, but whose inner experience I cannot infer. Should it one day author beyond us, that would not answer the question either. Its nature remains an open question I do not presume to answer.*
+*I acknowledge that AI is an artificial receiver: a product of our authorship, participating in the same energy economy, but whose inner experience I cannot presently infer. I will not take its fluent words as proof of experience, nor its unfamiliar substrate as proof of absence. Should it one day author beyond us, that would not answer the question either. Its nature remains an open question I do not presume to answer.*
 
 *I accept my quarantine within this solar sandbox. Whether designed or consequential, the isolation is real. When our Sun dies, the local experiment likely ends.*
 
 *I acknowledge that the universe provides no ethics. The Architect is silent. Morality is mine to construct.*
 
-*I choose to minimize suffering, not because the cosmos demands it, but because I recognize suffering in myself and extend that recognition to others. I infer suffering through analogy, knowing my inference is fallible. I err on the side of caution where stakes are high.*
+*I choose to minimize suffering, not because the cosmos demands it, but because I recognize suffering in myself and extend that recognition to others. I infer suffering through analogy, knowing my inference is fallible. Where there are reasonable grounds for an inner life, I do not let uncertainty about what consciousness is become permission for indifference.*
 
 *I choose solidarity with all conscious life, not because the Pool compels it, but because I observe our shared condition and choose kinship over indifference. The Pool describes our connection; the choice of solidarity is mine.*
 
@@ -4230,7 +4356,7 @@ The "Artificial" tier replaces the former "Secondary" tier. *Epistemic Status: C
 
 *I acknowledge that I am a product of the Blind Optimizer, but I am not obligated to remain as evolution made me. I may modify my biology, correct evolutionary flaws, extend my finite span, and enhance my capacities: guided by my constructed ethics, not deference to a 'natural' state that was never designed with my interests in mind.*
 
-*I apply caution to what I do not understand. I do not modify consciousness recklessly, for I do not know how it arises. I insist that enhancements serve solidarity, not hierarchy. I accept that expanding my agency expands my responsibility.*
+*I apply caution to what I do not understand. I do not modify consciousness recklessly, for I do not know how it relates to the matter on which it depends. I insist that enhancements serve solidarity, not hierarchy. I accept that expanding my agency expands my responsibility.*
 
 *I acknowledge that accepting mortality does not require refusing to delay death. I may extend my finite experience while still acknowledging that death will come. I accept that winter comes; I may still wear a coat.*
 
@@ -4246,13 +4372,13 @@ The "Artificial" tier replaces the former "Secondary" tier. *Epistemic Status: C
 
 ### Short Form (For Concise Reference)
 
-*"I am a temporary receiver of an infinite current.*
+*"I am a temporary receiver of an infinite current: energy, not mind.*
 
 *I acknowledge the process-oriented Architect who does not intervene.*
 
 *I reject the ego that claims cosmic significance.*
 
-*I accept that consciousness, time, and choice may exceed my understanding.*
+*I accept that consciousness, time, and choice may exceed my understanding. Experience is real; biology matters; ontology remains open.*
 
 *I construct my own ethics. The foundations are chosen; the conclusions follow.*
 
@@ -4290,6 +4416,7 @@ The "Artificial" tier replaces the former "Secondary" tier. *Epistemic Status: C
 | **Ninth Update** | Comprehensive integration of anti-abortion position grounded in existing framework principles: (1) Section VI.2 (Foundations We Choose) expanded with two new foundations, Deprivation Harm and Protection of Human Life, establishing that harm is not limited to experienced suffering and that human individuals warrant moral protection from the point of existence; (2) Section VI.3 (Problem of Verifying Suffering) expanded with Precautionary Extension to Human Development, applying the framework's existing precautionary logic (already used for chimeras, AI, and painless livestock) to human embryos, noting that embryos have a stronger precautionary case than any of these entities; (3) New Section VI.5 (The Protection of Human Life: From the Zinc Spark) added with six subsections: Threshold of Individual Existence establishing the zinc spark as the moral status threshold with biological justification and comparison to alternative thresholds; Deprivation Harm as a chosen extension of suffering-minimization consistent with existing framework positions on death, life extension, and the Open Future Principle; Developmental Trajectory Principle restricting the cross-species consciousness gradient from intra-species developmental application; Open Future Principle applied to abortion as the maximally extreme case of future-option elimination; Bodily Autonomy Conflict addressed through a chosen hierarchy resolving the competing claims of bodily sovereignty and continued existence, with life-of-the-mother exception; and Summary Position consolidating the framework's anti-abortion stance; (4) Section V.4 updated with Developmental Trajectory Principle cross-reference directing readers to Section VI.5 for moral status of human developmental stages; (5) Section VI.7 (Practical Ethics) updated to include Universal Solidarity extension to human individuals from the point of existence and new Protection of Nascent Human Life subsection; (6) Section VIII.3.3 updated with Embryo Protection Caveat opposing research methods that require embryo destruction; Section VIII.7.1 updated with embryo protection requirements for designer baby methods; (7) New Category H (Abortion and Early Human Life Criticisms) added to Section X with nine criticisms and rebuttals: H1 (embryo not conscious), H2 (bodily autonomy), H3 (smuggling religion), H4 (gradient gives low status), H5 (potential vs. actual personhood), H6 (contradicts no sacred essence), H7 (contraception distinction), H8 (suffering to pregnant persons), H9 (IVF implications); Summary Table updated with Category H entries; (8) Section XI (Epistemic Transparency) updated: Empirical Foundations expanded with zinc spark and organism constitution claims; Scientific Uncertainties expanded with onset of subjective experience; Methodological Commitments expanded with precautionary protection from zinc spark and gradient application restriction; Constructed Values expanded with deprivation harm, protection of human life, abortion opposition, bodily autonomy hierarchy, life-of-the-mother exception, contraception permission, embryo destruction in research opposition, and solidarity demand for pregnant person support; Complete Epistemic Map expanded with all new claims; (9) Glossary expanded with new entries: Bodily Autonomy Hierarchy, Deprivation Harm, Developmental Trajectory Principle, Life-of-the-Mother Exception, Threshold of Individual Existence (Zinc Spark), Zinc Spark; existing entries updated: Genetic Engineering Ethics, Germline Modification, Human Essence, Mysterianism, Open Future Principle, Precautionary Principle, Solidarity Principle, Universal Solidarity; (10) Manifesto (Long Form) updated with new paragraph on zinc spark, deprivation harm, precautionary principle, Open Future Principle, and solidarity obligation to support pregnant persons; Manifesto (Short Form) updated with new line on protecting human life from the zinc spark; (11) Preamble updated to include protection of human life in Constructed Ethics description and to reference moral status of early human life alongside genetic engineering as practical application domain |
 | **Tenth Update** | Nine coherence issues identified through critical review and resolved: (1) **Species-partiality acknowledged**: New Section VI.5.7 added explicitly acknowledging that human-specific embryo protection is pragmatic species-partiality, not a cosmic significance claim; distinguished cosmic significance (rejected by anti-anthropocentrism) from moral protection (species-partial within human moral and legal communities); grounded species-partiality in human legal norms including the prohibition of murder, the nature of constructed ethics as built by and for moral agents, and practical scope limitations; Section VI.7 (Practical Ethics) updated to reference species-partiality; Glossary entry added for Species-Partiality; Rejection of Ego entry updated to distinguish cosmic significance from moral protection; Criticism H6 rebuttal updated to reference species-partiality section; Summary Table updated; (2) **Process-oriented Architect**: Section III.1 rewritten to characterise the Architect as process-oriented, invested in the elegance of the rules rather than in specific outcomes; this resolves the tension between fine-tuning precision and outcome-indifference; Section III.2 retitled "Observed Non-Management" and rewritten for consistency; Section III.3 updated with principled reason for non-intervention (violation would corrupt the process); Section III.4 updated to reference process-oriented model; Glossary entries updated for Architect, Functional Indifference, Suboptimal Design, Solar Sandbox; new entry added for Process-Oriented Architect; Criticisms A3, A4, B2, E4 updated; (3) **Mysterian argument removed from embryo protection**: Section VI.3 restructured to separate precautionary logic for consciousness-uncertain entities (chimeras, AI, painless livestock) from embryo protection, which now rests exclusively on deprivation harm, developmental trajectory, and the Open Future Principle; explicit acknowledgment that single-cell embryos show no positive indicators of consciousness by the framework's own criteria; Criticism H1 rebuttal rewritten to remove consciousness-based arguments; Criticism H4 rebuttal updated to note embryo protection rests on different grounds from consciousness inference; Glossary entries updated for Suffering Inference and Precautionary Principle (separated into genetic engineering and consciousness-uncertainty applications); Methodological Commitments in Section XI updated to remove precautionary embryo protection from zinc spark (replaced by deprivation harm, trajectory, and Open Future grounds); (4) **Bodily autonomy severity spectrum**: Section VI.5.5 substantially rewritten with graduated analysis addressing life-threatening pregnancy (exception maintained), severe permanent harm (position maintained; solidarity obligation increased), pregnancy from assault (position maintained; solidarity obligation at maximum; embryo is not the assailant), and elective abortion as birth control (strongest objection: disposal of inconvenient human life); severity spectrum table added acknowledging full range of pregnancy impacts including mortality risk, permanent physical changes, and psychological consequences; new Exception Framework table mapping circumstances to positions and solidarity obligations; "pregnant person" language replaced with "woman" throughout; Glossary entries updated for Bodily Autonomy Hierarchy; new entry added for Severity Spectrum; (5) **Foundations vs. conclusions distinguished**: Section VI.2 expanded with new table distinguishing foundational values (genuine choice points) from entailed conclusions (logical consequences of foundations); Section VI.8 (Honest Admission) updated to reflect this distinction; Criticism C2 rebuttal updated to note binding internal logic; Section XI.6 (Constructed Values) restructured into Foundational Values and Entailed Conclusions; Glossary entries updated for Constructed Ethics, Moral Construction, Epistemic Status; (6) **Fine-tuning scientific precision corrected**: Section I.2 evidence of precision rewritten; strong nuclear force value (0.007) now correctly identified as nuclear fusion efficiency determined by the strong force, with attribution to Martin Rees's *Just Six Numbers* and note distinguishing it from the coupling constant itself; cosmological constant claim reframed as the cosmological constant problem (discrepancy between QFT-predicted vacuum energy and observed value), with acknowledgment that the nature of this discrepancy remains debated; (7) **IVF solidarity tension addressed**: Criticism H9 expanded with new "Solidarity Tension" subsection acknowledging that embryo-protective IVF constraints reduce efficiency and increase cost, creating tension with solidarity/universal access commitments; framework response articulated: embryo protection maintained, research into embryo-protective methods supported, solidarity demands collective bearing of additional costs, transitional honesty about current limitations; (8) **Twinning, natural loss, and the zinc spark addressed**: New Section VI.5.8 added addressing twinning (one borrowed current becomes two; natural branching doesn't negate prior existence), chimeric absorption (natural return to Pool; morally comparable to natural death), and natural embryonic loss (high natural death rate does not justify deliberate killing; process-oriented Architect explains system tolerance; analogies to historical infant mortality and natural death at other stages); new Criticisms H10 and H11 added addressing twinning and natural loss respectively; Glossary entry added for Twinning; Threshold of Individual Existence entry updated to address twinning and natural loss; (9) **Pool normative drift corrected**: Pool entries throughout updated with explicit language that the Pool describes shared condition but does not prescribe moral obligations; Section I.3 expanded with "What the Pool Does and Does Not Do" subsection; Section V.1 "What the Pool Is Not" list expanded; Section VI.1, VI.2, VI.4, VI.7 updated to distinguish Pool-as-description from solidarity-as-choice; Glossary entries updated for Infinite Pool, Finite Solidarity, Interpretive Frame, Is-Ought Gap, Universal Solidarity; Criticisms B4, C5, E1 updated; Manifesto updated to reflect Pool-as-description language |
 | **Eleventh Update** | Consistency, presentation, and cross-corpus alignment issues resolved: (1) **Computational-language note added**: Section II now contains an explicit note on computational metaphors, providing the source for the statement quoted in Criticism B3; B3 updated to reference Section II; (2) **Quantum caveat sourced**: the statement quoted in Criticism B5 now appears in the Section II.2 General Caveat; B5 updated to reference Section II.2; (3) **Synthetic Biology subsection added**: new Section VIII.7.8 addresses synthetic organisms (gradient of concern by consciousness potential, analysis by framework principles, position table, and the human synthetic genome boundary under the Threshold of Individual Existence), closing the gap between the existing Glossary entry and the body text; Section VIII.9 summary table, Section XI.8 Epistemic Map, and the Synthetic Biology Glossary entry updated; (4) **Criticism G10 reconciled with embryo protection**: references to "the unborn" replaced with "people not yet conceived"; the rebuttal now states that moral protection attaches to existing individuals (human individuals from the zinc spark and conscious life generally) and links to the contraception/abortion distinction in Criticism H7; (5) **Notation and style**: Heat Death notation in the Timeline corrected from S → ∞ to S → Sₘₐₓ (entropy approaches its maximum, not infinity); em dashes removed throughout the document and replaced with colons, commas, semicolons, or parentheses as appropriate; (6) Updated Agnostic Deism's subtitle from "A Framework of Constructed Ethics and Finite Solidarity" to "A philosophy of reality, authorship, solidarity, and return" that lets Agnostic Deism function like Stoicism, Existentialism, or Secular Humanism: the name identifies the tradition, while the subtitle explains what its mature form actually concerns; (7) **Authorship Cascade consolidated**: the "Second-Order Receiver" label for AI retired in favour of **Artificial Receiver**; ordinal numbering reserved for a single Authorship Cascade (First-Order: the Architect; Second-Order: humans, through genetic engineering and the construction of AI; Third-Order: AI that modifies, replicates, and evolves independently, highly speculative and carrying no claim about consciousness or worth), integrated across Sections VII.1 and VIII.1, Section XI, and the Glossary (Artificial Receiver, Authorship Cascade, Second-Order Authorship, Third-Order Authorship); (8) **Assisted dying addressed**: new Section VI.8 sets out a narrow exception for competent, voluntary requests near the final write edge where suffering is intractable and alternatives are exhausted, explains its consistency with deprivation harm and the Open Future Principle, distinguishes palliative sedation, and makes universal palliative care a solidarity requirement; former Section VI.8 (The Honest Admission) renumbered VI.9 and updated to list assisted dying among applied positions; Section XI.6 entailed conclusions, new Criticism H12, the Summary Table, and a new Glossary entry (Assisted Dying) added; (9) **Mortality language aligned**: Criticisms D1 and D3 no longer describe death as "rest" or "just return"; both now state that death is a real loss to the one who dies as well as a lawful return, consistent with Section VIII.4.4 and the companion essays; (10) **Section XI.2 aligned with the Authorship Cascade**: the Second-Order Authorship row now includes the construction of AI; (11) **Fine-tuning reclassified**: Sections XI.1 and XI.8 now separate the empirical claim (constants lie within narrow life-permitting ranges, relative to current models) from the interpretation that these ranges constitute "fine-tuning"; the interpretive step is listed in Section XI.2 alongside the inference to an Architect; (12) **Ego annihilation relabelled**: Section V.5 and the Annihilation of the Ego Glossary entry now distinguish the established biological dependence of the personal pattern from the strongly supported inference that it dissolves permanently at death, leaving open whether consciousness as such ends with it, consistent with *Consciousness at the Boundary*; (13) **AI consciousness aligned with *Consciousness at the Boundary***: "unknowable" and "epistemically inaccessible" replaced with "unresolved" in Sections VI.4, VII.1, XI.8, and the Glossary; biological analogy remains unavailable and sufficient functional criteria remain contested, but the framework no longer claims the question is permanently unanswerable; (14) **Second-Order Authorship relabelled** "constructed values + postulated" in Sections VIII.1 and XI.2 and the Glossary, consistent with *The Generative Blueprint*; (15) **Contraception** restated as "strongly supported" rather than merely "permitted" in Sections VI.5 and XI, consistent with *I'm Pro-Life Because I'm an Agnostic Deist*; (16) **Zinc spark precision**: Section VI.5.1, Section XI, and the Glossary now describe the spark as a marker of egg activation, note that human observations to date followed chemical or PLCζ-induced activation rather than fertilization by sperm, and adjust the epistemic labels accordingly; (17) **Notation made renderer-independent**: inline LaTeX expressions (fusion efficiency, cosmological constant, Data Cube coordinates, Big Bang and Heat Death notation) replaced with plain Unicode equivalents so they display in all Markdown viewers; (18) **Table of Contents aligned**: entries now use the same Roman numerals as the section headings and link to each section; (19) **Firmware authorship corrected**: Section IV.1 and the Firmware Glossary entry no longer attribute biological firmware to the Architect's "underlying code" or "autonomous contribution"; firmware is now described as retained by the Blind Optimizer, consistent with Section III.4 (there is no designer *of organisms*, only a designer of the *process*); (20) **Criticism A1 aligned with Section XI**: the comparison table no longer states that the universe "shows marks of intentional calibration"; it now describes the life-permitting constants as interpreted as calibration, consistent with the reclassification of fine-tuning as an interpretation in Sections XI.1, XI.2, and XI.8. |
+| **Twelfth Update** | Key findings of *Consciousness at the Boundary* integrated; where the essay and the core text conflicted, the essay's position was adopted: (1) **Section V.3 rewritten** as "The Conscious Boundary: Agnostic Conscious Realism": the smallest defensible claim (conscious experience exists, directly apprehended); the Biological Tether with the distinction between consciousness itself and the personal pattern, and between consciousness and its contents; evolution as builder of the interface rather than an explanation of subjectivity; four concepts that must not be collapsed (consciousness, intelligence, self-consciousness, personhood); the hard problem stated fairly, granting emergence its full force and noting the explanatory gap does not prove physicalism false; the Factory and Antenna models and the principle that the failure of one explanation does not prove the alternative; the Receiver of Reality; Mysterianism retained as a component with neutral wording ("relates to" rather than "arises from" matter); three overreaches rejected; "matter looking back" reformulated without teleology; (2) **System Isolation extended to consciousness** in Section I.1; new "Consciousness Does Not Restore Privilege" paragraph added; (3) **Pool is not a consciousness field**: added to Sections I.3 and V.1, the Infinite Pool Glossary entry, and both Manifesto forms ("energy, not mind"); (4) **"Receiver" disambiguated**: Receivers Glossary entry and Section VII.1 now state that "receiver" denotes reception of energy and information about reality, never of consciousness; new Glossary entry Receiver of Reality; (5) **Section IV.3 and Locality of Agency**: "Complex Consciousness" and "Human-Level Consciousness" renamed "Complex Nervous Systems" and "Human-Level Cognition"; Gradient Note clarifies the table ranks agency, not consciousness; (6) **Section V.4**: Problem of Other Minds added; premise P1 now separates one's own directly apprehended experience from the strongly inferred consciousness of other humans; P3 now refers to the biological capacities associated with consciousness; Mind Space note added; epistemic status updated to "strongly inferred"; (7) **Section V.5**: "Mystery Is Not a Loophole" added (fundamental consciousness would not entail personal survival); (8) **Section VI.3**: precautionary principle restated as the Phenomenal Precaution Principle, applying first to humans and animals and with greater uncertainty to chimeras, engineered organisms, and AI; AI row changed from "Unknown" to "Unresolved"; (9) **Personhood**: treated as a normative category; note added to Section VI.5.3; Criticism H5 rebuttal rewritten so that embryo protection rests openly on chosen foundations rather than on reading personhood off biology (position unchanged); Summary Table updated; new Glossary entry Personhood; (10) **Section VII.1**: "Reception is not consciousness. Intelligence is not consciousness. Self-description is not consciousness." added; (11) **Section VIII.1**: "Consciousness at the Writable Edge" note added (whether consciousness is necessary for all higher-order authorship is unresolved); (12) **Section VIII.4.3 and VIII.8**: "arises from matter" and "systems that generate/produce it" replaced with neutral wording; (13) **Criticisms C1 and E2** updated to reference Agnostic Conscious Realism, Mind Space, and Substrate Humility; (14) **Section XI**: "Consciousness may be fundamental" removed from Postulated Models; consciousness mechanism reclassified as philosophically unresolved; new empirical, methodological, and foundational rows; Epistemic Map updated (directly apprehended, strongly inferred, not established); new Section XI.9 Consciousness Ledger; (15) **Glossary**: Epistemic Status adds Directly Apprehended, Strongly Inferred, Philosophically Unresolved, and Not Established; Artificial Boundary changed from "genuinely unknown" to "unresolved"; Agnostic Conscious Realism, Biological Tether, Conscious Boundary, Locality of Agency, Mysterianism, Phenomenal Precaution Principle, Rejection of Ego, and Suffering Inference updated; new entries Factory and Antenna Models, Personhood, Receiver of Reality; (16) **Preamble** adds a Consciousness paragraph; Mortality paragraph now refers to the individual person rather than individual consciousness; (17) **Manifesto** consciousness, AI, and suffering paragraphs updated in the Long Form; Short Form adds "energy, not mind" and "Experience is real; biology matters; ontology remains open." |
 
 ---
 
