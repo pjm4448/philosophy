@@ -417,7 +417,7 @@ The question is not "Is faith warm?" but "Is the warmth worth the cost in self-d
 
 **The objection**: Proving human insignificance is as impossible as proving human significance. This position is equally faith-based.
 
-**The rebuttal**: The framework operates on parsimony and Bayesian inference. The default position should be non-specialness. Specialness is the extraordinary claim requiring extraordinary evidence. The burden falls on those asserting cosmic importance.
+**The rebuttal**: The framework operates on parsimony and on the ordinary rule that extraordinary claims carry the burden of proof. It does not claim to compute probabilities here; as _The Architecture of Reality_ notes, no likelihood ratio can be calculated for claims about what lies outside the system. The default position should be non-specialness. Specialness is the extraordinary claim requiring extraordinary evidence. The burden falls on those asserting cosmic importance.
 
 System Isolation makes the question structurally unresolvable. We cannot *know* we are special. Building systems that *require* our specialness on a foundation of structural unknowability is epistemically indefensible. And uncertainty about our specialness is itself devastating to systems that require certainty of it.
 
