@@ -34,13 +34,13 @@ This shift radically changes our view of suffering. In this model, cancer or nat
 
 ### 3. The "Zinc Spark" and Ethics Without God
 
-Perhaps the most provocative shift is how this framework grounds pro-life ethics in biology and secular philosophy rather than religious dogma. It identifies the "Zinc Spark", the fluorescence of zinc ions released at the moment of fertilization, as the empirically observable moment a new individual begins "borrowing" from the Infinite Pool in its own right.
+Perhaps the most provocative shift is how this framework grounds pro-life ethics in biology and secular philosophy rather than religious dogma. It identifies the "Zinc Spark", the burst of zinc ions released when the egg is activated at fertilization, as the observable marker of the moment a new individual begins "borrowing" from the Infinite Pool in its own right. (The spark marks activation rather than causing it, and in human eggs it has so far been imaged after artificial activation rather than after fertilization by sperm; the framework adopts it as its threshold, and the moral significance it gives that threshold is a chosen foundation.)
 
 This framework protects life through the "Open Future Principle" and the "Developmental Trajectory Principle." It argues that a human embryo is not a "potential" human, but the same individual as the adult it will become, just at an earlier stage. Ending that life is what the framework calls a "Deprivation Harm", the loss of an entire future that would otherwise have been lived, and the most extreme possible elimination of future options.
 
 As the core framework states it:
 
-"A new human life begins at fertilization, marked by the zinc spark, the empirically observable moment when a genetically unique human organism is constituted and begins borrowing from the Pool in its own right."
+"A new human life begins at fertilization, marked by the zinc spark: the empirically observable moment when a genetically unique human organism is constituted and begins borrowing from the Pool in its own right."
 
 Crucially, this framework admits to a "Pragmatic Species-Partiality." While we reject human cosmic importance, we choose to grant humans specific moral protection because we are human moral agents constructing human ethics. Acknowledging this tension is central to the epistemic humility we prize. We aren't claiming embryos are "holy," but that our solidarity begins at the point of individual existence.
 
@@ -50,7 +50,7 @@ Crucially, this framework admits to a "Pragmatic Species-Partiality." While we r
 
 We often view our lives as personal possessions. Agnostic Deism suggests we are instead "temporary vessels" of a shared current. Life is not a unique soul, but energy borrowed from a universal thermodynamic economy, the Infinite Pool.
 
-This leads to the Annihilation of the Ego. When we die, our "User Data", memories, personality, and self-awareness, is permanently deleted because the hardware (the brain) is destroyed. However, the energy itself, the current, is never destroyed. It simply returns to the Pool to be organized by the next form of life.
+This leads to the Annihilation of the Ego. Our "User Data" (memories, personality, and self-awareness) depends profoundly on the brain, so when that hardware is destroyed, the framework holds that the personal pattern is permanently deleted. This is a strongly supported inference rather than an observation: no one reports back. Whether consciousness as such ends with the pattern is a separate question the framework leaves open, but the person we know does not survive the brain that sustained it. However, the energy itself, the current, is never destroyed. It simply returns to the Pool to be organized by the next form of life.
 
 There is a quiet solace in this participation. Think of it through the "Coat and the Winter" analogy: we accept that winter (death) is inevitable, yet we still wear a coat (we care for life and seek to delay its end). Accepting our mortality does not mean we must resent it or welcome it prematurely. Nor does it mean pretending death is good: the end of a pattern is a real loss to the one who dies, and every future they would have authored goes with it. It means accepting the "shutdown" of our personal runtime as real, without imagining it as rest, since no one remains to experience rest. The pattern ends; the energy does not disappear into a void. We are returning a borrowed resource after our brief turn at the controls.
 
