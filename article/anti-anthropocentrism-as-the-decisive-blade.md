@@ -241,7 +241,7 @@ Chosen kinship extends the principle: bonds formed through mutual recognition of
 
 Rigorous ethical reasoning is not merely possible without cosmic moral authority. It is potentially more rigorous, because it cannot hide behind "God says so." It must show its work.
 
-The foundations available are observable and defensible: suffering (cross-species, measurable, requiring no cosmic framework to recognize); deprivation harm (the loss of a future that would otherwise have been experienced); the Open Future Principle (futures should not be foreclosed by others' choices when the being has a trajectory toward autonomous valuation); developmental trajectory (moral consideration tracking biological and cognitive development without requiring souls or cosmic importance).
+The foundations available are observable and defensible: suffering (cross-species, measurable, requiring no cosmic framework to recognize); deprivation harm (the loss of a future that would otherwise have been experienced); the Open Future Principle (choices made for a non-consenting being should not irreversibly foreclose its future options, grounded in uncertainty about what that being will come to value and in the irreversibility of the choice, not in any ranking of biological configurations); developmental trajectory (moral consideration tracking biological and cognitive development without requiring souls or cosmic importance).
 
 These are constructed foundations, honestly acknowledged as human products. They are no less serious for being human-made.
 
