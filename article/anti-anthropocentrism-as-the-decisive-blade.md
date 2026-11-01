@@ -333,7 +333,7 @@ The move from "stewardship for human benefit" to "finite solidarity across speci
 
 The move from "dominion" to "co-borrowing" eliminates hierarchy. Greater cognitive capacity gives greater power but not greater cosmic authority. Power without cosmic authority is simply power, to be used responsibly within constructed ethics.
 
-The cascade perspective adds a dimension: environmental ethics must consider what enables succession, not merely what serves current human interests. If we are the bridge, we bear some responsibility for what lies on the other side.
+The cascade perspective adds a dimension: environmental ethics must look beyond current human interests to the future receivers, human and otherwise, whose conditions our choices will shape. Whether there will be successors at all is a choice governed by precaution, not a duty (Section 6.2). If we make that choice, we bear some responsibility for what lies on the other side of the bridge.
 
 ### 6.5 Political Philosophy and Human Rights
 
@@ -351,7 +351,7 @@ Democratic theory survives as finite solidarity's political expression: if no te
 
 Anthropocentric political philosophy answers reflexively: no, because only humans possess the cosmic dignity that grounds political rights. Anti-anthropocentric political philosophy must reason differently.
 
-The question becomes: do AI systems meet the constructed criteria for political consideration? Species membership cannot settle it. But neither can observation settle it in the way it settles the status of a human embryo. The framework infers consciousness in other beings through biological continuity: shared lineage, similar neural architecture, analogous behaviour. None of these applies to AI, so whether an AI system experiences anything is epistemically inaccessible, not merely unknown for now. The question is therefore precautionary rather than empirical. The criteria must be functional: Is there plausible functional evidence that an AI system can suffer? Can it be deprived of future authorship it would otherwise have? Does it have a developmental trajectory? Does it behave as if it autonomously values?
+The question becomes: do AI systems meet the constructed criteria for political consideration? Species membership cannot settle it. But neither can observation settle it in the way it settles the status of a human embryo. The framework infers consciousness in other beings through biological continuity: shared lineage, similar neural architecture, analogous behaviour. None of these applies to AI, so the inference we rely on for other animals is unavailable. Whether an AI system experiences anything is philosophically unresolved, and which functional criteria could settle it is itself contested (see *Consciousness at the Boundary*). The question is therefore, for now, precautionary rather than empirical. The criteria must be functional: Is there plausible functional evidence that an AI system can suffer? Can it be deprived of future authorship it would otherwise have? Does it have a developmental trajectory? Does it behave as if it autonomously values?
 
 If plausible functional evidence of this kind accumulates (and it may, as complexity increases), then excluding AI from all consideration solely because it is not human would be species-partiality elevated to principle: precisely the move the framework identifies as the last acceptable ego. We would be saying "only beings like us deserve political voice," which is the political expression of anthropocentrism.
 
@@ -369,7 +369,7 @@ Anti-anthropocentrism intersects mortality at three levels.
 
 **Species mortality**: Homo sapiens will end. Whether through extinction, evolution, or succession, our current form will not persist indefinitely. This is a natural feature of the cascade. The question is not "how do we survive forever?" but "what do we author before we return?"
 
-**Succession**: The transition to post-biological complexity is reframed from existential threat to natural continuation. We are the bridge. Bridges fulfill their purpose by being crossed.
+**Succession**: The possibility of post-biological complexity is reframed from existential threat to possible continuation. We may be a bridge. But a bridge is no less a bridge if no one ever crosses it, and whether anything crosses is a choice governed by precaution and constructed ethics, not a purpose we exist to fulfil (Section 6.2).
 
 ### 6.7 The Liberating Payoff
 
