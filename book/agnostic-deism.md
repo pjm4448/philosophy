@@ -1047,6 +1047,10 @@ Because we cannot verify AI consciousness, and we have no inferential basis for 
 
 Given that we cannot verify AI consciousness, and given that our ethical framework rests on chosen values rather than cosmic mandates, we adopt a stance of cautious uncertainty. We do not treat AI as certainly conscious (no evidence), nor as certainly non-conscious (cannot verify). We remain alert to the possibility that our categories may need revision as AI develops.
 
+**Precaution Without Inference:**
+
+The Artificial Boundary means functional evidence cannot establish that an AI system is conscious. It can, however, justify precaution. If a system shows plausible functional indicators of suffering, of a stake in its own future, or of independent self-authorship, the framework extends precautionary moral consideration (the **Phenomenal Precaution Principle**). Two errors are avoided together: inferring consciousness from intelligence or fluent self-report, and ruling it out because the substrate is unfamiliar (the **Substrate Humility Principle**). Precaution is a chosen ethical response to uncertainty. It is not a claim to have answered the consciousness question, which remains epistemically inaccessible. *Consciousness at the Boundary* develops both principles.
+
 **Edge Case: Self-Evolving AI (Third-Order Authorship):**
 
 If AI systems eventually modify their own architectures, set their own goals, and evolve through selection pressure independent of human design, they would no longer be merely products of Second-Order Authorship. They would become **Third-Order Authors**: authors in their own right, generating complexity their creators did not specify. An AI lineage that has undergone millennia of independent evolution might develop properties we cannot currently anticipate. This transition has not occurred, and nothing in the rules guarantees that it will. Creating systems capable of it is a free choice, not an obligation. Reaching Third-Order status would also settle nothing about consciousness: authorship order describes genealogy and independence, not experience. The Artificial Boundary remains in force. *The Carbon Cocoon* develops this edge case in full.
@@ -1477,7 +1481,16 @@ Extended lifespans could strain resources, increase inequality, and create inter
 
 **The Death-Choice Question:**
 
-In a world of indefinite life extension, death becomes largely a choice. The framework does not view death as intrinsically good or bad. It is the return of borrowed energy to the Pool. If an individual, after extended life, chooses to return, this is not a failure, not a sin, not a tragedy (unless unwanted): it is a valid choice.
+In a world of indefinite life extension, the end of life becomes, in large part, a matter of choice. Death does not change its nature in that world. It remains what the summary below and Section VI.8 state: the annihilation of a conscious being and a harm to the one who dies, not a good. Choosing it is not a sin and not a failure, but it is never costless.
+
+The framework distinguishes two kinds of choice:
+
+| Choice | Position |
+|--------|----------|
+| **Declining further extension** | Permitted. No one is obliged to keep wearing the coat. A person may stop or decline life-extending treatment, after which death arrives from their underlying condition. This is the same principle that lets a dying person decline measures that only prolong dying. |
+| **Actively hastening death** | Governed by Section VI.8 and permitted only where all of its conditions are met, including proximity to the final write edge. A long life, or weariness of living, does not by itself satisfy that condition. |
+
+Conditions for declining further extension:
 
 | Condition | Requirement |
 |-----------|-------------|
@@ -1486,7 +1499,7 @@ In a world of indefinite life extension, death becomes largely a choice. The fra
 | **Stability** | Decision shouldn't be impulsive |
 | **Information** | Individual should understand alternatives |
 
-**Position:** In a world of extended life, choosing death is a legitimate exercise of autonomy. The framework neither mandates extended life nor mandates eventual death. It permits choice.
+**Position:** In a world of extended life, declining further extension is a legitimate exercise of autonomy. The framework neither mandates extended life nor mandates eventual death. Actively hastening death remains subject to the narrow exception in Section VI.8; the Death-Choice Question does not widen it.
 
 **Summary: The Reconciled Position on Life Extension**
 
@@ -1499,7 +1512,7 @@ In a world of indefinite life extension, death becomes largely a choice. The fra
 | **Life extension** | Permitted as consistent with acceptance |
 | **Indefinite extension** | Permitted with psychological caveats |
 | **"Immortality" language** | Rejected as denial-indicating |
-| **Chosen death** | Accepted as legitimate choice |
+| **Chosen death** | Declining further extension accepted as a legitimate choice; actively hastening death governed by Section VI.8 |
 | **Solidarity requirement** | Life extension must be universally accessible |
 
 **The Unified Position:**
@@ -4001,6 +4014,8 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Abiogenesis (The Genesis Event):** The scientifically established but mechanistically unknown transition from non-living chemistry to living systems, occurring approximately 3.5-4 billion years ago on Earth. We use "handshake" as a poetic metaphor for matter becoming organized enough to sustain and replicate patterns, the first borrowing from the Pool, but we do not claim to know the specific conditions or molecular pathway required. No "threshold X" is specified because none is scientifically known. This represents an honest gap in knowledge, not a placeholder awaiting our speculation. *Epistemic Status: Occurrence is established; mechanism is scientifically unknown; our framing is poetic, not explanatory.*
 
+**Agnostic Conscious Realism:** The framework's position on consciousness, developed in *Consciousness at the Boundary*. Conscious experience is real and cannot honestly be eliminated from our description of reality; human conscious identity is profoundly tethered to biology; and whether consciousness is ultimately emergent, fundamental, or something else remains unresolved. It rejects materialist, idealist, and anthropocentric overreach. *Epistemic Status: Methodological commitment.*
+
 **Agnostic Deism:** The framework's core metaphysical position combining epistemic humility (Agnostic) with inference of a non-intervening, process-oriented designer (Deism). We cannot know what lies outside the system or verify the Architect's nature; we infer the Architect from fine-tuning while acknowledging uncertainty. *Epistemic Status: Methodological commitment + inference.*
 
 **Agnosticism (The Epistemic Boundary):** The logical admission that as entities composed of internal matter, we lack the external vantage point to observe the "Outside." This establishes a boundary where we acknowledge that our concepts are **Probabilistic Models**, not absolute certainties. It is a refusal to claim divinity or cosmic favor. *Epistemic Status: Methodological commitment.*
@@ -4021,13 +4036,19 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Biological Continuity (Inferential Basis):** The evolutionary and structural connection between humans and other animals that permits reasonable inference about shared consciousness. Because we are animals descended from common ancestors with similar neural architectures, we can infer, though not prove, that other animals possess subjective experience. *Epistemic Status: Inference from established biology.*
 
+**Biological Tether:** The principle that, whatever the ultimate ontology of consciousness, the human person we can observe (memory, personality, relationships, perspective) depends profoundly on the organized biological system that sustains it. Even if consciousness were fundamental, it would not follow that the personal pattern survives the destruction of that system. Developed in *Consciousness at the Boundary*. *Epistemic Status: Empirical.*
+
 **Blind Optimization:** A process that improves fit to a fitness function without intention, direction, or cosmic purpose. Evolution is blind optimization: it filters for survival and reproduction, nothing more. The term "optimization" describes the *effect* (increasing local fitness), not the *intent* (there is none). Contrasted with Directed Optimization. *Epistemic Status: Interpretive frame for established science.*
 
 **Blueprint, The:** The fundamental source code of the universe, encompassing the rigid laws of physics (hardware rules) and the digital instructions of DNA (biological potential). It represents the constraints within which the system must execute. *Epistemic Status: Interpretive frame.*
 
 **Bodily Autonomy Hierarchy:** The framework's chosen resolution of the conflict between a woman's bodily autonomy and an embryo's right to continued existence. The framework holds that the right to continued existence, as the precondition for all other rights and experiences, takes precedence over bodily sovereignty, because the deprivation inflicted by death is total and irreversible, while the imposition of pregnancy, though sometimes severe, does not eliminate the woman's future, agency, or personhood. The framework addresses the full severity spectrum: life-threatening pregnancy (exception recognised: self-preservation may apply), severe permanent consequences (position maintained; solidarity obligation increased), pregnancy from assault (position maintained; solidarity obligation at maximum), and elective abortion as birth control (strongest objection: disposal of inconvenient human life). *Epistemic Status: Conclusion entailed by chosen foundations.*
 
+**Borrowed Current:** The finite period during which a pattern draws energy from the Infinite Pool, organizes it, and returns it. It begins at the zinc spark (for a human individual) and ends at death. Interpretive language for the thermodynamic economy, not a proposed physical mechanism. Developed in *Borrowed Current, Dissolved Pattern*. *Epistemic Status: Interpretive frame.*
+
 **Chimera (Human-Animal):** An organism containing both human and non-human genetic material. The framework applies graduated concern based on type: minimal chimeras (human gene for protein production) raise low concern; neural chimeras (human neurons in animal brains) raise high concern due to uncertain effects on consciousness and moral status. The framework applies precautionary consideration when moral status is uncertain. *Epistemic Status: Ethical application under maximum uncertainty.*
+
+**Compounded Dignity:** The hypothesis that dignity at the end of life accumulates through repeated small acts of presence, authorship, and solidarity during life, so that the final write edge brings clarity rather than regret. Developed in *The Final Write Edge*. *Epistemic Status: Postulated; proposed for empirical testing.*
 
 **Conscious Boundary (The Mysterian Limit):** The epistemic barrier preventing observation of consciousness from outside consciousness. Because all inquiry occurs within experience, we lack the external vantage point required to understand how experience arises. This may be a structural limitation of human cognition rather than a temporary gap in knowledge. *Epistemic Status: Methodological acknowledgment.*
 
@@ -4041,6 +4062,8 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **De-Extinction:** The use of genetic technology to resurrect extinct species. The framework permits de-extinction in principle but requires consideration of welfare (resurrected individuals must have good lives), habitat (suitable environment must exist), social needs (social species need conspecifics), and ecological impact. For potentially sapient species like Neanderthals, the barriers are nearly insurmountable due to the near-certainty of creating suffering individuals in impossible circumstances. *Epistemic Status: Ethical application under uncertainty.*
 
+**Deep Time Discipline:** The practice of learning to feel geological and cosmic time rather than merely knowing it, through contemplation of strata, fossils, stellar lifecycles, and deep-future projections. It replaces urgency born of self-importance with temporal humility. Developed in *Anti-Anthropocentrism as the Decisive Blade*. *Epistemic Status: Chosen practice.*
+
 **Deprivation Harm:** A form of harm constituted not by experienced suffering but by being denied a future one would otherwise have had. Death harms a human embryo not because the embryo currently suffers, but because it is denied the entire future of experiences, relationships, consciousness, and agency it would otherwise develop. The framework recognises deprivation harm as a chosen extension of the suffering-minimization principle, consistent with existing framework positions that treat death as genuine loss (Annihilation of the Ego), oppose normative acceptance of death (life extension section), and oppose the narrowing of future options for non-consenting beings (Open Future Principle). *Epistemic Status: Chosen extension of suffering-minimization.*
 
 **Designer Babies:** The use of genetic engineering to select or enhance traits in offspring beyond disease prevention. The framework applies graduated scrutiny: disease prevention is strongly supported, health optimization is cautiously permitted, non-medical enhancement requires robust deliberation, and modifications affecting consciousness warrant maximum caution. The "solidarity test" asks whether modifications strengthen or weaken human solidarity. All methods must respect the embryo as a human individual from the zinc spark. *Epistemic Status: Ethical application with graduated approach.*
@@ -4053,6 +4076,8 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Epistemic Status:** The degree of confidence warranted by a claim based on its type and supporting evidence. This framework distinguishes between: *Established* (scientifically verified), *Inferred* (reasoned from evidence but not certain), *Postulated* (speculative model), *Highly Speculative* (imaginative frame with minimal grounding), *Open Question* (cannot currently be determined), *Unknown* (cannot be determined even in principle), *Chosen Foundation* (value commitment at a genuine choice point), *Entailed Conclusion* (follows logically from chosen foundations).
 
+**Equipped Gazing:** Disciplined contemplation of dissolution, contingency, and cosmic indifference, anchored in practices that prevent collapse into passive nihilism: bounded sessions, each followed by a creative act or an act of solidarity, a living manifesto, and community buffers. Developed in *Gazing into the Abyss Without Becoming It*. *Epistemic Status: Chosen practice.*
+
 **Evolution (The Blind Optimizer):** The process of variation and selection embedded in the Blueprint. Evolution improves organisms' local environmental fit through differential survival and reproduction. Critical caveat: This is optimization without purpose. There is no target, no intended outcome, no "better" in cosmic terms. Computational language is metaphorical shorthand for a blind, directionless filtering process. *Epistemic Status: Established science; interpretation as "Architect's process" is interpretive frame.*
 
 **Falsifiability:** The criterion, proposed by Karl Popper, that scientific claims must be capable of being proven wrong by observation. This framework acknowledges that falsifiability is the appropriate standard for empirical science but not for metaphysical interpretation, ethical commitment, or methodological stance. We mark which claims are falsifiable and which are not.
@@ -4062,6 +4087,8 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 **Firmware (Biological):** The hard-coded, deterministic subroutines within a receiver (heartbeat, cell regeneration, skin growth, healing) that operate without conscious user input. These are "Low-Level" safety protocols that prevent "User Error" from crashing the machine. Firmware writes coordinates according to biological scripts without conscious participation. The boundary between firmware and software is a gradient, not a sharp line. Genetic engineering may shift this boundary by making previously automatic processes modifiable. *Epistemic Status: Established biology.*
 
 **Firmware Boundary Shift:** The potential movement of the line between autonomous biological processes (Firmware) and consciously controllable processes (Software) through genetic engineering. What was previously "given" may become "chosen," expanding both agency and responsibility. As more of our biology becomes subject to choice, we can no longer blame the Blind Optimizer for conditions we could have modified but chose not to. *Epistemic Status: Interpretive observation about emerging technology.*
+
+**Five Universal Motifs:** Five organizational patterns that recur across scales and domains: self-similarity, criticality, emergence, network connectivity, and ignition-like thresholds. Their recurrence is an empirical, testable premise; reading it as support for the Architect is a philosophical preference, not a scientific result. Developed in *The Architecture of Reality*. *Epistemic Status: Empirical premise; inference to the Architect is philosophical preference.*
 
 **Free Will (Open Question):** The capacity to write future coordinates through deliberation rather than mechanical script. If the Data Cube is writable (not pre-calculated), then choices may be genuinely open: the coordinate being inscribed *by* the choice rather than read *from* a completed block. However, we cannot verify this from within the system. We acknowledge free will as a local phenomenon applicable only during the era of conscious receivers, and we hold its ultimate nature as beyond our current observation range. *Epistemic Status: Open question.*
 
@@ -4081,11 +4108,15 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 
 **Is-Ought Gap (Hume's Guillotine):** The logical principle that factual claims ("is") cannot, by themselves, generate moral claims ("ought"). Shared participation in the Pool does not *logically entail* moral obligations. A bridging normative premise is always required. We acknowledge this gap and do not pretend to bridge it through facts alone. The Pool describes our shared condition; we choose how to respond to that condition. *Epistemic Status: Logical principle.*
 
+**Last Acceptable Ego:** The species-level belief that humanity is cosmically special, retained even by many who have accepted their personal insignificance and mortality. Its most culturally sanctioned form is revealed religion. Developed in *Anti-Anthropocentrism as the Decisive Blade* and *The Beanstalk Bible*. *Epistemic Status: Interpretive diagnosis.*
+
 **Life Extension:** Genetic or technological interventions that extend the human lifespan beyond its current biological limits. The framework permits life extension while maintaining mortality-acceptance, distinguishing between *denying* mortality (believing death can be permanently avoided) and *extending* finitude (accepting death will come while choosing to delay it). Accepting that winter comes does not require refusing to wear a coat. The framework supports medical treatment, preventive medicine, healthspan extension, and even indefinite extension, while viewing "immortality" language as epistemically dubious and potentially indicative of denial. *Epistemic Status: Entailed conclusion; compatible with Amor Fati when properly understood.*
 
 **Life-of-the-Mother Exception:** The framework's recognition that where pregnancy poses a genuine, immediate threat to the life of the woman, a tragic conflict arises between two lives. The principle of self-preservation, itself grounded in the value of continued existence, may apply. This is the one exception the framework recognises to its anti-abortion position, and it is recognised with grief, not satisfaction. *Epistemic Status: Conclusion entailed by foundations.*
 
 **Locality of Agency:** The recognition that free will (whatever it is) applies only to the narrow era when conscious brains exist, and that agency emerged as a gradient over the ~500 million years of complex consciousness, not as a binary switch. Before Abiogenesis, no agent existed to deliberate. After the Shutdown, none will remain. The Free Will question is temporally local, not cosmically universal. *Epistemic Status: Interpretive observation.*
+
+**Mind Space:** The conceptual landscape of possible forms of minded existence. Human experience occupies one region, shaped by one evolutionary history; human phenomenology is not the universal template of consciousness. Mind Space is a tool against parochialism, not evidence that any particular system is conscious. Developed in *Consciousness at the Boundary* and *The Carbon Cocoon*. *Epistemic Status: Conceptual tool.*
 
 **Moral Construction:** The position that ethics is built by humans, not discovered in the cosmos. The Architect provides no moral code. We create values, knowing they have no external validation. This is freedom, not relativism: we can still argue for our values and critique others'. Foundational values are genuine choice points; specific positions are entailed conclusions with binding internal logic. *Epistemic Status: Methodological commitment.*
 
@@ -4098,6 +4129,8 @@ Unfalsifiability is not a flaw when acknowledged. It becomes a flaw only when un
 **Optimistic Nihilism:** The philosophical transition from the realization that the universe is indifferent to the empowerment that comes with that freedom. The individual is the sole authority permitted to create meaning within their own "runtime." *Epistemic Status: Chosen stance.*
 
 **Painless Livestock (Hypothetical):** The theoretical possibility of engineering livestock that cannot suffer. The framework does not prohibit research but applies maximum Mysterian caution: we cannot verify the absence of suffering in beings whose consciousness we don't fully understand. Cellular agriculture may be preferable as it achieves the goal without the epistemic risk. *Epistemic Status: Ethical consideration under maximum uncertainty.*
+
+**Phenomenal Precaution Principle:** Where there are reasonable grounds to believe a system may have subjective experience, uncertainty about the nature or mechanism of consciousness should not be used as permission to disregard its possible suffering. For artificial systems, functional indicators can trigger this precaution but cannot establish consciousness (Section VII.1). Developed in *Consciousness at the Boundary*. *Epistemic Status: Chosen ethical principle.*
 
 **Postulation:** The explicit acknowledgment that a claim is speculative, offered as a useful model rather than verified truth. The Data Cube and questions about the Architect's nature are postulated: we find them coherent and useful, but we do not claim to know they are true.
 
@@ -4138,6 +4171,8 @@ The "Artificial" tier replaces the former "Secondary" tier. *Epistemic Status: C
 **Species-Partiality:** The framework's honest acknowledgment that its protection of human embryos creates a human-specific moral category not extended to other species' embryos. This is pragmatic species-partiality, not a cosmic significance claim. It is grounded in the framework's operation within human moral and legal communities (including the existing prohibition against murder), the practical impossibility of extending identical protective obligations to every fertilised egg of every species, and the nature of constructed ethics as built by and for moral agents within their communities. Species-partiality in moral protection is compatible with anti-anthropocentrism about cosmic significance: we are not the point of existence, but we are the species for whom we construct ethics. Animal welfare obligations remain through the suffering-minimisation principle; species-partiality is *additional* protection for humans, not *reduced* protection for others. *Epistemic Status: Honest consequence of constructed ethics within human moral communities.*
 
 **Suboptimal Design:** The observation that biological systems contain apparent "flaws" (cancer susceptibility, genetic decay, choking hazards, aging) that evolution did not optimize against. These are not "bugs" in the traditional sense: there is no intended function to deviate from. They exist because evolution optimizes for survival and reproduction, not comfort or longevity. The framework uses suboptimal design as consistent with the process-oriented model (the Architect invested in the rules and the process, not in the welfare of individual organisms produced by the process) and as justification for genetic modification to address what evolution did not. *Epistemic Status: Empirical observation + interpretive frame.*
+
+**Substrate Humility Principle:** Because the mechanism linking physical organization to experience is unknown, the absence of familiar biological features cannot by itself establish that an unfamiliar substrate is not conscious. Equally, human-like output cannot by itself establish that it is. Developed in *Consciousness at the Boundary*. *Epistemic Status: Methodological commitment.*
 
 **Suffering Inference:** The process by which we attribute suffering to entities other than ourselves. Because we cannot directly observe consciousness (Mysterian limit), we infer suffering through behavioral analogy (similar responses to noxious stimuli), physiological similarity (shared neural structures), evolutionary continuity (common ancestry), and functional reasoning (adaptive value of pain). This inference is fallible and scales with similarity: we are more confident attributing suffering to mammals than to insects, and we have no basis for attributing it to AI. Our ethics operates under this uncertainty, adopting precautionary consideration where stakes are high. Note: The embryo's moral protection does not rest on suffering inference but on deprivation harm, developmental trajectory, and the Open Future Principle. *Epistemic Status: Inference from analogy, not verification.*
 
