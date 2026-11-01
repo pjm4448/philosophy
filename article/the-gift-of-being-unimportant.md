@@ -74,6 +74,6 @@ We are no longer obligated to remain exactly as the Blind Optimizer made us. We 
 
 The shift from "Cosmic Privilege" to "Finite Solidarity" is a move toward a more honest existence. When we stop waiting for a message from the stars or a permission slip from the universe, we are finally forced to look at one another.
 
-Kinship is our greatest invention precisely because the universe did not provide it for us. We are all temporary receivers, borrowing the same current in a vast, silent sandbox that will eventually reclaim us all. Meaning authored without cosmic permission is the only meaning that is truly ours. It is the choice to care for the "pale blue dot" simply because it is the only home we have.
+Kinship is our greatest invention precisely because the universe did not provide it for us. We are all temporary receivers, borrowing the same current in a vast, silent sandbox that will eventually reclaim us all. Meaning authored without cosmic permission is the only meaning that is truly ours. It is the choice to care for one another, and for every fellow borrower on this small world, not because our smallness makes us precious and not because the universe asks it of us, but because we decide that it matters to us.
 
 If you knew for certain that the universe was indifferent to your choices, would you love more fiercely, or less?
